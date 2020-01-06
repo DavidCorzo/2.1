@@ -1,0 +1,11 @@
+# Ignore everything
+*.synctex.gz
+*.gz 
+*.synctex
+*.fdb_latexmk
+*.aux
+*.log
+*.toc
+*.py
+*.yml
+*.yaml
