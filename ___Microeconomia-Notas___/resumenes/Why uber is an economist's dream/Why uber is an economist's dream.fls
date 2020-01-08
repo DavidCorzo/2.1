@@ -1,11 +1,11 @@
-PWD d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___
+PWD d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream
 INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.tex
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.log
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.tex
+OUTPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.log
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
@@ -110,7 +110,7 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\nul:.tex
+INPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\nul:.tex
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
@@ -283,9 +283,9 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ups
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
+INPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.aux
+INPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.aux
+OUTPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.aux
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
@@ -305,7 +305,7 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\n
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.pdf
+OUTPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.pdf
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
@@ -333,13 +333,11 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmro10.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
@@ -354,32 +352,21 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\ams
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\01.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\01.tex
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmri10.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbxi10.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT d:\___MaStEr_CrEaTiOnTeX___\Why uber is an economist's dream\Why uber is an economist's dream.aux
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
