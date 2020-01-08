@@ -1,0 +1,4 @@
+Nuevas adiciones:
+    - Agregar una carpeta de libros fuera del repositorio
+    - Hacer un folder de dependencias en cada clase para escribir la hora inicial de cada archivo y no poner una nueva.
+        - dentro de este folder crear un archivo txt/yml para poder escribir la fecha la primera vez junto con el título que se quiere tener 
