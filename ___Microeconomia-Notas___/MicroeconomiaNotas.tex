@@ -39,18 +39,21 @@
 \usepackage{amssymb}
 \usepackage{pifont}
 \usepackage{longtable}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{settings.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \maketitle
 \tableofcontents
 
-\chapter{Clase introductoria}
+\chapter{Clase introductoria - 2020-01-06}
 \input{Clases/01.tex}
 
 \chapter{Clase socrática - 2020-01-08}
 \input{Clases/02.tex}
 
 \chapter{Clase revisión de clase pasada - 2020-01-13}
-\input{Clases/03.tex}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{Micro.pdf}
+
 
 \end{document}

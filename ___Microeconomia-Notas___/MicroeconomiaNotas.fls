@@ -283,6 +283,12 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ups
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings\page.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings\page.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings\chapter_head_font_whole_page.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\settings\chapter_head_font_whole_page.tex
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
 OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
@@ -336,7 +342,7 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\ams
 INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmro10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm2488.tfm
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
@@ -355,8 +361,24 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\ams
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.toc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm3583.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1728.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ec-lmssbx10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmsy10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\01.tex
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\01.tex
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
@@ -365,10 +387,35 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbxi10.tfm
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\02.tex
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\03.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Clases\03.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\Micro.pdf
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\MicroeconomiaNotas.aux
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm3583.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2488.pk
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
