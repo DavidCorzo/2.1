@@ -1,11 +1,11 @@
-PWD d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___
+PWD d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford
 INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.tex
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.log
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cls
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk10.clo
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.tex
+OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.log
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
@@ -110,7 +110,7 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\nul:.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\nul:.tex
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
@@ -283,9 +283,9 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ups
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\longtable.sty
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.aux
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.aux
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.aux
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.aux
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.aux
+OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.aux
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd
@@ -305,7 +305,7 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\n
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.pdf
+OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.pdf
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr8.tfm
@@ -333,13 +333,8 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\u
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmro10.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.toc
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.toc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
@@ -354,25 +349,9 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\ams
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.toc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\01.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\01.tex
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmtt.fd
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmtt10.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\03.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\Clases\03.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Estructura_de_Datos-Notas___\EstructuraDeDatosNotas.aux
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rmtt.enc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Microeconomia-Notas___\resumenes\ArticuloDeTrumpAndTimHartford\ArticuloDeTrumpAndTimHartford.aux
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
@@ -381,7 +360,3 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\l
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmtt10.pfb
