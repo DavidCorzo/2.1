@@ -23,7 +23,7 @@
 \end{itemize}
 \emph{\textbf{Definición de ``media":} es un número.}
 \begin{itemize}
-    \item Cuadno se agregan valores abnormales al promedio hace un cambio para arriba o para abajo que es significativo.
+    \item Cuando se agregan valores abnormales al promedio hace un cambio para arriba o para abajo que es significativo.
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -39,6 +39,7 @@
     
     \item Los datos de la media tienen que estar en orden ascendente para poder calcularse.
     \item El número que salga de mediana se usa la parte entera como límite inferior y el número redondeado para arriba es el límite superior, en los números pares.
+    \item Si el valor es un número impar se agarra el del medio, si el valor es un numero par se agarra el de floor(enmedio) y el roundedUp(floor(enmedio)).
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -55,7 +56,20 @@
     \item Es un número que nos dice qué porcentaje de los datos esta debajo de él.
     \item La mediana es igual al percentil 50.
     \item Es el límite superior en el cual el porcentaje dicta, el percentil 20 se interpreta como el 20\% de datos están debajo de él.
-    \item Diferencias entre percentil Exclusivo y Inclusivo: 
+    \item Percentil:
+        \[
+          i = \left(\frac{p}{100}  \right) \times n
+        \]
+        donde $p$ es percentil deseado, e $i$ es el índice.
+    
+    \item 
+        \begin{figure}[htbp]
+            \centering
+            \includegraphics[width=6cm]{Clases/Images/2020-01-14_01.jpeg} 
+            \caption{}
+            \label{}
+        \end{figure} 
+        
 \end{itemize}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -74,7 +88,6 @@
     \]
         \begin{itemize}
             \item Posiblemente hay más personas de baja estatura, por la media ser menor a la mediana.
-            \item 
         \end{itemize}
     
     \item \[
