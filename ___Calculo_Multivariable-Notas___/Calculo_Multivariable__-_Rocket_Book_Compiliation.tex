@@ -40,9 +40,19 @@
 \usepackage{pifont}
 \usepackage{longtable}
 \usepackage{multirow}
+\usepackage{titlesec}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
 \makeatletter \xpatchcmd{ \@makeschapterhead }{ \Huge \bfseries  #1\par\nobreak }{ \Huge \bfseries\centering #1\par\nobreak }{ \typeout{Patched makeschapterhead}}{\typeout{patching of @makeschapterhead failed} } \xpatchcmd{\@makechapterhead}{ \huge\bfseries \@chapapp \space \thechapter}{ \huge \bfseries \centering \@chapapp\space \thechapter }{ \typeout{Patched @makechapterhead}}{\typeout{Patching of @makechapterhead failed}}\makeatother
 
 \fancyhead{}\fancyfoot{}{\fontfamily{mc}\selectfont\fancyfoot[L]{\thepage}\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0pt}\fancyhf{}\fancyfoot[L]{\thepage}}}
+
+\titleformat{\chapter}[display]{\vfill\filcenter}{{\filcenter\fontsize{48pt}{48pt}\usefont{T1}{cm}{m}{{\centering\chaptername} \fontsize{80pt}{80pt}\selectfont\thechapter}}{5pt}{\Huge\usefont{T1}{cm}{b}{n} \parbox{\textwidth-\widthof{\LARGE\sffamil{\centering\chaptername}}}}[\vfill\clearpage]\titlespacing*{\chapter}{0pt}{0pt}{50pt}\titleformat{name=\chapter,numberless}[display]{\filcenter}{{}}{5pt}{\Huge\usefont{T1}{cm}{b}{n}\centering}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
 \maketitle
@@ -51,13 +61,3 @@
 \chapter{ RB\_2020-01-07\_18\_49\_53 }
 \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{RB/RB_2020-01-07_18_49_53.pdf}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\chapter{ RB\_2020-01-09\_09\_42\_27 }
-\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{RB/RB_2020-01-09_09_42_27.pdf}
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\end{document}
