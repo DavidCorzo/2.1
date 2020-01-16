@@ -337,9 +337,26 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmro10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Global Management and Entreprenurship - UFM.toc
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Global Management and Entreprenurship - UFM.toc
+OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Global Management and Entreprenurship - UFM.toc
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\01.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\01.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\02.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\02.tex
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmri10.tfm
+INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbxi10.tfm
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\03.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\03.tex
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx10.tfm
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\04.tex
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\04.tex
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr5.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\lmmi10.tfm
@@ -354,45 +371,9 @@ INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\ams
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmri10.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbxi10.tfm
-OUTPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Global Management and Entreprenurship - UFM.toc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr17.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\01.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\01.tex
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmr12.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\02.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\02.tex
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\ts1-lmr10.tfm
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbx12.tfm
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\03.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\03.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\04.tex
-INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\04.tex
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\lm\rm-lmbxi10.tfm
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\Images\2020-01-15-CicloDeVidaOrganizacion.jpeg
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\Images\2020-01-15-CicloDeVidaOrganizacion.jpeg
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\Images\2020-01-15-CicloDeVidaOrganizacion.jpeg
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\Images\2020-01-15-CicloDeVidaOrganizacion.jpeg
+INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Clases\Images\2020-01-15-CicloDeVidaOrganizacion.jpeg
 INPUT d:\___UFM-Cursos___\3_Semestre-[Enero-Mayo-2020]\____SumaDeCursosUFM2.1____\___Global_Management_and_Entrepreneurship_1-Notas___\Global Management and Entreprenurship - UFM.aux
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-mathsy.enc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-ts1.enc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\lm\lm-rm.enc
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbx12.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmbxi10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr12.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmr17.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmri10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmro10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
-INPUT C:\Users\DAVIDCORZO\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\lm\lmsy10.pfb
