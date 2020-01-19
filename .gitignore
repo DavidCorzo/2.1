@@ -7,3 +7,5 @@
 *.log
 *.toc
 *.fls
+*.lnk
+*.exe
