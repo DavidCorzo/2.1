@@ -6,6 +6,4 @@
 *.aux
 *.log
 *.toc
-*.py
-*.yml
-*.yaml
+*.fls
