@@ -1,0 +1,95 @@
+\section{Estructuras de datos $\neq$ Algoritmos}
+\begin{itemize}
+    \item \emph{\textbf{Interesante:} Algoritmos no implican código. }
+    \item 20\% de esfuerzo va a construir el 80\% del trabajo.
+    \item \emph{\textbf{Definición de ``Modularización":} proceso de dividir un algoritmo en varios módulos. Divide el problema en micro-problemitas.}
+    \item Top down approach: voy considerando las funcionalidades.
+    \item Bottom up approach: decido hacer una funcionalidad específica.
+    \item \emph{\textbf{Consultar el siguiente recurso:}} 
+        \begin{itemize}
+            \item Behaviour driven design 
+            \item Test driven design
+        \end{itemize}
+    
+    \item Algoritmo, tres bloques:
+        \begin{itemize}
+            \item Recrusos que va a necesitar 
+            \item Tiempo que se va a tardar 
+            \item Cantidad de memoria que se va a utilizar
+        \end{itemize}
+    
+    \item Time complexity:
+        \begin{itemize}
+            \item Running times 
+            \item Nos dice qué comportamiento va a tener 
+        \end{itemize}
+    
+    \item Time-Space Trade-off:
+        \begin{itemize}
+            \item Va ser útil tener una estructura de datos que pueda ocupar poco en memoria y al mismo tiempo tener una cantidad grande de operaciones.
+        \end{itemize}
+    
+    \item Expressing time and space complexity:
+        \begin{itemize}
+            \item Tiempo es muy importante.
+        \end{itemize}
+    
+    \item Eficiencia de una algoritmo:
+        \begin{itemize}
+            \item Un ciclo multiplica la complejidad del algoritmo.
+            \item Algunos algoritmos van a tener instrucciones ineficientes, cargar en memoria todos los datos y filtrarlos, esto es ineficiente. 
+        \end{itemize}
+    
+    \item Algorithm efficiency:
+        \begin{itemize}
+            \item Linear loops: la eficiencia es linal $y=x$.
+            \item Logarithmic loops: la eficiencia es logarítmicas $f(n) = \log_{10}(n)$
+            \item Quadratic \& doendent quadratic: $f(n) = n^{2}$
+        \end{itemize}
+    
+    \item Notations:
+        \begin{enumerate}
+            \item Big theta ($\Theta $): en el peor de los escenarios, me lleva un poco a la realidad, enfocada en etender los dos límites, inferior o superior, que son el mínimo p máximo que me voy a tardar.
+            \item Big O notation ($O$): lo contrario que omega, se basa en el peor escenario, \textbf{Nos preguntamos:} ¿cuanto se va a tardar en el peor de los casos?; \textbf{Pésima condición}.
+            \item Big omega notation ($\Omega $): el mejor escenario, nos da una notación en la que se puede decir que en el mejor de los casos dado un input $g(n)$ se va a tardar tal cantidad de tiempo. Si todo va bien $\rightarrow$ nos va dar una guía de escenarios óptimos en los que van a resultar.  \textbf{Si todo va bien puedo llegar a tal punto.}
+        \end{enumerate}
+    
+    \item Un algoritmo funcional va de la mano de algoritmos no funcionales. 
+    \item \textbf{Nos preguntamos:} ¿Cómo verifico si lo que cree es lo que me imaginé inicialmente?
+        \begin{center}
+           \begin{tabular}{ | p{5cm} | p{5cm} | p{5cm} | }
+               \hline
+                   Behaviour Driven Design & Specification Testing & $\downarrow$ Load testing     \\
+                   & Integration testing & \\ 
+                   Test driven design & Init testing & $\uparrow$ Profiling \\ 
+               \hline
+           \end{tabular}
+        \end{center}
+    
+    \item Observaciones: 
+        \begin{itemize}
+            \item Cosas difíciles de determinar es qué estructura de datos usar.
+            \item \emph{\textbf{Definición de ``specification testing":} basarse en lo más alto de especificación de un user story.}
+            \item \emph{\textbf{Definición de ``integration testing":} CI, continous integration.}
+            \item \emph{\textbf{Definición de ``load testing":} simular muchas interacciones con tu sistema, mecanismo que genera de manera dinámica simulación de uso en exceso.}
+                \begin{itemize}
+                    \item Genero volumen
+                    \item Genero Uso 
+                    \item Pero no me dice qué pasó solo en $n$ cantidad de usuarios en un determinado momento con mi aplicación. 
+                \end{itemize}
+
+            \item \emph{\textbf{Definición de ``profiling":} enfocado a entender qué está pasando en tiempo de ejecución.}
+                \begin{itemize}
+                    \item Call tree view 
+                    \item CPU usage 
+                    \item Memory usage 
+                    \item Time spent 
+                    \item Networking 
+                \end{itemize}
+        \end{itemize}
+    
+    \item Transformaciones: 
+        \begin{itemize}
+            \item Las manipulaciones en transformaciones 
+        \end{itemize}
+\end{itemize}
