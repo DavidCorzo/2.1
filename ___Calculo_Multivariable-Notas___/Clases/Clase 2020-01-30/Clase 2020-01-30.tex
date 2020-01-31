@@ -1,0 +1,246 @@
+\documentclass{article}
+\title{Clase 2020-01-30}
+\author{David Gabriel Corzo Mcmath}
+\date{2020-Jan-30 10:22:58}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{listing}
+\usepackage{spverbatim}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{longtable}
+\usepackage{tikz-3dplot}
+\usepackage{esvect}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\section{Resolución de corto}
+\begin{itemize}
+    \item Determine el área del triángulo entre los puntos P(), Q(), R():
+        \begin{align*}
+            \vec{a} = \vv{PQ} = \left\langle 4,3,-2 \right\rangle \\ 
+            \vec{b} = \vv{PR} = \left\langle 5,5,1 \right\rangle \\ 
+            \text{  Área  } = \frac{1}{2} \left| \vec{a} \times  \vec{b} \right| \\ 
+            \begin{vmatrix}
+                \hat{i} & \hat{j} & \hat{k} \\ 
+                4 & 3 & -2 \\ 
+                3 & 5 & 1 \\ 
+            \end{vmatrix} = 13 \hat{i} - 14 \hat{j} + 5 \hat{k} \\  
+            \text{  Área  } = \frac{1}{2} \sqrt[]{} \\ 
+        \end{align*}
+
+\end{itemize}
+    
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Rectas y planos}
+\begin{itemize}
+    \item Ecs. Rectas: $\vec{r}= \vec{r_0} + t \vec{v}$ 
+        \begin{align*}
+            \text{  si  } a \neq b \neq c \neq 0    \quad \frac{x-x_0}{a} = \frac{y-y_0}{b} = \frac{z-z_0}{c}  \\ 
+        \end{align*}
+    
+    \item Paramétricas:
+        \begin{align*}
+            x = x_0 +at \\ 
+            y = y_0 +bt \\ 
+            z = z_0 +ct \\ 
+        \end{align*}
+    
+    \item Ecuación de plano:
+        \begin{align*}
+            \hat{n} = \cdot \vec{r}-\vec{r_0} \\ 
+            a(x-x_0)+b(y-y_0) + c(z-z_0) = 0 \\ 
+            \hat{n}= \vec{a} \times  \vec{b} \\ 
+        \end{align*}
+\end{itemize}
+
+\subsection{Ejercicios}
+\begin{enumerate}
+    \item Considere los planos $x+y=0$ \& $x+2y+z=1$.
+        \begin{enumerate}
+            \item Determine si los planos son paralelos so no lo son encuentre el ángulo entr ellos:
+                \begin{align*}
+                    \hat{n_1} = \left\langle 1,1,0 \right\rangle \\ 
+                    \hat{n_2} = \left\langle 1,2,1 \right\rangle \\ 
+                    \therefore \text{  Los dos planos no son paralelos  } \\ 
+                \end{align*}
+                \begin{itemize}
+                    \item El $\hat{n_1}$ \& $\hat{n_2}$ no son necesariamente ortogonales.
+                \end{itemize}
+                \begin{align*}
+                    \cos \theta = \frac{\hat{n_1}\cdot\hat{n_2}}{\left| \hat{n_1} \right|\left| \hat{n_2} \right| } = \frac{3}{\sqrt[]{2}} \\ 
+                    \cos \theta = \frac{3}{2\sqrt[]{3}}=\frac{\sqrt[]{3}}{2} \qquad \theta = \frac{\pi}{2} \\   
+                \end{align*}
+        \end{enumerate}
+    
+    \item Encuentre la ec. de la recta que interseca a ambos planos $x+y=0$ \& $x+2y+z=1$: 
+        \begin{align*}
+            r = \vec{r_0} + t \vec{v} \\ 
+            \text{  Dos puntos sobre la recta  } \\ 
+            \text{  Como la recta esta en ambos planos, se debe resolver el sig. sistema de ecuaciones  } \\ 
+            x + y = 0 \implies x=-y \\ 
+            x+2y+z=1 \implies y = z-1 \\ 
+            \text{  z tiene cualquier valor, ahora encontrar escogiendo cualquier punto sobre la recta, en este caso 0   } \\ 
+            \text{  Primer punto   } \quad z & = 0 \\
+            y &= 1\\ 
+            x & = -1 \\ 
+            \therefore \left\langle -1,1,0 \right\rangle \\ 
+            \text{  Segundo punto  } \quad z &= 1 \\ 
+            y & = 0 \\ 
+            x & = 0 \\ 
+            \therefore \left\langle 0,0,1 \right\rangle \\ 
+        \end{align*}
+    
+    \item Encuentre la ecuación de la recta que pasa por P(-1,1,0) y Q$\underbrace{(0,0,1)}_{r_0}$:
+        \begin{align*}
+            \vec{r_0} = \left\langle 0,0,1 \right\rangle \! \left\langle -1,1,0 \right\rangle \\ 
+            \vec{v} = \vv{QP} 0 \left\langle -1,1,-1 \right\rangle \\ 
+            \text{  Ecuaciones paramétricas de la recta:  } \\ 
+            x = 0-t \quad y = 0 + t \quad z = 1-t \\ 
+        \end{align*}
+    
+    \item Solución alterna:
+        \begin{align*}
+            x = -y \quad y = 1-z \quad \text{  Más incognitas que ecuaciones.  }\\
+            x,y \; \text{  ó   }\; z \text{  \quad pueden tener cualquier valor  } \quad z=t \\ 
+            \begin{matrix}
+                x = -1 + t \\ 
+                y = 1 - t \\ 
+                t = t \\ 
+            \end{matrix} \therefore v_2 = \left\langle 1,-1,1 \right\rangle  \quad \vec{r_0} = \left\langle -1,1-0 \right\rangle \\ 
+        \end{align*}
+    
+    \item Solución geométrica:
+        \begin{itemize}
+            \item Encuentre un punto en ambos planos (0,0,1).
+            \item L arecta está en el plano I, entonces la recta es perpendicular al vector normal del plano I.
+            \item Está en el plano z, entonces también es perpendicular al segundo vector normal.
+            \item $\therefore $ la recta es perpendicular a ambos $\hat{n_1}$ \& $\hat{n_2}$
+                \begin{align*}
+                    \vec{v} = \hat{n_1} \times \hat{n_2} = \begin{vmatrix}
+                        \hat{i} & \hat{j} & \hat{k} \\ 
+                        1 & 1 & 0 \\ 
+                        1 & 2 & 1 \\ 
+                    \end{vmatrix} = \hat{i} - \hat{j} + \hat{k} \\ 
+                    \text{  Ecuación de la recta:  } \quad r = \left\langle 0,0,1 \right\rangle + t \left\langle 1,-1,0 \right\rangle \\ 
+                \end{align*}
+        \end{itemize}
+    
+    \item Ejercicio 3: Encuentre el punto en el que la línea recta $x=1+2t$, $y=4t$, $z=5t$ interseca al plano. $x-y+2z=17$.
+        \begin{align*}
+            \begin{matrix}
+                x = 1+2t \\ 
+                y = 4t \\ 
+                z= 5t \\ 
+            \end{matrix} \\ 
+            \text{  Plano  } \\ 
+            x-y+2z = 17 \quad 1+2t-4t+10t = 17 \\ 
+            8t = 16 \implies \therefore  t = 2 \\ 
+        \end{align*}
+        El punto de intersección es (5,8,10).
+    
+    \item Ejercicio 4: Encuentre una ec. del plano que contiene  la recta $x=1+t$, $y=2-t$, $z=4-3t$ y es paralela a plano $5x+2y+z=1$.
+        \begin{itemize}
+            \item Cualquier punto sobre la recta que también esté sobre el plano, t= 0. 
+        \end{itemize}
+        \begin{align*}
+            \text{  Evaluemos en t=0  } \quad x=1, \, y=2, \, z=4\\
+            \vec{r_0}= \left\langle 1,2,4 \right\rangle  \\ 
+        \end{align*}
+        \begin{itemize}
+            \item \textbf{Nos preguntamos:} ¿Cómo se encuentra $\hat{n}$?
+            \item El vectos de dirección de la recta $v=\left\langle 1,-1,-2 \right\rangle$ es paralelo al plano.
+            \item Como es paralelo al seguno plano, entonces tiene que ser perpendicular $\hat{n_2} = \left\langle 5,2,1 \right\rangle$
+            \item Lo que ocurre entonces es:
+        \end{itemize}
+            \begin{align*}
+                \vec{r_0} = \left\langle 1,2,4 \right\rangle \quad \hat{n}= \left\langle 5,2,1 \right\rangle \\ 
+                \text{  Ec. Plano:  } \, \implies \, 5(x-1) + 2(y-2)+1(z-4)=0 \\ 
+            \end{align*}
+    \item Ejercicio 5: Encuentre los números directores para la recta de intersección entre los planos $x+y+z=1$ \& $x+2y+3z=1$.
+            \begin{itemize}
+                \item \emph{\textbf{Definición de ``numeros directores":} a,b,c del vector de dirección $\left\langle a,b,c \right\rangle $}
+                \item La recta es ortogonal a ambos vectores normales:
+            \end{itemize}
+            \begin{align*}
+                \hat{n_1} = \left\langle 1,1,1 \right\rangle \quad text{ \& } \hat{n_2} = \left\langle 1,2,3 \right\rangle \quad \text{  de ambos planos  }\\
+                \vec{v} = \hat{n_1} \times \hat{n_2} = \begin{vmatrix}
+                    \hat{i} & \hat{j} & \hat{k} \\
+                    1 & 1 & 1 \\ 
+                    1 & 2 & 1 \\ 
+                \end{vmatrix}   = \hat{i} -2\hat{j} +\hat{k} \\ 
+                \text{  Los números directores:   } \quad a=1, b=2, c= 1 \\ 
+            \end{align*}
+    
+    \item Ejercicio 6: Encuentre las ecs. aparamétricas de la recta que pasa por el punto (0,1,2), que es paralelo al plano $x+y+z=2$ y es perpendicular a la recta $r = \left\langle -2t,0,3t \right\rangle $.
+            \begin{align*}
+               L_1 r= \vec{r_0}+t \vec{v} \quad r_0 = \left\langle 0,1,2 \right\rangle 
+            \end{align*}
+            \begin{itemize}
+                
+                \item Aclaraciones: $L_1$ es la incógnita que tenemos que encontrar.
+                \item \textbf{Nos preguntamos:} ¿Cómo se encuentra $r$?
+                
+                \item Plano I: $\hat{n} = \left\langle 1,1,1 \right\rangle $ es perpendicular al plano, es paralelo a $L_1$.
+                \item Recta II: $\hat{v_2}= \left\langle -2,0,3 \right\rangle $ es perpendicular a $L_1$
+                \item La recta es perpendiculae a $\hat{n}$ y a $\vec{v_2}$
+            \end{itemize}
+            \begin{align*}
+                v=\hat{n} \times \vec{v_2} = \begin{vmatrix}
+                    \hat{i} & \hat{j} & \hat{k} \\ 
+                    1 & 1 & 1 \\ 
+                    -2 & 0 & 3 \\ 
+                \end{vmatrix} = 3 \hat{i} - 5 \hat{j} + 2 \hat{k} \\ 
+                r_0 = \left\langle 0,1,2  \right\rangle \\ 
+                v = \hat{v_2} \times \hat{n} \quad \text{  Ecuaciones paramétricas:   } \\ 
+                \begin{matrix}
+                    x=0-3t \\ 
+                    y = 1-5t \\ 
+                    z = 2 +2t \\ 
+                \end{matrix} \\ 
+            \end{align*}
+            
+\end{enumerate}
+
+
+
+
+
+
+
+\end{document}
