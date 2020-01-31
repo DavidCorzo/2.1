@@ -39,10 +39,22 @@
 \usepackage{amssymb}
 \usepackage{pifont}
 \usepackage{longtable}
+\usetikzlibrary{shapes,arrows}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \maketitle
 \tableofcontents
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Begin block styles
+\tikzstyle{decision}=[diamond, draw, fill=white!20,text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block}=[rectangle, draw, fill=white!20,text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line}=[draw, -latex']
+\tikzstyle{cloud}=[draw, ellipse,fill=white!20, node distance=3cm,minimum height=2em]
+% End block styles 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 \chapter{Clase introductoria}
 \input{Clases/01.tex}
@@ -64,5 +76,8 @@
 
 \chapter{Clase - 2020-01-28}
 \input{Clases/07.tex}
+
+\chapter{Clase - 2020-01-30}
+\input{Clases/08.tex}
 
 \end{document}
