@@ -1,0 +1,83 @@
+\documentclass{book}
+\title{Cálculo Multivariable - Clases y apuntes de clase}
+\author{David Gabriel Corzo Mcmath}
+\date{2020-01-06}
+
+\usepackage{grffile}% Insert This first in order to have spaces in pdfpages 
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{listing}
+\usepackage{spverbatim}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{longtable}
+\usepackage{multirow}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% THIS IS TO CENTER AND DEDICATE A CHAPTER NAME AN ENTIRE PAGE 
+ \titleformat{\chapter}[display]{\vfill\filcenter}{{\filcenter\fontsize{48pt}{48pt}\usefont{T1}{cm}{m}{n}{\centering\chaptername}\fontsize{80pt}{80pt}\selectfont\thechapter}}{5pt}{\Huge\usefont{T1}{cm}{b}{n}\parbox{\textwidth-\widthof{\LARGE\sffamily{\centering\chaptername}}}}[\vfill\clearpage]\titlespacing*{\chapter}{0pt}{0pt}{50pt} 
+ % TO SEPATE WHOLE PAGE DEDICATION IN THE TABLE OF CONTENTS 
+\titleformat{name=\chapter,numberless}[display]{\filcenter}{{}}{5pt}{\Huge\usefont{T1}{cm}{b}{n}\centering}
+% MAKE THE TITLE OF THE CHAPTER CENTER!!
+\makeatletter\xpatchcmd{\@makeschapterhead}{\Huge \bfseries  #1\par\nobreak}{\Huge \bfseries\centering #1\par\nobreak}{\typeout{Patched makeschapterhead}}{\typeout{patching of @makeschapterhead failed}}\xpatchcmd{\@makechapterhead}{\huge\bfseries \@chapapp\space \thechapter}{\huge\bfseries\centering \@chapapp\space \thechapter}{\typeout{Patched @makechapterhead}}{\typeout{Patching of @makechapterhead failed}}\makeatother
+% Clear the header and footer
+\fancyhead{}\fancyfoot{} %
+% Set the right side of the footer to be the page number 
+{\fontfamily{mc}\selectfont\fancyfoot[L]{\thepage}\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0pt}\fancyhf{}\fancyfoot[L]{\thepage}}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\chapter{ 12.1 Sistemas tridimensionales de coordenadas }
+\includepdf[pages=-]{Clases/01--12.1 Sistemas tridimensionales de coordenadas.pdf}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\chapter{ 12.1.2 distancias y superficies básicas p15 }
+\includepdf[pages=-]{\detokenize{Clases/02--12.1.2 distancias y superficies básicas p15.pdf}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\chapter{ 12.1 Vectores p21 }
+%\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{Clases/03--12.1 Vectores p21.pdf}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

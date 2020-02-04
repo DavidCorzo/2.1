@@ -1,0 +1,63 @@
+\section{Strings}
+Los strings se almacenan de manera continua en memoria, se separan por medio de un \textbf{null byte} o \\0:
+\begin{itemize}
+    \item \[
+        \text{  \textbackslash  }0 = \text{  NULL  } = \text{  NIL  }
+    \]
+    
+    \item Hay varias maneras de inicializar un strings:
+        \begin{itemize}
+            \item char str[10]; // Lo declaro como un array y pide 10 bytes en memoria.
+            \item char str[]; // Lo declaro como una array de indefinida cantidad de posiciones.
+            \item char str[] = \{'h','e','l','l','o',\textbackslash0\}
+        \end{itemize}
+    
+    \item Cómo el compilador funciona: 
+        \begin{tikzpicture}[node distance = 2cm, auto]
+            \node [block] (1) {Código}; 
+            \node [block,below of=1] (2) {Compilado};
+            \node [block,below of=2] (3) {Assembler};
+            \node [block,below of=3] (4) {Lenguaje de máquina}; 
+            \path [line] (1) -- (2);
+            \path [line] (2) -- (3);
+            \path [line] (3) -- (4);
+        \end{tikzpicture}
+        \newline 
+    
+    \item Los strings son considerados como un array:
+        \begin{itemize}
+            \item Para sacar el lenght de un array:
+                \begin{Verbatim}[breaklines=true, breakanywhere=true]
+                    function len(){
+                        str = "hola";
+                        i = 0; 
+                        while (str[i] != NIL){
+                            i++; 
+                        }
+                        return i;
+                    }
+                \end{Verbatim}
+            
+            \item Estas operaciones de los strings tienen sus abstracciones en código de asembler.
+        \end{itemize}
+        
+    
+    \item \url{https://repl.it/languages/c} Para probar código de c en línea.
+        \begin{Verbatim}[breaklines=true, breakanywhere=true]
+            #include <stdio.h>
+
+            int main(void) {
+            char second_string[6] = {'h','e','l','l','o'};
+            printf("Second string: %s\n", second_string);
+
+            char third_string[6] = "Hello";
+            printf("Third string: %s\n", third_string);
+            printf("This is an element is one before NIL => \"%c\"\n",third_string[5]);
+
+            char string[] = "hello this doesn't delimit the memory size";
+            printf("String: %s\n",string);
+            
+            return 0;
+            }
+        \end{Verbatim}
+\end{itemize}
