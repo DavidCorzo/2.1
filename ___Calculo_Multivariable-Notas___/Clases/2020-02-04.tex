@@ -1,0 +1,235 @@
+\documentclass{article}
+\title{Clase 2020-02-04}
+\author{David Gabriel Corzo Mcmath}
+\date{2020-Feb-04 10:18:27}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{listing}
+\usepackage{spverbatim}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{longtable}
+\usetikzlibrary{arrows}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\section{13.1 Funciones vectoriales y curvas en el espacio}
+\begin{itemize}
+    \item Una función vectorial $\vec{r}: R \implies V_3$ :
+    \[
+      \vec{r}(t) = \left\langle f(t),g(t),z(t) \right\rangle 
+    \]
+    
+    La variable t es un parámetro.
+    
+    \item Dominio: Números reales, Rango: vector 3D:
+        \begin{align*}
+            \vec{r} \mathbb{IR} \implies V_3 \quad \vec{r}(t) = \left\langle f(t),g(t),h(t) \right\rangle \\ 
+            \text{  t es un parámetro  } \quad \vec{r} = f(t)\hat{i} + g(t)\hat{j} + h(t)\hat{k} \\
+        \end{align*}
+    
+    \item Ejemplo de una función vectorial:
+        \begin{align*}
+            \vec{r} = \left\langle a,b,c \right\rangle  + t \left\langle d,e,f \right\rangle \\ 
+            \vec{r} = \left\langle a+td,b+et,c+tf \right\rangle \\ 
+            x = f(t), \quad y = g(t), \quad z = h(t) \\ 
+        \end{align*}
+    
+    \item Ecs. Paramétricas de una función vectorial: 
+    
+    \item Dominio de ina función vectorial: encuentre el dominio de cada función componente. El dominio de $\vec{r}$ es la intersección de los dominios de cada función componente.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Ejercicios}
+\begin{enumerate}
+    \item Encuentre el dominio:
+        \begin{align*}
+            r(t) = \left\langle \sqrt[]{r^2-9}, e^{5ln(t)}, ln(t+5) \right\rangle \\ 
+            \text{  Evadir raíces negativas, y ln(0)  } \\ 
+            \begin{matrix}
+                \sqrt[]{t^2-9} \quad \implies \quad \text{  Definida   } \quad t^2 \geq 9 \\ 
+                e^{\sin(t)} \quad \text{  siempore definida  } \\ 
+                ln(t+5) \quad \text{  Definida cuando   } \quad t +5 > 0 \quad \quad (-5, \infty ) \\ 
+                \therefore \text{  El dominio es de   } \quad (-5,\infty ) \, \cup (-5,-3) \, \cup (-3,3) \, \cup [3,\infty ) \\ 
+            \end{matrix} \\ 
+        \end{align*}
+        Recordar: [a,b] el numero si es parte del dominio a,b son partes del dominio. (a,b) los puntos a,b no son parte del dominio.
+    
+    \item \begin{align*}
+        \vec{s}(t) = \left\langle \sin^3(t^2), \cosh(\frac{t}{t^2+1} ), \frac{1}{e^t+4}  \right\rangle \\ 
+        \begin{matrix}
+            sin^3(t^2), ID_{f(t)} = IR \\ 
+            \cosh(\frac{t}{t^2+1} ), ID_{g(t)} = IR \\ 
+            \frac{1}{e^t+4}, ID_{h(t)} = IR \\ 
+        \end{matrix} \\ 
+        \therefore \text{  Dominio de   } \, \vec{s}(t) = (-\infty ,\infty ) \\ 
+        e^+4\neq 0 \implies e^t=-4 \implies t = \underbrace{ln(-4)}_{\text{  indefinido  }} \\ 
+    \end{align*}
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Limites y continuidad}
+\begin{itemize}
+    \item \[
+        \lim_{t \to a}\vec{r}(t) = \left\langle \lim_{t \to a} f(t),\lim_{t \to a} g(t),\lim_{t \to a} h(t) \right\rangle 
+      \]
+    
+    \item Evalúe el límite de cada función componente.
+    \item Si no existe por lo menos un límite de una función componente, entonces $\lim_{t \to a} \vec{r}(t) $ no existe.
+    \item f(t) está definida en t=a
+    \[
+      \lim_{t \to a} f(t) = f(a)
+    \]
+    
+    \item Si se indefine y tiene forma de $\frac{0}{0} $, $\frac{\infty}{\infty} $ usar L'H$\hat{o}$pital.
+        \begin{align*}
+            \lim_{t \to a} \frac{f(t)}{g(t)} \underbrace{=}_{\frac{0}{0} } \lim_{t \to a} \frac{f'(t)}{g'(t)} \quad \text{  L'Hopital  }
+        \end{align*}
+    
+    \item Contínua en $t=a$ si $\lim_{t \to a} \vec{r}(t)=\vec{r}(a)$
+    \item Evite asíntotas verticales, saltos y agujeros. Ejemplo: 
+        \begin{align*} 
+            \lim_{t \to a} \frac{\sin(x)}{x} \underbrace{=}_{\text{  LH  }} \lim_{t \to a} \frac{cos(x)}{1} = 1 \\ 
+        \end{align*}
+    
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Ejercicios}
+\begin{itemize}
+    \item Sea $\vec{r}(t)=\left\langle \frac{\tan(\pi t)}{t} , e^{t-2}, \frac{ln(t-1)}{t^2-1}  \right\rangle $.
+    \item Analice si la función $\vec{r}(t)$ es contínua en $t=2$.
+        \begin{align*}
+            \vec{r}(t) = \left\langle \frac{\tan 2\pi }{2}, e^0, \frac{ln(1)}{3}   \right\rangle \\ 
+            \begin{matrix}
+                \lim_{t \to 2} \underbrace{\frac{\tan \pi t}{t}}_{\frac{0}{2} } = 0 \\
+                \lim_{t \to 2} e^{t-2} = 1 \\ 
+                \lim_{t \to 2} \frac{ln(t-1)}{t^2-1} = 0 \\ 
+            \end{matrix} \\ 
+            \therefore \vec{r} \, \text{ si es contínua en t=2   } \, \lim_{t \to 1} \vec{r}(t) = \vec{r}(2)
+        \end{align*}
+    
+    \item Encuentre $\lim_{t \to 1} \vec{r}(t)$ analice el límite de cada función componente por separado.
+        \begin{align*}
+            f: \, \lim_{t \to 1} \frac{\tan 2\pi }{2} = \frac{0}{1}  \\ 
+            g: \, \lim_{t \to 1} e^{t-2} = e^{-1} \\ 
+            h: \, \lim_{t \to 1} \frac{ln(t-1)}{t^2-1} = \, \text{  No existe, por ln(0) estar indefinido.  } \\ 
+        \end{align*}
+    
+    \item Analice si $\vec{r}(t)$ es contínua e t=1.
+        \begin{align*}
+            \underbrace{\lim_{t \to 1} \vec{r}(t) = \vec{r}(1) }_{\text{  No es contínua en t=1, r(1) está indefinida.  }}\\ 
+        \end{align*}
+    
+    \item Agujero $\vec{s}(t) = \left\langle \frac{\tan \pi t }{t-1} , e^{t-2}, \frac{ln(2t-1)}{t^2-1}  \right\rangle $ \newline 
+     No es contínua en t=1, pero su límite existe.
+     \begin{align*}
+         \lim_{t \to 1} \frac{\tan \pi t}{t-1} \underbrace{=}_{LH} \lim_{t \to 1} \frac{\pi \sec^2 \pi t }{1} = \frac{\pi}{(\cos \pi)^2} = \pi \\ 
+        \lim_{t \to 1} e^{t-2 } = e^-1 = \frac{1}{e} \\ 
+        \lim_{t \to 1} \frac{\ln(2t-1)}{t^2-1} \underbrace{=}_{\frac{0}{0}} = \lim_{t \to 1} \frac{\frac{2}{2t-1} }{2t} = \lim_{t \to 1} \frac{2}{2t(2t-1)} = \frac{1}{1(2-1)} = 1 \\ 
+        \therefore \lim_{t \to 1} \left\langle \pi, \frac{1}{e}, 1 \right\rangle \quad \text{  es un agujero   } \, \vec{s}(1) \, \text{  está indefinido  } \\   
+     \end{align*}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Curvas en el espacio}
+
+\begin{align*}
+    x = f(t) \\ 
+    y = g(t) \\ 
+    z = h(t) \\ 
+\end{align*}
+\begin{figure}[htbp]
+    \centering
+    % \includegraphics[width=cm]{}
+    \caption{Curvas paramétricas en el espacio}
+    \label{}
+\end{figure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Espirales}
+\begin{itemize}
+    \item Grafique la curva $\vec{r}(t)$:
+        \begin{align*}
+            \vec{r}(t) = \underbrace{2 \hat{i} \sin (t)}_{x} + \underbrace{2 \hat{j} \cos (t) 
+            }_{y} + \underbrace{\hat{k} \frac{t}{\pi}}_{z} \\ 
+            \begin{matrix}
+                t & x & y & z \\ 
+                0 & 0 & 2 & 0.5 \\ 
+                \frac{\pi}{2} & 2&  0&  0.5 \\ 
+                \pi & 0 & -2&  1 \\ 
+                \frac{3\pi}{2} & 2 &  0 & 1.5 \\   
+                2\pi &  0 & 2 & 2 \\ 
+            \end{matrix} 
+        \end{align*}
+        \begin{figure}[htbp]
+            \centering
+            % \includegraphics[width=cm]{}
+            \caption{Curva paramétrica}
+            \label{}
+        \end{figure}
+    
+    \item Grafique:
+        \begin{align*}
+            \vec{r}(t) = \left\langle \sin \pi t , t ,\cos \pi t \right\rangle \\ 
+            \text{  Graficar la circumferencia  } \, x^2+z^2= 1\, , y = 0 \\ 
+            \vec{r}(0) = \left\langle 0,0,1 \right\rangle \quad \text{  El vector que nos servirá para delimitar la gráfica del espiral  } \\
+            \text{  Por ejemplo:   } \, \vec{s}(t) = \left\langle \sin t, t^2 , \cos t \right\rangle \\    
+        \end{align*}
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

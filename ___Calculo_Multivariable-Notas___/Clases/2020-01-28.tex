@@ -1,0 +1,279 @@
+\documentclass{article}
+\title{Clase -2020-01-28}
+\author{David Gabriel Corzo Mcmath}
+\date{2020-Jan-28 10:08:14}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{listing}
+\usepackage{spverbatim}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{longtable}
+\usepackage{tikz-3dplot}
+\usepackage{esvect}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\maketitle
+
+\section{12.5 Rectas y planos}
+\begin{itemize}
+    \item Ecuación de una recta 
+    \item Vector posición $\vec{r}_0  = \langle x_0,y_,z_0 \rangle $
+    \item Vector dirección $\vec{v}_0 = \langle a,b,c \rangle$
+    \item Ecuación vectorial: $\vec{r} = \vec{r}_0 + t\vec{v}$ donde t es el parámetro.
+    \item Ecuaciónes paramétricas: \begin{align*}
+        x = x_0 +at \\ 
+        y = y_0+ at \\ 
+        z = z_0+at \\ 
+    \end{align*}
+    
+    \item Resuelva para $t$ en las tres ecuaciones:  
+        \begin{align*}
+            t = \frac{x-x_0}{a} 
+            t = \frac{y-y_0}{b} 
+            t = \frac{z-z_0}{c} 
+        \end{align*}
+        Estas son las ecuaciónes simétricas de la recta donde $a,b,c \neq 0$.
+        
+        \item Vector dirección $\vec{v}= \langle a,0,c \rangle $ las ecuaciones en la recta cambian:
+            \begin{align*}
+                \underbrace{\vec{r} = \vec{r}_0 + t \vec{v}}_{\text{  Vectorial  }} \\ 
+                x = x_0+at \\ 
+                y = y_0 \\ 
+                z = z_0 +ct \\ 
+                \text{  Entonces queda así:  } \\ 
+                \frac{x-x_0}{a} = \frac{z-z_0}{c} \\ 
+                \underbrace{y = y_0}_{\text{  Simétrica  }} \\   
+            \end{align*}
+\end{itemize}
+
+\subsection{Ejercicio 3: Encuentre las ecs. simétricas de la recta que pasa por los puntos dados. Encuentre en qué punto la recta interseca al plano xz. pg.41}
+\begin{itemize}
+    \item P(2,8,-2) \& Q(2,6,4) 
+    \begin{align*}
+        \text{  Vector posición  } = \overrightarrow{OP} = R_0 = \langle 2,6,7 \rangle \\ 
+        \text{  Vector dirección  } \overrightarrow{PQ} = \vec{V} = \langle 0,-2,6 \rangle \\ 
+        \text{  Ec. vectorial  } = \vec{r} = \langle 2,8,-2 \rangle + t \langle 0,-2,6 \rangle \\
+        \text{  Ecs. simétricas  } = x = a, \frac{y-8}{-2} = \frac{z+2}{6} \\   
+    \end{align*}
+    
+    \item \textbf{Nos preguntamos:} ¿Cual es la intersección con el plano xz?
+    \begin{align*}
+        \text{  Use,  y=0} x = 2, \frac{-8}{-2} =&  \frac{z+2}{6} \\ 
+        & = 6 \cdot 4 = z+ 2 \implies z= 22 \\ 
+    \end{align*}
+
+    
+    \item La intersección con el plano xz es el punto $(1,0,22)$: 
+    \begin{align*}
+        \vec{r}_0 = \langle 4,6,10 \rangle \\ 
+        \vec{v} = \vv{PQ} = \langle 2,0,0 \rangle \\ 
+        \text{  Vectorial:    } \vec{r} = \langle 4,6,10 \rangle + t \langle 2,0,0 \rangle \\ 
+        \text{  Paramétricas: } x = 4 + 2t, y = 6, z = 10 \\ 
+        \text{  Simétricas:  }t = \frac{x-4}{2} , y = 6, z=10 \\  
+    \end{align*}
+    
+    \item \textbf{Nos preguntamos:} ¿Cual es el punto de instersección con el plano xz?
+    \begin{align*}
+        \text{  Use: y=0  }
+    \end{align*}
+    Explicación: por la recta $y=6$ siempre será 6, nunca podrá ser $0$, no puede intersecar con el plano xz, \textbf{No hay}.
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Rectas paralelas}
+Dos rectas $\vec{r}_1 = \vec{r}_{01} + t \vec{v}$ \& $\vec{r}_{2} = \vec{r}_{02} + t \vec{v}_2 $ son paralelas si y solo si sus vectores de dirección $\vec{v}_1$ y $\vec{v}_2 $ son paralelas.
+\begin{figure}[htbp]
+    \centering
+    % \includegraphics[width=cm]{}
+    \caption{}
+    \label{}
+\end{figure} 
+
+Entones en el espacio tenemos 3 tipos de rectas:
+\begin{enumerate}
+    \item Rectas paralelas  
+    \item Rectas intersecan en un punto
+    \item Rectas Ublicuas (no paralelas \& no intersecan)
+\end{enumerate}
+
+\subsection{Ejercicio 4: Determine si los siguientes pares de rectas son paralelas, oblicuas o se intersecan.}
+\begin{itemize}
+    \item \begin{align*}
+        \frac{x-2}{8} = \frac{y-3}{24} = \frac{z-2}{16} , \frac{x-10}{-2} = \frac{y+15}{-6} = \frac{z+24}{-4} \\ 
+        \vec{v}_1 = \langle 8,24,16 \rangle, \vec{v}_2  = \left\langle -2,-6,-4 \right\rangle \\ 
+        \text{  Entoces...  }, \left\langle \frac{8}{-2}, \frac{24}{-6} , \frac{16}{-4}   \right\rangle  \\ 
+        \left\langle -4,-4,-4   \right\rangle, \therefore \text{  Son paralelas  } \\   
+    \end{align*}
+    El vector dirección está en el denominador.
+    
+     \item \begin{align*}
+        L_1:  x = 3-4t, y = 6-2t, z= 2+ 0t, t \in IR\\  
+         L_2:  x = 3+ 8s, y = -2s, z = 8+2s, s \in IR \\ 
+         \text{  Utilize una variable parámetro para cada recta  } \\ 
+         v_1 = \left\langle -4,-2,0 \right\rangle , v_2 = \left\langle 8,-2,2 \right\rangle \text{  No son paralelas  } \\ 
+         \text{  Analice si las rectas se intersecan  } \\ 
+         x=x \rightarrow 5-4t=3+8s \\ 
+         y=y \rightarrow 6-2t=-2s \\ 
+         z=z \rightarrow 2 = 8 + 2s \rightarrow s = -3 \\ 
+         5-4=-22 \rightarrow 4t=-27 \rightarrow -4t=-27 \rightarrow = \frac{27}{4} \\ 
+         6-2t = 6 \rightarrow 2t = 0 \rightarrow t=0 \\ 
+         \therefore \text{  Como no hay una $t$ única (no es posible $0 \neq \frac{27}{4} $), las dos rctas no se intersecan.  } \\ 
+         L_1 \text{  \&  }L_2 \text{  Son oblicuas  } \\ 
+         \text{  Eliminación Gausiana  } \\ 
+         \begin{matrix}
+             4t+8s = 2 \\ 
+             2t+25 = 6 \\ 
+             0t + 2s = -6 \\ 
+         \end{matrix} = 
+         \begin{vmatrix}
+             4 & 8 & 2 \\ 
+             2 & 2 & 6 \\ 
+             0 & 2 & -6 \\ 
+         \end{vmatrix} 
+         0,0,\text{  número  } \implies \text{  No hay solución  } \\ 
+     \end{align*}
+\end{itemize}
+
+
+\section{La ecuación de un plano}
+Previamente en 12.1 $ax+by+cz = 0$.
+\begin{figure}[htbp]
+    \centering
+    % \includegraphics[width=cm]{}
+    \caption{}
+    \label{}
+\end{figure}
+Para encontrar la ec. de un plano se necesita:
+    \begin{enumerate}
+        \item Un punuto sobre el plano $P$: $\vec{r_0}=\overrightarrow{OP}$
+        \item Un vector normal u ortognoal al plano: $\hat{n}_0 \left\langle a,b,c \right\rangle $
+    \end{enumerate}
+\subsection{Derivación de la e. plano}
+\begin{align*}
+    P(x_0,y_0,z_0), Q(x_1,y_1,z_1) \text{  Son dos puntos sobre el plano  } \\ 
+    \vec{r_0} = = \overrightarrow{0P} = \left\langle x_0,y_0,z_0 \right\rangle \\ 
+    \vec{r} = \overrightarrow{0Q} = \left\langle x,y,z \right\rangle \\ 
+\end{align*}
+El vector $\vec{RP} = \vec{r} + \vec{r-0}$ está sobre el plano, por lo que tiene que ser ortogonal a $\hat{n}$.
+ \begin{align*}
+     \hat{n} \perp \vec{r}- \vec{r_0} \rightarrow \underbrace{\hat{n}\cdot (\vec{r}-\vec{r_0})}_{\text{  Ec. vectorial de un plano  }} \\ 
+    \text{  Se puede reescribir como:  } \\ 
+     \underbrace{\left\langle a,b,c \right\rangle \cdot \left\langle x+x_0,y-y_0,z-z_0 \right\rangle + c(z-z_0) = 0 }_{\text{  Ecuación escalar de un plano  }} \\ 
+     ax+by+cz = \underbrace{ax_0+by_0+cz_0}_{0} \\ 
+ \end{align*}
+
+Para encontrar la ec. de un plano se necesita 3 puntos P,Q,R: \textbf{hay infinitas respuestas equivalentes } $\hat{n}=\vec{}\times \vec{}$.
+\begin{align*}
+    \vec{r_0} = \overrightarrow{OP}, \overrightarrow{0Q}, \overrightarrow{0R} \\ 
+    \underbrace{\hat{n} = \overrightarrow{PQ} \times \overrightarrow{PR}}_{\text{  Tienen que empezar en el mismo punto  }} \\ 
+    \text{  Hat infinitas respuestas:  } \\ 
+    \hat{n} = \vv{PR} \times \vv{PQ} \\ 
+\end{align*}
+
+
+\subsection{Ejercicio 1: pg45 Encuentre la ec. del plano que pasa por los 3 puntos dados.}
+\begin{enumerate}
+    \item $P(3,-1,3), Q(8,2,4), R(1,2,5)$
+    \begin{align*}
+        \text{  Ecuación del plano :   }, \hat{n} \cdot (\vec{r}- \vec{r_0}) = 0\\
+        \text{  Ecuaciónn de la recta :   }, \vec{r} = \vec{r_0}+t \vec{v} \\ 
+        \vec{r_0} = \left\langle 8,2,4 \right\rangle  \\ 
+    \end{align*}
+    Encuentre dos vectores que están sobre el plano y que comiencen en el mismo punto.
+    \begin{align*}
+        \vec{u}= \overrightarrow{PQ} = \left\langle 5,3,1  \right\rangle, \vec{v}= \overrightarrow{PR}= \left\langle -2,3,2 \right\rangle \\ 
+        \text{  ¡¡ $\hat{n}$ es ortogonal a ambos vectores !! } \\ 
+        \hat{n} = \overrightarrow{PQ} \times \overrightarrow{PR} = \begin{vmatrix}
+            \hat{i}& \hat{j}& \hat{k} \\
+            5 & 3 & 1 \\ 
+            -2 & 3 & 2 \\   
+        \end{vmatrix} = 3 \hat{i} - 12 \hat{j} -+ 21 \hat{k} \\ 
+        \text{  Ec. Plano  }, \hat{n} \cdot ( \vec{r} - \vec{r_0}) = 0 \\ 
+        \text{  Ec. Vectorial  }, \left\langle 3,-12,21 \right\rangle \cdot \left\langle x-8,y-2,z-4 \right\rangle = 0 \\ 
+        \text{  Escalar  }, 3(x-8)-  
+    \end{align*}
+
+    
+    \item P(0,0,0), Q(1,0,2), y R(0,2,3)
+    \begin{align*}
+        \text{  Vector posición: } \vec{r_0} & = \left\langle 0,0,0 \right\rangle \\ 
+          \text{ dos  vectoes sobre el plano:  } \begin{matrix*}
+             \vec{PQ} = \left\langle 1,0,2 \right\rangle \\ 
+             \vec{PR} = \left\langle 0,2,3 \right\rangle  \\ 
+         \end{matrix*} \\ 
+        \text{  Vector normal:  } \hat{n} & = \overrightarrow{PQ} \times  \overrightarrow{PR} \\ 
+          = \begin{vmatrix}
+             \hat{i} & \hat{j} & \hat{k} \\
+              \text{  terminar  } \\
+         \end{vmatrix} \\
+    \end{align*}
+    
+    \item Ecuación del plano:
+    \[
+      -4x-3y+2z=0
+    \]
+\end{enumerate}
+
+ \section{Rectas paralelas $v_1$ y $v_2$ son paralelos}
+Dos planos $\hat{n_1} \cdot (\vec{r}- \vec{r_1})= 0$ y $\hat{n_2} \cdot ( \vec{r}- \vec{r_2}) = 0$ son paralelas sí y sólo si $\hat{n_1}$ y $\hat{n_2}$ son paralelas.
+
+ En caso que no sean paralelas, se puede encontrar el ángulos de intersección entre dos planos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
