@@ -1,0 +1,37 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Clase introductoria}{5}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}n a marketing}{5}{section.1.1}% 
+\contentsline {chapter}{\numberline {2}Clase - 2020-01-09}{7}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}\IeC {\textquestiondown }Qu\IeC {\'e} es el marketing?}{7}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Ejemplo de se\IeC {\~n}or leyendo:}{7}{section.2.2}% 
+\contentsline {section}{\numberline {2.3}Ejemplo de la moto:}{7}{section.2.3}% 
+\contentsline {section}{\numberline {2.4}Ejemplos del marketing (buenos / malos)}{8}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}An\IeC {\'e}cdota colgate:}{8}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Ejemplo de marat\IeC {\'o}n:}{8}{subsection.2.4.2}% 
+\contentsline {subsection}{\numberline {2.4.3}Ejemplo de Donald Trump:}{8}{subsection.2.4.3}% 
+\contentsline {subsection}{\numberline {2.4.4}Ejemplo de Madonna:}{8}{subsection.2.4.4}% 
+\contentsline {subsection}{\numberline {2.4.5}Ejemplo DudeWipes:}{8}{subsection.2.4.5}% 
+\contentsline {subsection}{\numberline {2.4.6}\textbf {Nos preguntamos:} \IeC {\textquestiondown }C\IeC {\'o}mo evadir que las personas no encuentren cosas ajenas al marketing a la intenci\IeC {\'o}n?}{9}{subsection.2.4.6}% 
+\contentsline {subsection}{\numberline {2.4.7}Analizar: El debate presidencial de Donald Trump}{9}{subsection.2.4.7}% 
+\contentsline {chapter}{\numberline {3}Clase - 2020-01-14}{11}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Discusi\IeC {\'o}n de lectura}{11}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Material de recomendaci\IeC {\'o}n}{12}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}Clase - 2020-01-16}{13}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Ejemplos}{13}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Ejemplo de Club Co}{13}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Ejemplo de iPhone}{13}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Ejemplo UFM}{13}{subsection.4.1.3}% 
+\contentsline {section}{\numberline {4.2}S\IeC {\'\i }ntesis}{13}{section.4.2}% 
+\contentsline {chapter}{\numberline {5}Clase - 2020-01-21}{15}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}\textbf {Nos preguntamos:} \IeC {\textquestiondown }En qu\IeC {\'e} negocio estamos?}{15}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Ejemplos}{15}{subsection.5.1.1}% 
+\contentsline {chapter}{\numberline {6}Clase - 2020-01-23}{17}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Theodore Lebitt}{17}{section.6.1}% 
+\contentsline {subsection}{\numberline {6.1.1}Peligros del fanatismo con tu producto}{17}{subsection.6.1.1}% 
+\contentsline {chapter}{\numberline {7}Clase - 2020-01-28}{19}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Targeting (estabrecimiento el grupo objetivo)}{19}{section.7.1}% 
+\contentsline {chapter}{\numberline {8}Clase - 2020-01-30}{21}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Ponerse al d\IeC {\'\i }a }{21}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}Segmentation and targeting}{21}{section.8.2}% 
+\contentsline {chapter}{\numberline {9}Clase - 2020-02-04}{23}{chapter.9}% 
+\contentsline {section}{\numberline {9.1}Conceptos clave}{23}{section.9.1}% 
