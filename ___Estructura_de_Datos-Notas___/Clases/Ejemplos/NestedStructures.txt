@@ -1,0 +1,16 @@
+typedef struct student {
+    typedef struct name {
+        String first_name; 
+        String mid_name;
+        String last_name;
+    }
+    int r_10;
+    String course;
+
+    typedef struct DOB {
+        int dd;
+        int mm;
+        int yy;
+    }
+    double fees;
+}
