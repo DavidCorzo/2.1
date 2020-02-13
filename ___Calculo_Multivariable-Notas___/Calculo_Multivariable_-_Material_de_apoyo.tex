@@ -1,0 +1,102 @@
+\documentclass{book}
+\title{Cálculo Multivariable - Material de apoyo}
+\author{David Gabriel Corzo Mcmath}
+\date{2020-01-06}
+
+\usepackage[margin = 1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fontenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{import}
+\usepackage{xifthen}
+\usepackage{pdfpages}
+\usepackage{transparent}
+\usepackage{color}
+\usepackage{fancyhdr}
+\usepackage{lipsum}
+\usepackage{sectsty}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{lmodern}
+\usepackage{xpatch}
+\usepackage{blindtext}
+\usepackage{bookmark}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{blindtext}
+\usepackage{hyperref}
+\usepackage{listing}
+\usepackage{spverbatim}
+\usepackage{fancyvrb}
+\usepackage{fvextra}
+\usepackage{amssymb}
+\usepackage{pifont}
+\usepackage{longtable}
+\usepackage{multirow}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% THIS IS TO CENTER AND DEDICATE A CHAPTER NAME AN ENTIRE PAGE 
+\titleformat{\chapter}[display]{\vfill\filcenter}{{\filcenter\fontsize{48pt}{48pt}\usefont{T1}{cm}{m}{n}{\centering\chaptername}\fontsize{80pt}{80pt}\selectfont\thechapter}}{5pt}{\Huge\usefont{T1}{cm}{b}{n}\parbox{\textwidth-\widthof{\LARGE\sffamily{\centering\chaptername}}}}[\vfill\clearpage]\titlespacing*{\chapter}{0pt}{0pt}{50pt}
+% TO SEPATE WHOLE PAGE DEDICATION IN THE TABLE OF CONTENTS 
+\titleformat{name=\chapter,numberless}[display]{\filcenter}{{}}{5pt}{\Huge\usefont{T1}{cm}{b}{n}\centering}
+% MAKE THE TITLE OF THE CHAPTER CENTER!!
+\makeatletter\xpatchcmd{\@makeschapterhead}{\Huge \bfseries  #1\par\nobreak}{\Huge \bfseries\centering #1\par\nobreak}{\typeout{Patched makeschapterhead}}{\typeout{patching of @makeschapterhead failed}}\xpatchcmd{\@makechapterhead}{\huge\bfseries \@chapapp\space \thechapter}{\huge\bfseries\centering \@chapapp\space \thechapter}{\typeout{Patched @makechapterhead}}{\typeout{Patching of @makechapterhead failed}}\makeatother
+% Clear the header and footer
+\fancyhead{}\fancyfoot{} %
+% Set the right side of the footer to be the page number 
+{\fontfamily{mc}\selectfont\fancyfoot[L]{\thepage}\fancypagestyle{plain}{\renewcommand{\headrulewidth}{0pt}\fancyhf{}\fancyfoot[L]{\thepage}}} 
+% SHADED CIRCLE IN PAGE NUMBER 
+ \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=gray!50,inner sep=2pt] (char) {#1};}}\pagestyle{fancy}\fancyhf{}\fancyhead[EL]{\nouppercase\leftmark}\fancyhead[OR]{\nouppercase\rightmark}\fancyfoot[C]{\circled{\thepage}}\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\circled{\thepage}}\renewcommand{\headrulewidth}{0pt}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Here the document starts
+\begin{document}
+\maketitle
+\tableofcontents
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{ Laboratorios }
+
+\chapter{ Laboratorio \#01}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{\detokenize{pdf/L_01-ins.pdf}} 
+
+\chapter{ Laboratorio \#01}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{\detokenize{pdf/L_01.pdf}} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{ Tareas }
+
+\chapter{ Tarea \#3.}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{\detokenize{pdf/T_3.pdf}} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\part{ Examenes Cortos }
+
+\chapter{ Examen corto \#01}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{\detokenize{pdf/EC_01.pdf}} 
+
+\chapter{ Examen corto \#03}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{\detokenize{pdf/EC_03.pdf}} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
+% Here the document ends
