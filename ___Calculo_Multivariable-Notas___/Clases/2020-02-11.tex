@@ -20,12 +20,14 @@
         \]
     
     \item Integrales indefinidas:
-        \begin{align*}
-          \int_{}^{}\left\langle f,g,h \right\rangle dt = \left\langle F+C_1,G+C_2,H+C_3 \right\rangle \\
-          \int_{}^{}\vec{r}(t) dt  = \vec{R}(t) + \vec{C} \\
-          \vec{R} \quad \text{ vector de Antiderivadas  } \\ 
-          \vec{C} \quad \text{  Vector de constantes  } \\   
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \int_{}^{}\left\langle f,g,h \right\rangle dt = \left\langle F+C_1,G+C_2,H+C_3 \right\rangle \\
+                \int_{}^{}\vec{r}(t) dt  = \vec{R}(t) + \vec{C} \\
+                \vec{R} \quad \text{ vector de Antiderivadas  } \\ 
+                \vec{C} \quad \text{  Vector de constantes  } \\   
+              \end{align*}
+        \end{center}
     
     \item Integrales definidas:
         \[
@@ -38,26 +40,30 @@
 \section{Ejercicios de integración}
 \begin{enumerate}
     \item $\int_{0}^{1}\left[\frac{4}{1+t^2}\hat{i} + sec^2(\frac{\pi t}{4} )\right] dt$:
-        \begin{align*}
-            4 \hat{i} \times \tan^{-1}(t) \Big|_0^1 + \hat{k} \times \tan(\frac{\pi t}{4} ) \Big|_{0}^{1} \\ 
-            I_i = 4 \hat{i}  \frac{\pi}{4} + \hat{k} \frac{4}{\pi } = pi \hat{i} + \hat{k} \frac{4}{\pi } = \left\langle \pi,0,\frac{4}{\pi } \right\rangle \\ 
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                4 \hat{i} \times \tan^{-1}(t) \Big|_0^1 + \hat{k} \times \tan(\frac{\pi t}{4} ) \Big|_{0}^{1} \\ 
+                I_i = 4 \hat{i}  \frac{\pi}{4} + \hat{k} \frac{4}{\pi } = pi \hat{i} + \hat{k} \frac{4}{\pi } = \left\langle \pi,0,\frac{4}{\pi } \right\rangle \\ 
+            \end{align*}
+        \end{center}
     
     \item $\int_{}^{}\left\langle te^{t^2},te^t,\frac{q}{\sqrt[]{1-t^2}} \right\rangle dt$ :
-        \begin{align*}
-            x: \quad \int_{}^{}e^{t^2}t\,dt =& \frac{1}{2} \int_{}^{}e^{u}du = \frac{1}{2} e^{t^2} +C_1 \\ 
-                &\begin{matrix}
-                    u = t^2 \\ 
-                    du = 2tdt \\ 
-                \end{matrix} \\ 
-            y: \quad \int_{}^{} te^{t} dt = te^{t} - \int_{}^{} te^t-e^t+C_2 \\ 
-                \begin{matrix}
-                    u = t \quad dv = e^t dt \\ 
-                    du = dt \quad v = e^t \\ 
-                \end{matrix}
-            t: \quad \int_{}^{}\frac{1}{1-t^2} dt = \frac{\cos(\theta)}{\sin(\theta)}d\theta = \int_{}^{} d\theta = \underbrace{\theta + C_3}_{\sin^{-1}(t)+C_3} = \sin^{-1}(t)+C_3 \\
-            \therefore \quad \int_{}^{} \left\langle te^{t^2},te^t,\frac{1}{\sqrt{1-t^2}} \right\rangle dt = \frac{1}{2} et^{t^2}+C_1,te^t-e^t+C_2,\sin^1(t) + C_3 \\  
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                x: \quad \int_{}^{}e^{t^2}t\,dt =& \frac{1}{2} \int_{}^{}e^{u}du = \frac{1}{2} e^{t^2} +C_1 \\ 
+                    &\begin{matrix}
+                        u = t^2 \\ 
+                        du = 2tdt \\ 
+                    \end{matrix} \\ 
+                y: \quad \int_{}^{} te^{t} dt = te^{t} - \int_{}^{} te^t-e^t+C_2 \\ 
+                    \begin{matrix}
+                        u = t \quad dv = e^t dt \\ 
+                        du = dt \quad v = e^t \\ 
+                    \end{matrix}
+                t: \quad \int_{}^{}\frac{1}{1-t^2} dt = \frac{\cos(\theta)}{\sin(\theta)}d\theta = \int_{}^{} d\theta = \underbrace{\theta + C_3}_{\sin^{-1}(t)+C_3} = \sin^{-1}(t)+C_3 \\
+                \therefore \quad \int_{}^{} \left\langle te^{t^2},te^t,\frac{1}{\sqrt{1-t^2}} \right\rangle dt = \frac{1}{2} et^{t^2}+C_1,te^t-e^t+C_2,\sin^1(t) + C_3 \\  
+            \end{align*}
+        \end{center}
 \end{enumerate}
 
 
@@ -103,17 +109,19 @@ Dado el vector de aceleración $\vec{a}(t)$ :
 \subsection{Ejercicios}
 \begin{enumerate}
     \item Encuentre la velocidad, aceleración y rapidez dada la posición del objeto:
-        \begin{align*}
-            \vec{r}(t) = \hat{i} t  + 2 \hat{j} \cosh(4t) + 3 \hat{k} \sinh(3t) \\ 
-            \text{  Encontramos velocidad:  } \quad \vec{r}\, ' (t) = \vec{v}(t) = \hat{i} + 8 \hat{j} \sinh(4t)+9 \hat{k} \cosh(3t) \\ 
-            \text{  Encontramos la aceleración:  } \quad \vec{r}\, ''(a) = \vec{a}(t) + 32 \hat{j} \cosh(4t) + 27 \hat{k} \sinh(3t) \\ 
-            \text{  Encontramos la rapidez:   } \quad \left| \vec{v}(t) \right| = \sqrt{1+64\sinh(4t)+81\sinh^2(3t)} \\ 
-            \text{  Encontramos la distancia:   } \quad \left| \vec{r}(t) \right| = \sqrt{t^2+4\cosh^2(4t)+9\sinh^2(3t)} \\ 
-        \end{align*}
-        \begin{itemize}[label=\#]
-            \item Tarea \# 6: Integrales func. vectoriales 14.1 Funciones en varias variables.
-            \item Tarea opcional consolidado: 12,13,14.1 
-        \end{itemize}
+        \begin{center}
+            \begin{align*}
+                \vec{r}(t) = \hat{i} t  + 2 \hat{j} \cosh(4t) + 3 \hat{k} \sinh(3t) \\ 
+                \text{  Encontramos velocidad:  } \quad \vec{r}\, ' (t) = \vec{v}(t) = \hat{i} + 8 \hat{j} \sinh(4t)+9 \hat{k} \cosh(3t) \\ 
+                \text{  Encontramos la aceleración:  } \quad \vec{r}\, ''(a) = \vec{a}(t) + 32 \hat{j} \cosh(4t) + 27 \hat{k} \sinh(3t) \\ 
+                \text{  Encontramos la rapidez:   } \quad \left| \vec{v}(t) \right| = \sqrt{1+64\sinh(4t)+81\sinh^2(3t)} \\ 
+                \text{  Encontramos la distancia:   } \quad \left| \vec{r}(t) \right| = \sqrt{t^2+4\cosh^2(4t)+9\sinh^2(3t)} \\ 
+            \end{align*}
+            \begin{itemize}[label=\#]
+                \item Tarea \# 6: Integrales func. vectoriales 14.1 Funciones en varias variables.
+                \item Tarea opcional consolidado: 12,13,14.1 
+            \end{itemize}
+        \end{center}
     
     \item Encuentre la velocidad y posición del objeto dada $\vec{a}(t)$ y las condiciones iniciales:
         \begin{center}
@@ -164,7 +172,7 @@ Dado el vector de aceleración $\vec{a}(t)$ :
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{13.3 lOGN}
+\section{13.3 Longitud de arco}
 10.4 Ecs. Paramétricas de una curva en el plano de dos dimensiones era:
 \begin{center}
    \begin{align*}

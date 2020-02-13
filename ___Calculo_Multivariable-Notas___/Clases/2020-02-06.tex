@@ -4,26 +4,26 @@
 \begin{itemize}
     \item Derivadas:
         \[
-          \vec{r}'(t) \quad \text{  Respecto a t  }
+          \vec{r}\,'(t) \quad \text{  Respecto a t  }
         \]
     
     \item Integrales:
         \[
-          \int_{}^{}\vec{r}'(t)dt \quad \text{  Respecto a t  }
+          \int_{}^{}\vec{r}\,'(t)dt \quad \text{  Respecto a t  }
         \]
 \end{itemize}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{Deriviadas}
+\subsection{Derivadas}
 \begin{itemize}
     \item \[
-      \vec{r}'(t) = \lim_{h \to 0} \frac{r(t+h)-r(t)}{h} 
+      \vec{r}\,'(t) = \lim_{h \to 0} \frac{r(t+h)-r(t)}{h} 
     \]
     
     \item Como la fucnión $\vec{r}(t)$ está definida por tres funciones componentes se puede hacer: 
         \[
-          \vec{r}'(t) = \lim_{h \to 0} \left\langle 
+          \vec{r}\,'(t) = \lim_{h \to 0} \left\langle 
           \underbrace{\lim_{h \to 0} \frac{f(t+h)-f(t)}{h}}_{f'(t)}, 
           \underbrace{\lim_{h \to 0} \frac{g(t+h)-g(t)}{h}, }_{g'(t)}
           \underbrace{\lim_{h \to 0} \frac{h(t+h)-h(t)}{h}  }_{h('t)}
@@ -32,7 +32,7 @@
     
     \item Derivada entonces es : 
         \[
-          \vec{r}'(t) = \left\langle f'(t),g'(t),h'(t) \right\rangle 
+          \vec{r}\,'(t) = \left\langle f'(t),g'(t),h'(t) \right\rangle 
         \]
 \end{itemize}
 
@@ -55,22 +55,26 @@
 \section{Ejercicios}
 \begin{enumerate}
     \item Encuentre la 1era y segunda derivada de las siguientes funciones:
-        \begin{align*}
-            \vec{r}(t) = \left\langle \sin(4t),t^2,ln(\sin(t)) \right\rangle \\ 
-            \vec{r}'(t) = \left\langle 4\cos(4t),2t,\frac{\cos(t)}{\sin(t)}  \right\rangle \\ 
-            \vec{r}'(t) = \left\langle 4\cos(4t),2t,\cot(t) \right\rangle \\ 
-        \end{align*}
-        \begin{align*}
-            \vec{r}''(t) = \left\langle f''(t),g''(t),h''(t) \right\rangle \\ 
-            \therefore \quad \vec{r}''(t) = \left\langle -16\sin(4t),2,-\csc^2(t) \right\rangle \\ 
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \vec{r}(t) = \left\langle \sin(4t),t^2,ln(\sin(t)) \right\rangle \\ 
+                \vec{r}\,'(t) = \left\langle 4\cos(4t),2t,\frac{\cos(t)}{\sin(t)}  \right\rangle \\ 
+                \vec{r}\,'(t) = \left\langle 4\cos(4t),2t,\cot(t) \right\rangle \\ 
+            \end{align*}
+            \begin{align*}
+                \vec{r}\,''(t) = \left\langle f''(t),g''(t),h''(t) \right\rangle \\ 
+                \therefore \quad \vec{r}\,''(t) = \left\langle -16\sin(4t),2,-\csc^2(t) \right\rangle \\ 
+            \end{align*}
+        \end{center}
     
     \item Derive: $\vec{s}(t) = \hat{i} \tan(4t) + hat{j}ln(4t+1) + \hat{k} (5-2t)^{\frac{1}{2} }$
-        \begin{align*}
-            \vec{s}'(t) = 4 \hat{i} (\sec(4t))^2 + \hat{j} 4(4t+1)^{-1} -\hat{k} (5-2t)^{-\frac{1}{2} } \\ 
-            \vec{s}''(t) = 8 \hat{i} \times \sec(4t)\times  \sec(4t)\times  \tan (4t) \times 4  - 16 \hat{j} (4t-1)^{-2} - \frac{\hat{k}}{2} (5-2t)^{-\frac{3}{2} } \times (-2) \\  
-            \vec{s}''(t) = 32 \hat{i} \times \sec^2(4t)\times  \tan (4t)  - 16 \hat{j} (4t-1)^{-2} - \frac{\hat{k}}{2} (5-2t)^{-\frac{3}{2} } \times (-2) \\ 
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \vec{s}\,'(t) = 4 \hat{i} (\sec(4t))^2 + \hat{j} 4(4t+1)^{-1} -\hat{k} (5-2t)^{-\frac{1}{2} } \\ 
+                \vec{s}\,''(t) = 8 \hat{i} \times \sec(4t)\times  \sec(4t)\times  \tan (4t) \times 4  - 16 \hat{j} (4t-1)^{-2} - \frac{\hat{k}}{2} (5-2t)^{-\frac{3}{2} } \times (-2) \\  
+                \vec{s}\,''(t) = 32 \hat{i} \times \sec^2(4t)\times  \tan (4t)  - 16 \hat{j} (4t-1)^{-2} - \frac{\hat{k}}{2} (5-2t)^{-\frac{3}{2} } \times (-2) \\ 
+            \end{align*}
+        \end{center}
 \end{enumerate}
 
 
@@ -83,27 +87,31 @@
         \]
     
     \item Con una función vectorial:
-        \begin{align*}
-            \vec{r}= \left\langle f,g,h \right\rangle , \quad \quad x = f(t), \, y=g(t), \, z=h(t) \\ 
-            \text{  Hay ecuaciones paramétricas para cada variable:  } \\ 
-            \vec{r}'(a) = \left\langle f'(a),g'(a),h'(a) \right\rangle \\ 
-            \text{  Vector de pendientes de rectas tangentes a la curva  } \, \vec{r}(t).
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \vec{r}= \left\langle f,g,h \right\rangle , \quad \quad x = f(t), \, y=g(t), \, z=h(t) \\ 
+                \text{  Hay ecuaciones paramétricas para cada variable:  } \\ 
+                \vec{r}\,'(a) = \left\langle f'(a),g'(a),h'(a) \right\rangle \\ 
+                \text{  Vector de pendientes de rectas tangentes a la curva  } \, \vec{r}(t).
+            \end{align*}
+        \end{center}
     
-    \item La derivada de una función vectorial se le da elnombre de \textbf{``vector tangente''} $\vec{r}(t):\vec{r}'(a)$.
+    \item La derivada de una función vectorial se le da elnombre de \textbf{``vector tangente''} $\vec{r}(t):\vec{r}\,'(a)$.
     \item Recta tangente: es ahora una función vectorial.
         \[
-          \vec{r}(t) = \vec{r}(a) + \vec{r}'(a)t 
+          \vec{r}(t) = \vec{r}(a) + \vec{r}\,'(a)t 
         \]
     
     \item Ecs. Paramétricas:
-        \begin{align*}
-            \begin{matrix}
-                x=f(a)+f'(a)t \\ 
-                y=g(a)+g'(a)t \\ 
-                z=h(a)+h'(t)t \\ 
-            \end{matrix}
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \begin{matrix}
+                    x=f(a)+f'(a)t \\ 
+                    y=g(a)+g'(a)t \\ 
+                    z=h(a)+h'(t)t \\ 
+                \end{matrix}
+            \end{align*}
+        \end{center}
     
     \item Vector tangente: $r'(a)$ en $t=a$
     \item Vector tangente unitario: $\frac{r'(a)}{\left| r'(a) \right| } = \vec{T}(a)$
@@ -115,25 +123,27 @@
 \section{Ejercicios}
 \begin{itemize}
     \item Encuentre las ecs. paramétricas de la recta tangente a la curva : $s(t)=\left\langle 2\cos(t),2\sin(t),4\cos(2t) \right\rangle $ en el punto $(\sqrt{3},1,2)$:
-        \begin{align*}
-            \text{  Recta tangente:  } \quad \vec{r}_T(t) = \vec{r}(a)+t \vec{r}'(a) \\ 
-            \vec{r}_T(a) = \left\langle \sqrt{3},1,2 \right\rangle \\ 
-            \text{  Derivada: } \quad \vec{r}'(t) = \left\langle -2\sin(t),2\cos(t),-8\sin(2t) \right\rangle \\ 
-            \text{  \textbf{Nos preguntamos:} ¿Cómo encuentro ``a'' ? igualamos   } \quad r(t) = \left\langle \sqrt{3},1,2 \right\rangle  \\ 
-            \begin{matrix}
-                2\cos(t) = \sqrt[]{3} \implies \cos(t) = \frac{\sqrt{3}}{2} \implies t = \frac{\pi }{6}  \\ 
-                2\sin(t) = 1 \implies 2\sin(\frac{\pi }{6} ) = 2 \times \frac{1}{2} = 1\\ 
-                4 \cos(2t)=2 \implies 4\cos(\frac{\pi }{3} ) = 4 \times \frac{1}{2} = 2\\ 
-            \end{matrix} \\ 
-            \text{  Vector tangente:   } \quad \vec{r}'(\frac{\pi }{6} )= \left\langle -2\sin(\frac{\pi }{6}),2cos(\frac{\pi}{6} ), -8\sin(\frac{\pi }{3} )  \right\rangle \\ 
-            \vec{r}_T(t)= \left\langle \sqrt{3},1,2 \right\rangle + t \left\langle -1,\sqrt{3},-4\sqrt{3} \right\rangle \\ 
-            \therefore  \\ 
-            \begin{matrix}
-                x= \sqrt{3}-1 \\ 
-                y=1+\sqrt{3}t \\ 
-                z=2-4\sqrt{3}t \\ 
-            \end{matrix}\\ 
-        \end{align*}
+        \begin{center}
+            \begin{align*}
+                \text{  Recta tangente:  } \quad \vec{r}_T(t) = \vec{r}(a)+t \vec{r}\,'(a) \\ 
+                \vec{r}_T(a) = \left\langle \sqrt{3},1,2 \right\rangle \\ 
+                \text{  Derivada: } \quad \vec{r}\,'(t) = \left\langle -2\sin(t),2\cos(t),-8\sin(2t) \right\rangle \\ 
+                \text{  \textbf{Nos preguntamos:} ¿Cómo encuentro ``a'' ? igualamos   } \quad r(t) = \left\langle \sqrt{3},1,2 \right\rangle  \\ 
+                \begin{matrix}
+                    2\cos(t) = \sqrt[]{3} \implies \cos(t) = \frac{\sqrt{3}}{2} \implies t = \frac{\pi }{6}  \\ 
+                    2\sin(t) = 1 \implies 2\sin(\frac{\pi }{6} ) = 2 \times \frac{1}{2} = 1\\ 
+                    4 \cos(2t)=2 \implies 4\cos(\frac{\pi }{3} ) = 4 \times \frac{1}{2} = 2\\ 
+                \end{matrix} \\ 
+                \text{  Vector tangente:   } \quad \vec{r}\,'(\frac{\pi }{6} )= \left\langle -2\sin(\frac{\pi }{6}),2cos(\frac{\pi}{6} ), -8\sin(\frac{\pi }{3} )  \right\rangle \\ 
+                \vec{r}_T(t)= \left\langle \sqrt{3},1,2 \right\rangle + t \left\langle -1,\sqrt{3},-4\sqrt{3} \right\rangle \\ 
+                \therefore  \\ 
+                \begin{matrix}
+                    x= \sqrt{3}-1t \\ 
+                    y=1+\sqrt{3}t \\ 
+                    z=2-4\sqrt{3}t \\ 
+                \end{matrix}\\ 
+            \end{align*}
+        \end{center}
 \end{itemize}
 
 
