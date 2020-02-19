@@ -9,3 +9,7 @@
 *.fls
 *.lnk
 *.exe
+*.dvi
+*.out
+*.ps
+*.out.ps
