@@ -1,0 +1,114 @@
+\section{Solución del parcial}
+\subsection{1}
+\begin{itemize}
+    \item Prevalencia:
+        \[
+          \text{  Prevalencia  } = \frac{1,500}{100,000} = \underbrace{0.015}_{\text{  Probabilidades apriori  }}
+        \]
+    
+    \item De una muestra, resultó positiva para 965 de 1,000 personas que se sabe que sí tenían la enfermedad:
+        \[
+           P(+|E) = 0.965  
+        \]
+    
+    \item De una muestra resultó ser negativa para 97 de 100 personas que se sabe que no tenían la enfermedad:
+        \[
+          P(-|NE) = 0.97 
+        \]
+    
+    \item \begin{center}
+       \begin{tabular}{ | p{5cm} | p{5cm} | p{5cm} | p{5cm} | }
+                Probabilidades apriori & Probabilidades condicioneles & Probabilidades posteriores \\ 
+           \hline
+                                & $P(+|E) = 0.965$ & $P(E)P(+|E) = 0.014$     &\\ 
+                $P(E) = 0.015$  &                  &                          & $P(E|+)= \frac{P(E)P(+|E)}{\underbrace{P(E)P(+|E)+P(NE)P(+|NE)}_{P(+)}} = \frac{0.014}{0.04403}  $  \\
+                                & $P(-|E) = 0.035$ & $P(E)P(-|E) = 0.000525 $ &\\ 
+                
+            \hline
+                                & $P(+|NE) = 0.03$ & $P(NE)P(+|NE) = 0.02955$ &\\ 
+                $P(NE) = 0.985$ &                  &                          &\\ 
+                                & $P(-|NE) = 0.97$ & $P(NE)P(-|NE) = 0.95545$ &\\ 
+           \hline
+       \end{tabular}
+    \end{center}
+    
+    \item Probabilidad que sea un falso negativo:
+        \begin{itemize}
+            \item $P(-|E) = 0.035$
+        \end{itemize}
+    
+    \item Probabilidad de salir positivo:
+        \begin{center}
+           \begin{align*}
+               P(+)= \frac{P(E)P(+|E)}{P(E)P(+|E) + P(NE)P(+|NE)} = \frac{0.014}{0.014+0.02955} = 0.04403 \\  
+           \end{align*}
+           \begin{itemize}[label=\#]
+               \item Tomar en cuenta que para sacar $P(+)$ tomo todos los escenarios en los que se calcula la probabilidad de salir positivo.
+           \end{itemize}
+        \end{center}
+    
+    \item Probabilidad de salir negativo:
+        \begin{center}
+           \begin{align*}
+               P(-) =\frac{P(E)P(-|E)}{P(E)} 
+           \end{align*}
+        \end{center}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{2}
+\begin{itemize}
+    \item Permutaciones: 
+        \begin{center}
+           \begin{tabular}{ | p{5cm} | p{5cm} | p{5cm} |  p{5cm} |  p{5cm} | p{5cm} |}
+               \hline
+                    Letra 1 & Letra 2 & Letra 3             & Dígito 1 &  Dígito 2 & Dígito 3 \\
+               \hline
+                    26 opciones & 25 opciones & 24 opciones &  
+               \hline
+           \end{tabular}
+           \begin{itemize}[label=\#]
+               \item Una permutación es un proceso sin remplazo. No se repiten.
+               \item Fórmula:
+                    \[
+                      _NP_n = \frac{N!}{(N-n)!} 
+                    \]
+                    Para el inciso en letras:
+                    \[
+                        _{26}P_3 = \frac{26!}{(26-3)!} = 15,600
+                    \]
+                    Para el inciso en números:
+                    \[
+                      _{10}P_3= \frac{10!}{(10-3)!} = 720 
+                    \]
+                    Si multiplico las dos permutaciones:
+                    \[
+                      15,600\cdot720 = 11,232,000 
+                    \]
+                    Saco la cantidad de permutaciones para sacar el total de posibilidades con repetición: 
+                    \begin{center}
+                       \begin{align*}
+                           (26)^3 &= 17,576 \\ 
+                           (10)^3 &= 1,000 \\ 
+                           \text{  \# Multiplico:  } \quad 17,576 \times 1,000 = 17,576,000 \\ 
+                       \end{align*}
+                    Calculo la probabilidad dividiendo:
+                    \[
+                      \frac{_{26}P_3 \times _{10}P_3}{(26)^3\times(10)^3} \approx 0.6390
+                    \]
+                    \end{center}
+           \end{itemize}
+        \end{center}
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{3}
+\begin{itemize}
+    \item Para calcular independencia:
+        \[
+          P(A) \times P(B) = P(A\cap B)
+        \]
+\end{itemize}
