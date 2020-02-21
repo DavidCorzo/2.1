@@ -44,6 +44,7 @@
 \usepackage{longtable}
 \usepackage{multirow}
 \usepackage{esvect}
+\usetikzlibrary{arrows,shapes}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % THIS IS TO CENTER AND DEDICATE A CHAPTER NAME AN ENTIRE PAGE 
@@ -59,7 +60,6 @@
 % SHADED CIRCLE IN PAGE NUMBER 
  \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,fill=gray!50,inner sep=2pt] (char) {#1};}}\pagestyle{fancy}\fancyhf{}\fancyhead[EL]{\nouppercase\leftmark}\fancyhead[OR]{\nouppercase\rightmark}\fancyfoot[C]{\circled{\thepage}}\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\circled{\thepage}}\renewcommand{\headrulewidth}{0pt}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Here the document starts
@@ -67,37 +67,40 @@
 \maketitle
 \tableofcontents
 
+% Begin block styles
+\tikzstyle{decision}=[diamond, draw, fill=white!20,text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block}=[rectangle, draw, fill=white!20,text width=5em, text centered, rounded corners, minimum height=4em]
+\tikzstyle{line}=[draw, -latex']
+\tikzstyle{cloud}=[draw, ellipse,fill=white!20, node distance=3cm,minimum height=2em]
+% End block styles 
+
+
 \chapter{Clase - 2020-01-07}
 \input{Clases/2020-01-07.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-01-23}
 \input{Clases/2020-01-23.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-01-28}
 \input{Clases/2020-01-28.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-01-30}
 \input{Clases/2020-01-30.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-02-04}
 \input{Clases/2020-02-04.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-02-06}
 \input{Clases/2020-02-06.tex}
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Clase - 2020-02-11}
 \input{Clases/2020-02-11.tex}
 
 \chapter{Clase - 2020-02-11}
 \input{Clases/2020-02-13.tex}
+
+\chapter{Clase - 2020-02-20}
+\input{Clases/2020-02-20.tex}
 
 \end{document}
 
