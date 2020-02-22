@@ -1,0 +1,193 @@
+﻿6.3 LA PRODUCCIÓN CON DOS FACTORES 
+VARIABLES 
+Hemos terminado nuestro análisis de la función de producción a corto plazo en 
+la que uno de los factores, el trabajo, es variable y, el otro, el capital, es fijo. Pasamos 
+ahora a analizar el largo plazo, en el que tanto el trabajo como el capital son variables. Ahora la empresa puede producir de diversas formas combinando distintas cantidades de trabajo y capital. En este apartado, veremos cómo puede elegir 
+una empresa entre distintas combinaciones de trabajo y capital que generan la 
+misma producción. En el primer subapartado, examinamos la escala del proceso 
+de producción, viendo cómo varía la producción cuando se duplican, se triplican, etc. las combinaciones de factores. 
+Las isocuantas 
+Comencemos examinando la tecnología de producción de una empresa que utiliza dos factores y puede alterar los dos. Supongamos que los factores son trabajo y capital y que se utilizan para producir alimentos. El Cuadro 6.4 muestra el nivel de producción que puede obtenerse con diferentes combinaciones de factores. 
+
+Las cantidades de trabajo se indican en la fila superior y las de capital en la columna de la izquierda. Cada cifra del cuadro es el nivel máximo (técnicamente eficiente) de producción que puede obtenerse cada año con cada combinación de trabajo y capital utilizada ese año. Por ejemplo, 4 unidades de trabajo al año y 2 de capital al año generan 85 unidades de alimentos al año. Leyendo cada fila de izquierda a derecha, observamos que la producción aumenta cuando se incrementa la cantidad de trabajo y se mantiene fija la de capital. Leyendo cada columna de arriba abajo, observamos que la producción también aumenta cuando se incrementa la cantidad de capital y se mantiene fija la de trabajo. 
+La información que contiene el Cuadro 6.4 también puede representarse gráficamente utilizando isocuantas. Una isocuanta es una curva que muestra todas las combinaciones posibles de factores que generan el mismo nivel de producción . La Figura 6.4 representa tres isocuantas (cada eje de la figura mide la cantidad de factores). Estas isocuantas se basan en los datos del Cuadro 6.4, pero se han representado como curvas lisas para tener en cuenta la posible utilización de cantidades fraccionarias de factores. 
+Por ejemplo, la isocuanta q 1 muestra todas las combinaciones de trabajo y capital al año que generan 55 unidades de producción al año. Dos de estos puntos, el A y el D , corresponden al Cuadro 6.4. En el punto A , 1 unidad de trabajo y 3 de capital generan 55 unidades de producción; en el D, se obtiene el mismo nivel de producción con 3 unidades de trabajo y 1 de capital. La isocuanta q 2 muestra todas las combinaciones de factores que generan 75 unidades de producción y 
+corresponde a las cuatro combinaciones de trabajo y capital indicadas con un cír
+culo en el cuadro (por ejemplo, en B , donde se combinan 2 unidades de capital y 
+3 de trabajo). La isocuanta q 2 se encuentra por encima y a la derecha de q 1 porque 
+se necesita más trabajo y más capital para obtener un nivel más alto de producción. Por último, la isocuanta q 3 muestra las combinaciones de trabajo y capital que 
+generan 90 unidades de producción. Por ejemplo, el punto C implica 3 unidades 
+de trabajo y 3 de capital, mientras que el E implica solamente 2 unidades de tra
+bajo y 5 de capital. 
+
+
+• isocuanta Curva que muestra todas las combinaciones posibles de factores que generan el mismo nivel de producción. 
+
+
+
+Mapas de isocuantas Cuando se combinan varias isocuantas en un único grá
+fico, este se denomina mapa de isocuantas . La Figura 6.4 muestra tres de las numerosas isocuantas que constituyen un mapa de isocuantas. Un mapa de isocuantas es otra forma de describir una función de producción, lo mismo que un mapa de curvas de indiferencia es una manera de describir una función de utilidad. Cada isocuanta corresponde a un nivel de producción diferente y el nivel de producción aumenta a medida que nos desplazamos en sentido ascendente y hacia la derecha en la figura. 
+Flexibilidad de los factores 
+Las isocuantas muestran la flexibilidad que tienen las empresas cuando toman decisiones de producción: normalmente pueden obtener un determinado nivel de producción sustituyendo un factor por otro. Para los directivos de una empresa es importante comprender la naturaleza de esta flexibilidad. Por ejemplo, los restaurantes de comida rápida se han encontrado recientemente con una escasez de empleados jóvenes de bajos salarios. Las empresas han respondido automatizando su producción: introduciendo «salad bars» o equipo de cocina más sofisticado. También han reclutado personas más mayores para ocupar estos puestos. Como vemos en los Capítulos 7 y 8, teniendo en cuenta esta flexibilidad en el proceso de producción, los directivos pueden elegir las combinaciones de factores que minimizan el coste y maximizan los beneficios. 
+Los rendimientos marginales decrecientes 
+Aunque tanto el trabajo como el capital son variables a largo plazo, resulta útil para una empresa que tiene que elegir la combinación óptima de factores preguntarse qué ocurre con la producción cuando se incrementa cada uno de los factores y el otro se mantiene fijo. La Figura 6.4, que muestra los rendimientos marginales decrecientes tanto del trabajo como del capital, describe el resultado de este ejercicio. Podemos ver por qué el trabajo tiene rendimientos marginales decrecientes trazando una línea recta horizontal en un determinado nivel de producción, por ejemplo, 3. Observando los niveles de producción de cada isocuanta a medida que se incrementa el trabajo, vemos que cada unidad adicional de trabajo genera una cantidad adicional de producción cada vez menor. Por ejemplo, cuando se incrementa el trabajo de 1 unidad a 2 (de A a B ), la producción aumenta en 20 (de 55 a 75). Sin embargo, cuando se incrementa el trabajo en una unidad más (de B a C ), la producción solo aumenta en 15 (de 75 a 90). Por tanto, el trabajo tiene rendimientos decrecientes tanto a largo plazo como a corto plazo. Dado que aumentando un factor y manteniendo constante el otro la producción acaba aumentando cada vez menos, la isocuanta debe volverse más inclinada a medida que se sustituye trabajo por capital y más plana a medida que se sustituye capital por trabajo. 
+El capital también muestra rendimientos marginales decrecientes. Manteniendo fijo el trabajo, el producto marginal del capital disminuye a medida que se incrementa el capital. Por ejemplo, cuando el capital se incrementa de 1 a 2 y el trabajo se mantiene constante en 3, el producto marginal del capital es inicialmente 20 (75 – 55), pero disminuye a 15 (90 – 75) cuando se eleva el capital de 2 a 3. 
+
+• mapa de isocuantas Gráfico que muestra varias isocuantas utilizadas para describir una función de producción. 
+
+
+
+La sustitución de los factores 
+Cuando pueden alterarse dos factores, un directivo deseará considerar la posibilidad de sustituir uno por otro. La pendiente de cada isocuanta indica cómo puede intercambiarse la cantidad de un factor por la cantidad del otro sin alterar el nivel de producción. Cuando se suprime el signo negativo, la pendiente se de
+
+
+nomina relación marginal de sustitución técnica (RMST) . La relación marginal de sustitución técnica de capital por trabajo es la cantidad en que puede reducirse el capital cuando se utiliza una unidad más de trabajo, de tal manera que la producción permanece constante. Es análoga a la relación marginal de sustitución (RMS) de la teoría del consumidor. Recuérdese que en el Apartado 3.1 vimos que la RMS describe cómo sustituyen los consumidores un bien por otro manteniendo constante el nivel de satisfacción. Al igual que la RMS, la RMST siempre se expresa en cantidades positivas: 
+RMST = – variación de la cantidad de capital/variación 
+de la cantidad de trabajo 
+= – Δ K / Δ L (manteniendo fijo el nivel de q ) 
+donde Δ K y Δ L son pequeñas variaciones del capital y del trabajo a lo largo de una isocuanta. 
+
+• relación marginal de sustitución técnica (RMST) Cantidad en que puede reducirse un factor cuando se utiliza una unidad más de otro, por lo que la producción permanece constante. 
+
+En el Apartado 3.1, explicamos que la relación marginal de sustitución es la cantidad máxima a la que está dispuesto a renunciar un consumidor de un bien para obtener una unidad de otro. 
+
+
+En la Figura 6.5, la RMST es igual a 2 cuando se incrementa el trabajo de 1 unidad a 2 y la producción se mantiene fija en 75. Sin embargo, la RMST disminuye a 1 cuando se incrementa el trabajo de 2 unidades a 3 y, a continuación, desciende a 2/3 y a 1/3. Es evidente que cuanto más capital se sustituye por trabajo, este último se vuelve menos productivo y el capital relativamente más productivo. Por tanto, se necesita menos capital para mantener constante el nivel de producción, por lo que la isocuanta se vuelve más plana. 
+La RMST decreciente Suponemos que la RMST es decreciente . En otras palabras, disminuye a medida que nos desplazamos en sentido descendente a lo largo de una isocuanta. En términos matemáticos, eso implica que las isocuantas son convexas , o sea, combadas hacia dentro, como las curvas de indiferencia. Lo son en el caso de la mayoría de las tecnologías de producción. La RMST decreciente nos dice que la productividad de cualquier factor es limitada. A medida que se sustituye más capital por trabajo en el proceso de producción, la productividad del trabajo disminuye. Asimismo, cuando se sustituye trabajo por capital, la productividad del capital disminuye. La producción necesita una combinación equilibrada de ambos factores. 
+Como acabamos de sugerir en nuestro análisis, la RMST está estrechamente relacionada con los productos marginales del trabajo, PM L , y del capital, PM K . Para 
+
+ 
+FIGURA 6.5 La relación marginal de sustitución técnica 
+Las isocuantas tienen pendiente negativa y son convexas como las curvas de indiferencia. La pendiente de la isocuanta en un punto cualquiera mide la relación marginal de sustitución técnica, que es la capacidad de la empresa para sustituir capital por trabajo y mantener constante el nivel de producción. En la isocuanta q 2 , la relación marginal de sustitución técnica desciende de 2 a 1 y a 2/3 y 1/3. 
+ver cómo, imaginemos que aumentamos algo el trabajo y reducimos la cantidad de capital lo suficiente para mantener constante el nivel de producción. El aumento de la producción provocado por el incremento de la cantidad de trabajo es igual a la producción adicional por unidad de trabajo adicional (el producto marginal del trabajo) multiplicada por el número de unidades de trabajo adicional: 
+Producción adicional generada por un aumento del trabajo = (PM L )( Δ L ) 
+Asimismo, la reducción del nivel de producción provocada por una disminución del capital es la pérdida de producción por cada reducción del capital en una unidad (el producto marginal del capital) multiplicado por el número de unidades de reducción del capital: 
+Reducción de la producción generada por una disminución 
+del capital = (PM K )( Δ K ) 
+Como estamos manteniendo constante la producción desplazándonos a lo largo de una isocuanta, la variación total de la producción debe ser cero. Por tanto, 
+(PM L )( Δ L ) + (PM K )( Δ K ) = 0 
+Reordenando ahora los términos, vemos que 
+(PM L )/(PM K ) = –( Δ K / Δ L ) = RMST 
+
+En el Apartado 3.1, explicamos que una curva de indiferencia es convexa si la relación marginal de sustitución disminuye conforme nos desplazamos en sentido descendente a lo largo de la curva. 
+
+
+La ecuación (6.2) nos dice que la relación marginal de sustitución técnica entre dos factores es igual al cociente entre sus productos marginales . Esta fórmula nos resultará útil cuando analicemos en el Capítulo 7 la elección de factores que minimiza los costes de la empresa. 
+Las funciones de producción: dos casos especiales 
+Dos casos extremos de funciones de producción muestran el posible abanico de posibilidades de sustitución de los factores en el proceso de producción. En el primer caso, que representamos en la Figura 6.6, los factores de producción son 
+En el Apartado 3.1, 
+explicamos que dos 
+bienes son sustitutivos 
+perfectos si la relación 
+marginal de sustitución de uno por el otro es constante. 
+
+• función de producción de proporciones fijas Función de producción en la que las isocuantas tienen forma de L, por lo que sólo es posible utilizar una combinación de trabajo y capital para obtener cada nivel de producción. 
+perfectamente sustituibles uno por otro. En este caso, la RMST es constante en todos los puntos de una isocuanta. Por tanto, es posible obtener el mismo nivel de producción (por ejemplo, q 3 ) principalmente con capital (en el punto A ), principalmente con trabajo (en el punto C ) o por medio de una combinación equilibrada de los dos (en el punto B ). Por ejemplo, los instrumentos musicales pueden fabricarse casi enteramente con máquinas-herramienta o con muy pocas herramientas y mano de obra muy cualificada. 
+
+La Figura 6.7 muestra el extremo opuesto, a saber, la función de producción de proporciones fijas , llamada a veces función de producción de Leontief . En este caso, es imposible sustituir un factor por otro. Cada nivel de producción requiere una determinada combinación de trabajo y capital: no es posible obtener un nivel de producción más alto si no se aumenta el capital y el trabajo en determinadas proporciones. Por tanto, las isocuantas tienen forma de L, exactamente igual que las curvas de indiferencia cuando los dos bienes son complementarios perfectos. Un ejemplo es la reconstrucción de las aceras de hormigón con martillos neumáticos. Se necesita una persona para utilizar un martillo neumático: ni dos personas y un martillo ni una persona y dos martillos aumentarán la producción. Por poner otro ejemplo, supongamos que una empresa que fabrica cereales ofrece un nuevo cereal de desayuno, Nutty Oat Crunch, cuyos dos factores son, como es de esperar, avena y frutos secos. La fórmula secreta requiere exactamente una onza de frutos secos por cada cuatro de avena en cada ración. Si la empresa comprara más frutos secos pero no más avena, la producción de cereal no variaría, ya que los frutos secos deben combinarse con la avena en proporciones fijas. Asimismo, la compra de más avena sin más frutos secos tampoco sería productiva. 
+En la Figura 6.7, los puntos A , B y C representan combinaciones de factores técnicamente eficientes. Por ejemplo, para obtener el nivel de producción q 1 puede utilizarse una cantidad de trabajo L 1 y una cantidad de capital K 1 , como en el punto A . Si el capital permanece fijo en K 1 , la producción no varía aumentando el trabajo. Tampoco aumenta incrementando el capital y manteniendo el trabajo fijo en L 1 . Por tanto, en los segmentos verticales y horizontales de las isocuantas en forma de L, o bien el producto marginal del capital, o bien el producto marginal del trabajo, es cero. El nivel de producción solo aumenta cuando se incrementa tanto el trabajo como el capital, como ocurre cuando se pasa de la combinación de factores A a la B . 
+La función de producción de proporciones fijas describe situaciones en las que los métodos de producción son limitados. Por ejemplo, la producción de un pro
+En el Apartado 3.1, 
+explicamos que dos 
+bienes son 
+complementarios 
+perfectos cuando las 
+curvas de indiferencia 
+de los bienes tienen 
+forma de ángulo recto. 
+
+grama de televisión puede exigir una cierta combinación de capital (cámara y equipo de sonido, etc.) y de trabajo (productor, director, actores, etc.). Para hacer más programas de televisión, hay que aumentar todos los factores de producción proporcionalmente. En concreto, sería difícil aumentar la cantidad de capital a costa del trabajo, ya que los actores son factores de producción necesarios (salvo quizá para las películas de dibujos animados). Asimismo, sería difícil sustituir capital por trabajo, ya que actualmente la producción de películas exige un sofisticado equipo. 
+
+FIGURA 6.6 Las isocuantas cuando los factores son sustitutivos perfectos Cuando las isocuantas son líneas rectas, la RMST es constante. Por tanto, la relación a 
+la que pueden sustituirse mutuamente el capital y el trabajo es la misma cualquiera que sea la cantidad de factores que se utilice. Los puntos A , B y C representan tres combinaciones de capital y trabajo que generan el mismo nivel de producción q 3 . 
+
+FIGURA 6.7 La función de producción de proporciones fijas 
+Cuando las isocuantas tienen forma de L, solo puede utilizarse una combinación de trabajo y capital para obtener un determinado nivel de producción (como en el punto A de la isocuanta q 1 , en el B de la isocuanta q 2 y en el C de la isocuanta q 3 ). No es posible elevar el nivel de producción utilizando solamente más trabajo o más capital. 
+
+E J E M P L O 6 . 3 
+Una función de producción de trigo 
+Los productos agrícolas pueden cultivarse utilizando distintos métodos. El cultivo de productos agrícolas en las grandes explotaciones agrarias de Estados Unidos suele llevarse a cabo con una tecnología intensiva en capital , que exige realizar considerables inversiones en capital, como edificios y equipo, y relativamente poco trabajo. Sin embargo, los productos alimenticios también pueden producirse utilizando muy poco capital (una azada) y mucho trabajo (varias personas que tengan la paciencia y la resistencia necesarias para trabajar la tierra). Una manera de describir el proceso de producción agrícola es mostrar una isocuanta (o más) que describa las combinaciones de factores que generan un determinado nivel de producción (o varios niveles de producción). La descripción siguiente procede de una función de producción de trigo que se estimó estadísticamente . 
+La Figura 6.8 muestra una isocuanta, relacionada con la función de producción, que corresponde a un nivel de producción de 13.800 bushels de trigo al año. El gerente de la explotación agraria puede utilizarla para averiguar si es rentable contratar más trabajo o utilizar más maquinaria. Supongamos que la explotación está produciendo actualmente en el punto A con una cantidad de trabajo L de 500 horas y una cantidad de capital K de 100 horas-máquina. El gerente decide experimentar utilizando solamente 90 horas de máquina. Para producir la misma cantidad al año, observa que necesita sustituir este tiempo de máquina aumentando las horas de trabajo en 260. 
+Los resultados de este experimento indican al gerente la forma de la isocuanta de producción de trigo. Cuando compara el punto A (en el que L = 500 y K = 100) y el B (en el que L = 760 y K = 90) de la Figura 6.8, que se encuentran ambos en la misma isocuanta, observa que la relación marginal de sustitución técnica es igual a 0,04 ( – Δ K / Δ L = –( –10)/260 = 0,04). 
+La RMST indica al gerente el carácter de la disyuntiva entre aumentar el trabajo y reducir la utilización de maquinaria agrícola. Como el valor de la RMST es significativamente inferior a 1, el gerente sabe que cuando el salario de un trabajador agrícola es igual al coste de utilizar una máquina, debe utili
+La función de producción de alimentos en la que se basa este ejemplo viene dada por la ecuación q = 100( K L ), donde q es el nivel de producción en bushels de alimentos al año, K es la cantidad de máquinas utilizadas al año y L es el número de horas de trabajo al año. 
+
+FIGURA 6.8 Isocuanta que describe la producción de trigo 
+Un nivel de producción de trigo de 13.800 bushels al año puede obtenerse con diferentes combinaciones de trabajo y capital. El proceso de producción más intensivo en capital se encuentra en el punto A y el más intensivo en trabajo en el B . La relación marginal de sustitución técnica entre A y B es 10/260 = 0,04. 
+zar más capital (en su nivel actual de producción, necesita 260 unidades de trabajo para sustituir 10 de capital). En realidad, sabe que a menos que el trabajo sea significativamente menos caro que el uso de una máquina, su proceso de producción debe volverse más intensivo en capital. 
+La decisión relativa a la cantidad de trabajadores agrícolas que deben contratarse y de máquinas que deben utilizarse no puede tomarse totalmente hasta que no se analicen los costes de producción en el siguiente capítulo. Sin embargo, este ejemplo muestra que la información sobre las isocuantas de producción y la relación marginal de sustitución técnica puede ayudar a un gerente. También sugiere por qué la mayoría de las explotaciones agrarias de Estados Unidos y Canadá, donde el trabajo es relativamente caro, producen en un nivel en el que la RMST es relativamente alta (con una elevada relación capital-trabajo), mientras que las de los países en vías de desarrollo en los que el trabajo es barato tienen una RMST más baja (y una relación capital-trabajo menor) . La combinación exacta de trabajo y capital que se utilice depende de los precios de los factores, tema que analizamos en el Capítulo 7. 
+ 
+
+6.4 LOS RENDIMIENTOS DE ESCALA 
+Nuestro análisis de la sustitución de factores en el proceso de producción nos ha mostrado qué ocurre cuando una empresa sustituye un factor por otro y mantiene constante la producción. Sin embargo, a largo plazo, periodo en el que todos los factores son variables, la empresa también debe preguntarse cuál es la mejor manera de aumentar la producción. Una forma de aumentarla es modificar la escala de operaciones incrementando todos los factores de producción en la misma proporción . Si se necesita un agricultor con una cosechadora y un acre de tierra para producir 100 bushels de trigo, ¿qué ocurrirá con la producción si utilizamos dos agricultores con dos máquinas y dos acres de tierra? La producción aumentará con casi toda seguridad, pero ¿se duplicará, se duplicará con creces o no llegará a duplicarse? Los rendimientos de escala es la tasa a la que aumenta la producción cuando se incrementan los factores proporcionalmente. Examinaremos tres casos distintos: rendimientos crecientes de escala, constantes y decrecientes. 
+Rendimientos crecientes de escala Si la producción se duplica con creces cuando se duplican los factores, hay rendimientos crecientes de escala . La presencia de rendimientos crecientes de escala podría deberse a que el aumento de la escala de operaciones permite a los directivos y a los trabajadores especializarse en sus tareas y utilizar fábricas y equipos mayores y más complejos. La cadena de montaje de automóviles es un famoso ejemplo de rendimientos crecientes. 
+La presencia de rendimientos crecientes de escala es una importante cuestión desde el punto de vista de la política económica. Si hay rendimientos crecientes, es económicamente más ventajoso tener una única y gran empresa (cuyo coste es relativamente bajo) que la existencia de muchas y pequeñas (cuyo coste es relativamente alto). Como esta gran empresa puede controlar el precio que fija, es posible que sea necesario regularla. Por ejemplo, la existencia de rendimientos crecientes en el suministro de electricidad es una de las razones por las que las compañías eléctricas son grandes y están reguladas. 
+Rendimientos constantes de escala La segunda posibilidad con respecto a la escala de producción es que la producción se duplique cuando se duplican los factores. En este caso, decimos que hay rendimientos constantes de escala . Cuando hay rendimientos constantes de escala, la escala de operaciones de la empresa no afecta a la productividad de sus factores: es fácil reproducir una planta que utilice un determinado proceso de producción, a fin de que dos plantas produzcan el doble. Por ejemplo, una gran agencia de viajes podría prestar el mismo servicio por cliente y utilizar la misma relación capital (espacio de oficina)/trabajo (agentes de viajes) que una pequeña agencia de viajes que atendiera a menos clientes. 
+Rendimientos decrecientes de escala Por último, la producción puede no llegar a duplicarse cuando se duplican todos los factores. Este caso de rendimientos decrecientes de escala se aplica a algunas empresas que realizan operaciones en gran escala. A la larga, las dificultades para organizar y gestionar la producción a gran escala pueden reducir tanto la productividad del trabajo como la del capital. La comunicación entre los trabajadores y los directivos puede ser difícil de controlar y el centro de trabajo puede volverse más impersonal. Por tanto, es probable que el caso de los rendimientos decrecientes esté relacionado con los 
+problemas de las tareas de coordinación y de mantenimiento de una vía útil de 
+comunicación entre la dirección y los trabajadores. 
+
+• rendimientos de escala Tasa a la que aumenta la producción cuando se incrementan los factores proporcionalmente. 
+• rendimientos crecientes de escala Situación en la que la producción se duplica con creces cuando se duplican todos los factores. 
+• rendimientos constantes de escala Situación en la que la producción se duplica cuando se duplican todos los factores. 
+• rendimientos decrecientes de escala Situación en la que la producción no llega a duplicarse cuando se duplican todos los factores. 
+
+
+
+
+Descripción de los rendimientos de escala 
+Los rendimientos de escala no tienen por qué ser uniformes en todos los niveles 
+posibles de producción. Por ejemplo, en los niveles de producción más bajos, la 
+empresa podría tener rendimientos crecientes de escala, pero constantes y final
+mente decrecientes en niveles de producción más altos. 
+La presencia o la ausencia de rendimientos de escala se muestra gráficamente en las dos partes de la Figura 6.9. La línea recta 0A que parte del origen en cada 
+panel describe un proceso de producción en el que se utiliza trabajo y capital 
+como factores de producción para obtener diversos niveles de producción en una 
+relación de 5 horas de trabajo por 2 horas de máquina. En la Figura 6.9(a), la función de producción de la empresa muestra rendimientos constantes de escala. 
+Cuando se utilizan 5 horas de trabajo y 2 de máquina, se obtiene una producción 
+de 10 unidades. Cuando se duplican ambos factores, la producción se duplica, 
+pasando de 10 a 20 unidades, y cuando se triplican los factores, la producción se 
+triplica, pasando de 10 a 30 unidades. En otras palabras, se necesita el doble de 
+ambos factores para producir 20 unidades y el triple para producir 30. 
+En la Figura 6.9(b), la función de producción de la empresa muestra rendimientos crecientes de escala. Ahora las isocuantas están cada vez más próximas 
+unas de otras a medida que nos alejamos del origen a lo largo de 0A . Como con
+secuencia, se necesita menos del doble de ambos factores para aumentar la producción de 10 unidades a 20 y mucho menos del triple para producir 30 unidades. Ocurriría lo contrario si la función de producción mostrara rendimientos decrecientes de escala (no representada aquí). Cuando hay rendimientos decrecientes, las isocuantas están cada vez más lejos unas de otras a medida que se elevan proporcionalmente los niveles de producción. 
+Los rendimientos de escala varían considerablemente de unas empresas e industrias a otras. Manteniéndose todo lo demás constante, cuanto mayores son los rendimientos de escala, mayores son probablemente las empresas de la industria. La industria manufacturera muestra una tendencia mayor a tener rendimientos crecientes de escala que el sector servicios debido a que exige mayores inversiones en equipo de capital. Los servicios son más intensivos en trabajo y normalmente pueden suministrarse con la misma eficiencia en pequeñas cantidades que en gran escala. 
+
+FIGURA 6.9 Los rendimientos de escala 
+Cuando el proceso de producción de una empresa muestra rendimientos constantes de escala, como se observa en el movimiento a lo largo del rayo 0A de la parte (a) , las isocuantas guardan la misma distancia entre sí a medida que se incrementa la producción proporcionalmente. Sin embargo, cuando hay rendimientos crecientes de escala como en (b) , las isocuantas están cada vez más cerca unas de otras a medida que se incrementan los factores a lo largo del rayo. 
+
+
+E J E M P L O 6 . 4 
+Los rendimientos de escala en la industria de alfombras 
+La industria de alfombras de Estados Unidos gira en torno a la ciudad de Dalton, situada al norte de Georgia. Esta industria, que en la primera mitad del siglo XX, era relativamente pequeña y estaba formada por muchas pequeñas empresas, creció rápidamente hasta convertirse en una gran industria formada por un gran número de empresas de todos los tamaños. Por ejem
+plo, el Cuadro 6.5 muestra los cinco mayores fabricantes de alfombras, clasificados en función de su facturación en millones de dólares en 2005 . 
+Actualmente, hay tres fabricantes relativamente grandes (Shaw, Mohawk y Beaulieu), así como algunos productores más pequeños. También hay muchos minoristas, distribuidores al por mayor, grupos compradores y cadenas nacionales de venta de alfombras al por menor. La industria ha crecido rápidamente por varias razones. La demanda de consumo de alfombras de lana, nylon y polipropileno para usos comerciales y residenciales se ha disparado. Además, algunas innovaciones como la introducción de máquinas mayores, más rápidas y más eficientes para fabricar alfombras han reducido los costes y han aumentado extraordinariamente la producción. Las innovaciones y la competen
+cia, unidas al aumento de la producción, han reducido los precios reales de las 
+alfombras. 
+¿En qué medida puede atribuirse el crecimiento de la industria de alfombras a la presencia de rendimientos de escala? La elaboración de factores de 
+producción clave (como hilos resistentes a las manchas) y la distribución de 
+alfombras a los minoristas y los consumidores han mejorado, desde luego, considerablemente. Pero ¿y la producción de alfombras? La producción es intensiva en capital: las fábricas requieren elevadas inversiones en rápidas máqui
+nas que convierten distintos tipos de hilos en alfombras, así como en máquinas 
+que colocan los refuerzos en las alfombras, las cortan en las dimensiones adecuadas y las empaquetan, las etiquetan y las distribuyen. 
+En conjunto, el capital físico (incluidos la planta y el equipo) explica alrededor del 77 por ciento de los costes de un fabricante representativo, mientras 
+que el trabajo explica el 23 por ciento restante. Los grandes fabricantes de alfombras han aumentado con el paso del tiempo su escala de operaciones instalando máquinas para fabricar alfombras mayores y más eficientes en fábricas más grandes. Al mismo tiempo, el uso de trabajo en estas fábricas también 
+ha aumentado significativamente. ¿Cuál ha sido el resultado? Los aumentos 
+proporcionales de los factores han provocado un aumento más que proporcional de la producción de estas fábricas más grandes. Por ejemplo, la duplica
+ción del capital y del trabajo podría provocar un aumento de la producción del 110 por ciento. Sin embargo, esta pauta no ha sido uniforme en toda la industria. La mayoría de los fabricantes más pequeños han observado que los pequeños cambios de la escala de operaciones afectan poco o nada a la producción, es decir, los pequeños aumentos proporcionales de los factores solo han 
+aumentado la producción proporcionalmente. 
+Podemos decir, pues, que la industria de alfombras es un sector en el que 
+hay rendimientos constantes de escala en las fábricas relativamente pequeñas, 
+pero rendimientos crecientes en las más grandes. Sin embargo, estos rendimientos crecientes son limitados y es de esperar que si se ampliaran aún más 
+las fábricas, acabaría habiendo rendimientos decrecientes de escala. 
+
+R E SU M E N 
+1. Una función de producción describe el nivel máximo de producción que puede obtener una empresa con cada combinación específica de factores. 
+2. A corto plazo, uno o más factores del proceso de producción son fijos. A largo plazo, todos pueden ser variables. 
+3. Es útil describir la producción con un factor variable, el trabajo, por medio del producto medio del trabajo (que mide la producción por unidad de trabajo) y del producto marginal del trabajo (que mide la producción adicional que genera un aumento del trabajo en una unidad). 
+4. Según la ley de los rendimientos marginales decrecientes , cuando uno o más factores son fijos, es probable que un factor variable (normalmente el trabajo) tenga un producto marginal que acabe disminuyendo a medida que se incrementa la cantidad del factor. 
+5. Una isocuanta es una curva que muestra todas las combinaciones de factores que generan un determinado nivel de producción. La función de producción de una empresa puede representarse por medio de una serie de isocuantas correspondientes a diferentes niveles de producción. 
+6. Las isocuantas siempre tienen pendiente negativa, ya que el producto marginal de todos los factores es positivo. La forma de cada isocuanta puede describirse por medio de la relación marginal de sustitución técnica en cada punto de la isocuanta. La relación marginal de sustitución técnica del capital por trabajo (RMST) es la cantidad en que puede reducirse el capital cuando se utiliza una unidad más de trabajo, de tal manera que la producción permanece constante. 
+7. El nivel de vida que puede alcanzar un país para sus ciudadanos está estrechamente relacionado con el nivel de productividad del trabajo. Los descensos de la tasa de crecimiento de la productividad registrados en los países desarrollados se deben, en parte, a la falta de crecimiento de la inversión de capital. 
+8. Las posibilidades de sustitución de unos factores por otros en el proceso de producción van desde una función de producción en la que los factores son perfectamente sustituibles hasta una función en la que las proporciones de factores que se utilizan son fijas ( una función de producción de proporciones fijas ). 
+9. En el análisis a largo plazo, tendemos a centrar la atención en la elección de la escala o el volumen de operaciones de la empresa. Los rendimientos constantes de escala significan que la duplicación de todos los factores provoca una duplicación del nivel de producción. Hay rendimientos crecientes de escala cuando la producción se duplica con creces cuando se duplican los factores, mientras que hay rendimientos decrecientes de escala cuando la producción no llega a duplicarse. 

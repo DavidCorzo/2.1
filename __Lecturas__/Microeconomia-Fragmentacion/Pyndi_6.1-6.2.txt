@@ -1,0 +1,255 @@
+﻿
+La producción 
+En los tres últimos capítulos, hemos centrado la atención en el lado de la demanda del mercado, es decir, en las preferencias y la conducta de los consumidores. A continuación, pasamos a analizar el lado de la oferta y la conducta de los productores. Veremos cómo pueden organizar las empresas su producción eficientemente y cómo varían sus costes de producción cuando varían tanto los precios de los factores como el nivel de producción. También veremos que existen muchas similitudes entre las decisiones optimizadoras de las empresas y las de los consumidores. En otras palabras, comprender la conducta de los consumidores nos ayudará a comprender la conducta de los productores. 
+En este capítulo y en el siguiente, analizamos la teoría de la empresa , que explica cómo toma una empresa decisiones de producción minimizadoras de los costes y cómo varían los costes resultantes cuando varía la producción. El conocimiento de la producción y del coste nos ayudará a comprender las características de la oferta del mercado. También nos resultará útil para abordar los problemas que surgen normalmente en las empresas. Para verlo, consideremos simplemente algunos de los problemas con los que suele encontrarse una compañía como General Motors. ¿Cuánta maquinaria de montaje y cuánto trabajo debe utilizar en sus nuevas plantas de automóviles? Si quiere aumentar la producción, ¿debe contratar más trabajadores, construir nuevas plantas o las dos cosas a la vez? ¿Tiene más sentido que una única planta produzca diferentes modelos o debe fabricarse cada modelo en una planta distinta? ¿Qué costes debe esperar GM durante el próximo año? ¿Cómo es probable que varíen estos con el tiempo e influya en ellos el nivel de producción? Estas preguntas afectan no solo a las empresas, sino también a otros productores de bienes y servicios, como el Estado y los organismos sin fines de lucro. 
+Las decisiones de producción de una empresa 
+En los Capítulos 3 y 4, estudiamos la conducta de los consumidores dividiéndola en tres pasos. En primer lugar, explicamos cómo se describen las preferencias de los consumidores. En segundo lugar, explicamos el hecho de que los consumidores se enfrentan a restricciones presupuestarias. En tercer lugar, vimos que, dadas sus preferencias y sus restricciones presupuestarias, pueden elegir combinaciones de bienes para maximizar su satisfacción. Las decisiones de producción de las empresas son análogas a las decisiones de compra de los consumidores y pueden comprenderse también siguiendo tres pasos: 
+1. La tecnología de producción: Necesitamos describir de alguna manera cómo pueden transformarse los factores (como el trabajo, el capital y las materias primas) en productos (como automóviles y televisores). De la misma forma que un consumidor puede alcanzar un nivel de satisfacción comprando diferentes combinaciones de bienes, la empresa puede obtener un determinado nivel de producción utilizando diferentes combinaciones de factores. Por ejemplo, una empresa de electrónica puede producir 10.000 televisores al mes utilizando una cantidad considerable de trabajo (por ejemplo, trabajadores que monten los televisores manualmente) y muy poco capital o construyendo una fábrica muy automatizada intensiva en capital y utilizando muy poco trabajo. 
+2. Restricciones de costes: Las empresas deben tener en cuenta los precios del trabajo, del capital y de otros factores. De la misma forma que el consumidor está sujeto a un presupuesto limitado, la empresa se preocupará por sus costes de producción. Por ejemplo, la empresa que produce 10.000 televisores al mes quiere producirlos de una forma que minimice su coste total de producción, que depende en parte de los precios de los factores que utiliza. 
+3. Elecciones de los factores: Dada su tecnología de producción y los precios del trabajo, del capital y de otros factores, la empresa debe decidir qué cantidad va a utilizar de cada factor para producir su producto. De la misma forma que un consumidor tiene en cuenta los precios de los diferentes bienes cuando decide la cantidad que va a comprar de cada uno, la empresa debe tener en cuenta los precios de los diferentes factores cuando decide la cantidad que va a utilizar de cada factor. Si nuestra empresa de electrónica produce en un país que tiene bajos salarios, puede decidir producir televisores utilizando una gran cantidad de trabajo y utilizar así muy poco capital. 
+
+Estos tres pasos son los componentes básicos de la teoría de la empresa , por lo que los analizaremos detalladamente en este capítulo y en el siguiente. También abordaremos otros aspectos importantes de la conducta de la empresa. Por ejemplo, suponiendo que la empresa siempre utiliza una combinación de factores minimizadora de los costes, veremos cómo varía su coste total de producción con la cantidad que produce y cómo puede elegir la cantidad que maximiza sus beneficios. 
+Comenzamos este capítulo mostrando cómo puede representarse la tecnología de producción de la empresa por medio de una función de producción, que es una descripción sucinta de cómo se transforman los factores en producción. A continuación, utilizamos la función de producción para mostrar cómo varía la producción de la empresa cuando se altera uno de los factores (el trabajo) manteniendo fijos todos los demás. Después pasamos a analizar el caso más general en el que la empresa puede alterar todos sus factores y mostramos cómo elige la combinación de factores que minimiza sus costes para obtener su producción. Nos ocuparemos especialmente de la escala de operaciones de la empresa. Por ejemplo, ¿hay ventajas tecnológicas que aumentan la productividad de la empresa a medida que aumenta su escala? 
+
+• teoría de la empresa Explicación de cómo toma 
+la empresa sus decisiones 
+de producción 
+minimizadoras de los costes y de cómo varía su coste con su nivel de producción. 
+
+
+
+6.1 LA TECNOLOGÍA DE PRODUCCIÓN 
+En el proceso de producción, las empresas convierten los factores de producción en 
+productos . Son factores de producción todo lo que debe utilizar la empresa en el proceso de producción. Por ejemplo, en una panificadora, los factores son el trabajo de sus trabajadores; las materias primas, como la harina y el azúcar; y el capital invertido en sus hornos, batidoras y demás equipo para producir productos como pan, pasteles y pastas. 
+Como verá el lector, podemos dividir los factores en las grandes categorías de trabajo, materias primas y capital , cada una de las cuales puede contener subdivisiones más estrictas. El trabajo engloba los trabajadores cualificados (carpinteros, ingenieros) y los trabajadores no cualificados (trabajadores agrícolas), así como los esfuerzos empresariales de los directivos de la empresa. Las materias primas son el acero, los plásticos, la electricidad, el agua y cualquier otro bien que la empresa compre y transforme en productos finales. El capital son el suelo, los edificios, la maquinaria y demás equipo, así como las existencias. 
+
+La función de producción 
+Las empresas pueden transformar los factores en productos de diversas formas utilizando distintas combinaciones de trabajo, materias primas y capital. La relación entre los factores del proceso de producción y la producción resultante puede describirse por medio de una función de producción . Una función de producción indica el máximo nivel de producción q que puede obtener una empresa con cada combinación específica de factores . Aunque en la práctica las empresas utilizan una amplia variedad de factores, simplificaremos nuestro análisis centrando la atención en dos solamente: el trabajo L y el capital K . Podemos expresar, pues, la función de producción de la manera siguiente: 
+• factores de producción 
+Factores que intervienen 
+en el proceso de 
+producción (por ejemplo, 
+trabajo, capital y materias 
+primas). 
+ 
+q = F ( K, L ) 
+
+Ecuación 6.1
+
+• función de producción 
+Función que muestra el 
+nivel de producción 
+máximo que puede 
+obtener la empresa con 
+cada combinación 
+especificada de factores.
+
+Esta ecuación relaciona la cantidad de producción con las cantidades de los dos factores, capital y trabajo. Por ejemplo, la función de producción podría describir el número de computadoras personales que pueden producirse cada año con una planta de 1.000 metros cuadrados y una determinada cantidad de obreros de montaje. O podría describir la cosecha que puede obtener un agricultor con una cantidad dada de maquinaria y de trabajadores. 
+
+Es importante tener presente que los factores y los productos son flujos . Por ejemplo, un fabricante de computadoras personales utiliza una determinada cantidad de trabajo cada año para producir un determinado número de computadoras ese año. Aunque sea propietaria de su planta y maquinaria, podemos imaginar que paga un coste por el uso de esa planta y esa maquinaria durante el año. Para simplificar el análisis, prescindiremos frecuentemente de la referencia temporal y solo nos referiremos a las cantidades de trabajo, capital y producción. Sin embargo, a menos que se indique lo contrario, nos referimos a la cantidad de trabajo y de capital utilizados cada año y a la cantidad de producción obtenida cada año. 
+
+
+Como la función de producción permite combinar los factores en diferentes proporciones, un producto puede obtenerse de muchas formas. En el caso de la función de producción de la ecuación (6.1), podría significar utilizar más capital y menos trabajo o viceversa. Por ejemplo, el vino puede producirse con un método intensivo en trabajo utilizando muchos trabajadores o con un método intensivo en capital utilizando máquinas y unos cuantos trabajadores. 
+Obsérvese que la ecuación (6.1) se aplica a una tecnología dada , es decir, a un determinado estado de los conocimientos sobre los distintos métodos que podrían utilizarse para transformar los factores en productos. A medida que la tecnología es más avanzada y la función de producción varía, una empresa puede obtener más producción con un conjunto dado de factores. Por ejemplo, una nueva cadena de montaje más rápida puede permitir a un fabricante de computadoras producir más computadoras en un determinado periodo de tiempo. 
+Las funciones de producción describen lo que es técnicamente viable cuando la empresa produce eficientemente ; es decir, cuando utiliza cada combinación de factores de la manera más eficaz posible. La suposición de que la producción siempre es técnicamente eficiente no tiene por qué cumplirse siempre, pero es razonable esperar que las empresas que desean obtener beneficios no despilfarren recursos. 
+El corto plazo y el largo plazo 
+Una empresa tarda en ajustar sus factores para producir con diferentes cantidades de trabajo y de capital. Una fábrica nueva debe planificarse y construirse y la maquinaria y demás equipo de capital debe pedirse y entregarse. Estas actividades tardan en realizarse fácilmente un año o más, por lo que si analizamos las decisiones de producción de un breve periodo de tiempo, como un mes o dos, es improbable que la empresa pueda sustituir mucho trabajo por capital. 
+Como las empresas deben preguntarse si pueden alterar o no los factores y, en caso afirmativo, en qué periodo de tiempo, es importante distinguir entre el corto plazo y el largo plazo cuando se analiza la producción. El corto plazo se refiere al periodo de tiempo en el que no es posible alterar las cantidades de uno o más factores de producción. En otras palabras, a corto plazo hay al menos un factor que no puede alterarse; ese factor se denomina factor fijo . El largo plazo es el tiempo necesario para que todos los factores sean variables. 
+Como cabría esperar, los tipos de decisiones que pueden tomar las empresas son muy diferentes a corto plazo de las que toman a largo plazo. A corto plazo, las empresas alteran la intensidad con que utilizan una planta y una maquinaria dadas; a largo plazo, alteran el tamaño de la planta. Todos los factores fijos a corto plazo representan los resultados de decisiones a largo plazo tomadas anteriormente en función de las estimaciones de las empresas sobre lo que sería rentable producir y vender. 
+No existe ningún periodo de tiempo específico, por ejemplo, un año, que distinga el corto plazo del largo plazo, sino que hay que distinguirlos caso por caso. Por ejemplo, el largo plazo puede ser de uno o dos días solamente en el caso de un puesto callejero de limonada y llegar a ser de cinco o diez años en el de una empresa petroquímica o de un fabricante de automóviles. 
+Veremos que a largo plazo las empresas pueden alterar las cantidades de todos sus factores para minimizar el coste de producción. Sin embargo, antes de  
+tratar este caso general, comenzamos analizando el corto plazo, periodo en el que 
+solo puede alterarse uno de los factores del proceso de producción. Suponemos 
+que el capital es el factor fijo y que el trabajo es el factor variable. 
+
+• corto plazo Periodo de tiempo en el que no es posible alterar las cantidades de uno o más factores de producción. 
+• factor fijo Factor de producción que no puede 
+alterarse. 
+• largo plazo Periodo 
+de tiempo necesario para que todos los factores de producción sean variables. 
+
+LA PRODUCCIÓN CON UN FACTOR VARIABLE (EL TRABAJO) 
+Cuando una empresa decide la cantidad que va a comprar de un determinado 
+factor, tiene que comparar el beneficio resultante con el coste. A veces resulta 
+útil analizar el beneficio y el coste desde una perspectiva marginal centrando 
+la atención en la producción adicional generada por una cantidad adicional de 
+un factor. En otras situaciones, resulta útil realizar la comparación adoptando 
+una perspectiva de cantidades medias , considerando el resultado de un aumento significativo de un factor. Analizaremos estos beneficios y costes de las dos 
+maneras. 
+Cuando el capital es fijo, pero el trabajo es variable, la empresa solo puede 
+producir más incrementando su cantidad de trabajo. Imaginemos, por ejemplo, 
+que gestionamos una fábrica de confección. Aunque tenemos una cantidad fija 
+de equipo, podemos contratar más o menos trabajo para coser y manejar las 
+máquinas. Tenemos que decidir cuánto trabajo vamos a contratar y cuánta ropa 
+vamos a producir. Para tomar esa decisión, necesitamos saber cómo aumenta la 
+cantidad de producción q (en caso de que aumente) cuando se incrementa la de 
+trabajo L . 
+El Cuadro 6.1 nos da esta información. Las tres primeras columnas muestran la cantidad de producción que puede obtenerse en un mes con diferentes 
+cantidades de trabajo y con una cantidad fija de capital de 10 unidades. La primera columna indica la cantidad de trabajo, la segunda la cantidad fija de capital y la tercera el nivel total de producción. Cuando la cantidad de trabajo es 
+cero, el nivel de producción también es cero. A continuación, el nivel de producción aumenta a medida que se incrementa la cantidad de trabajo hasta 8 unidades. A partir de ese punto, el nivel total de producción disminuye: aunque al principio cada unidad de trabajo puede aprovechar cada vez más la maquinaria y la planta existentes, hay un momento a partir del cual el trabajo adicional ya no es útil y, de hecho, puede ser contraproducente. Cinco personas pueden manejar una cadena de montaje mejor que dos, pero diez pueden estorbarse. 
+El producto medio y marginal 
+La contribución del trabajo al proceso de producción puede describirse tanto desde la perspectiva de las variables medias como desde la perspectiva de las variables marginales . La cuarta columna del Cuadro 6.1 muestra el producto medio del trabajo (PMe L ), que es el nivel de producción por unidad de trabajo. El producto medio se calcula dividiendo la producción total q por la cantidad total de trabajo L . El producto medio del trabajo mide la productividad de la plantilla de la empresa por medio de la cantidad de producción que genera cada trabajador en promedio. En nuestro ejemplo, el producto medio aumenta inicialmente, pero disminuye cuando la cantidad de trabajo es superior a cuatro. 
+La quinta columna del Cuadro 6.1 muestra el producto marginal del trabajo (PM L ). Es la producción adicional que se obtiene cuando se utiliza 1 unidad más de trabajo. Por ejemplo, con un capital fijo de 10 unidades, cuando se incrementa la cantidad de trabajo de 2 a 3, la producción total aumenta de 30 a 60, creando una producción adicional de 30 (es decir, 60 − 30) unidades. El producto marginal del trabajo puede expresarse de la siguiente manera: Δ q / Δ L ; en otras palabras, la variación de la producción Δ q provocada por un aumento de la cantidad de trabajo Δ L de una unidad. 
+Recuérdese que el producto marginal del trabajo depende de la cantidad que se utilice de capital. Si se incrementa el capital de 10 a 20, lo más probable es que aumente el producto marginal del trabajo. ¿Por qué? Porque es probable que los trabajadores adicionales sean más productivos si tienen más capital. El producto marginal, al igual que el producto medio, primero aumenta y después disminuye, en este caso después de la tercera unidad de trabajo. 
+• producto medio 
+Producción total por 
+unidad de un determinado 
+factor. 
+• producto marginal 
+Producción adicional 
+obtenida cuando se 
+incrementa un factor en 
+una unidad.
+Resumiendo: 
+Producto medio del trabajo = producción/cantidad de trabajo = q / L 
+Producto marginal del trabajo = variación de la producción/variación 
+de la cantidad de trabajo = Δ q / Δ L 
+Las pendientes de la curva de producto 
+La Figura 6.1 representa la información que contiene el Cuadro 6.1 (hemos unido todos los puntos de la figura con líneas continuas). La Figura 6.1(a) muestra que cuando se incrementa el trabajo, la producción aumenta hasta que alcanza un máximo de 112; a partir de entonces, disminuye. La parte de la curva de producción total que es descendente se representa por medio de una línea discontinua para mostrar que producir con más de ocho trabajadores no es económicamente racional; nunca puede ser rentable utilizar cantidades adicionales de un factor caro para producir menos cantidad. 
+
+----------------------------------------------------Page 7 -----------------------------------------------------
+
+FIGURA 6.1 La producción con un factor variable 
+La curva de producto total de (a) muestra el nivel de producción que se obtiene con diferentes cantidades de trabajo. El producto medio y el marginal de (b) pueden obtenerse (utilizando los datos del Cuadro 6.1) a partir de la curva de producto total. En el punto A de (a) , el producto marginal es 20 porque la tangente a la curva de producto total tiene una pendiente de 20. En el punto B de (a) , el producto medio del trabajo es 20, que es la pendiente de la recta que va desde el origen hasta B . El producto medio del trabajo en el punto C de (a) viene dado por la pendiente de la línea recta 0C . A la izquierda del punto E de (b) , el producto marginal es superior al producto medio y el producto medio es creciente; a la derecha de ese punto, el producto marginal es inferior al producto medio y este último es decreciente. Por tanto, E es el punto en el que el producto medio y el marginal son iguales y el producto medio alcanza su máximo. 
+
+La Figura 6.1(b) muestra las curvas de producto medio y marginal (las unidades del eje de ordenadas no representan en este caso el nivel de producción mensual sino el nivel de producción por trabajador y mes). Obsérvese que el producto marginal es positivo mientras el nivel de producción esté aumentando, pero se vuelve negativo cuando está disminuyendo. 
+No es una casualidad que la curva de producto marginal corte al eje de abscisas del gráfico en el punto en el que el producto total es máximo. Ello se debe a que cuando se introduce un trabajador que frena la producción y reduce la producción total, el producto marginal de ese trabajador es negativo. 
+Las curvas de producto medio y de producto marginal están estrechamente relacionadas entre sí. Cuando el producto marginal es mayor que el producto medio, el producto medio es creciente . Es lo que ocurre en el caso de las cantidades de trabajo inferiores a 4 en la Figura 6.1(b). Si la producción de un trabajador más es mayor que el producto medio de cada trabajador existente (es decir, el producto marginal es mayor que el producto medio), la contratación de ese trabajador aumenta la producción media. En el Cuadro 6.1, dos trabajadores producen 30 unidades, lo que equivale a un producto medio de 15 unidades por trabajador. La utilización de un tercer trabajador eleva la producción en 30 unidades (a 60), lo cual aumenta el producto medio de 15 a 20. 
+Asimismo, cuando el producto marginal es menor que el producto medio, el producto medio es decreciente . Es lo que ocurre cuando la cantidad de trabajo es superior a 4 en la Figura 6.2(b). En el Cuadro 6.1, seis trabajadores producen 108 unidades, por lo que el producto medio es 18. La utilización de un séptimo trabajador solo eleva el producto marginal en 4 unidades (menos que el producto medio), lo cual reduce el producto medio a 16. 
+Hemos visto que el producto marginal es superior al producto medio cuando este es creciente e inferior al producto medio cuando este es decreciente. Por tanto, el producto marginal debe ser igual al producto medio cuando este alcanza su máximo, lo cual ocurre en el punto E de la Figura 6.1(b). 
+¿Por qué es de esperar en la práctica que la curva de producto marginal sea ascendente y después descendente? Pensemos en una cadena de montaje de televisores. Un número de trabajadores inferior a diez posiblemente sería insuficiente para manejar la cadena de montaje. Entre diez y quince quizá pudieran manejarla, pero no de una manera muy eficiente. Si se añadieran algunos más, posiblemente la cadena de montaje funcionaría de una manera mucho más eficiente, por lo que el producto marginal de esos trabajadores sería muy alto. Sin embargo, es posible que el aumento de la eficiencia comenzara a disminuir una vez que hubiera más de 20 trabajadores. El producto marginal del vigésimo segundo, por ejemplo, posiblemente seguiría siendo muy alto (y superior al producto medio), pero no tanto como el del décimo noveno o el del vigésimo. El producto marginal del vigésimo quinto sería aún menor, quizá igual al producto medio. Con 30 trabajadores, la introducción de uno más aumentaría la producción, pero no mucho más (por lo que el producto marginal, aunque positivo, sería inferior al producto medio). Cuando hubiera más de 40 trabajadores, los trabajadores adicionales se estorbarían simplemente y reducirían, en realidad, la producción (por lo que el producto marginal sería negativo). 
+La curva de producto medio del trabajo 
+La Figura 6.1(a) muestra la relación geométrica entre el producto total y las curvas de producto medio y marginal. El producto medio del trabajo es el producto 
+
+----------------------------------------------------Page 9 -----------------------------------------------------
+CAPÍTULO 6 • La producción 225 
+total dividido por la cantidad de trabajo. Por ejemplo, en el punto B el producto 
+medio es igual al nivel de producción de 60 dividido por las 3 unidades de tra
+bajo utilizadas, o sea, 20 unidades de producción por unidad de trabajo. Sin embargo, ese cociente es precisamente la pendiente de la recta que va desde el ori
+gen hasta el punto B de la Figura 6.1(a). En general, el producto medio del trabajo viene 
+dado por la pendiente de la recta que va desde el origen hasta el punto correspondiente de 
+la curva de producto total . 
+La curva de producto marginal del trabajo 
+Como hemos visto, el producto marginal del trabajo es la variación que experimenta el producto total cuando se utiliza una unidad más de trabajo. Por 
+ejemplo, en el punto A el producto marginal es 20 porque la tangente a la curva de producto total tiene una pendiente de 20. En general, el producto marginal del trabajo en un punto viene dado por la pendiente del producto total en ese punto . Vemos en la Figura 6.1(a) que el producto marginal del trabajo aumenta 
+inicialmente, alcanza un máximo cuando la cantidad del factor utilizada es 
+igual a 3 y disminuye a medida que nos desplazamos en sentido ascendente por 
+la curva de producto total a C y a D . En el punto D , en el que se maximiza el 
+producto total, la pendiente de la tangente a la curva de producto total es 0, al 
+igual que el producto marginal. Más allá de ese punto, el producto marginal se 
+vuelve negativo. 
+Relación entre el producto medio y el producto marginal Obsérvese la 
+relación gráfica entre el producto medio y el marginal en la Figura 6.1(a). 
+En el punto B , el producto marginal del trabajo (la pendiente de la tangente a 
+la curva de producto total en B , que no se muestra explícitamente) es mayor 
+que el producto medio (recta discontinua OB ). Como consecuencia, el producto medio del trabajo aumenta cuando nos desplazamos de B a C . En el punto 
+C , el producto medio y el producto marginal del trabajo son iguales: el producto medio es la pendiente de la recta que parte del origen OC , mientras 
+que el producto marginal es la tangente a la curva de producto total en C 
+(obsérvese que el producto medio y el marginal son iguales en el punto E de 
+la Figura 6.1(b)). Por último, cuando nos desplazamos de C a D , el producto 
+marginal disminuye por debajo del producto medio; el lector puede comprobar que la pendiente de la tangente a la curva de producto total en cualquier 
+punto situado entre C y D es menor que la pendiente de la recta que parte del 
+origen. 
+La ley de los rendimientos marginales decrecientes 
+
+El producto marginal del trabajo (y de otros factores) es decreciente en la mayoría de los procesos de producción. La ley de los rendimientos marginales decrecientes establece que a medida que van añadiéndose más cantidades iguales de un factor (y los demás se mantienen fijos), acaba alcanzándose un punto en el que son cada vez menores los incrementos de la producción. Cuando la cantidad de trabajo es pequeña (y el capital es fijo), la cantidad adicional de trabajo aumenta significativamente la producción al permitir a los trabajadores realizar tareas especializadas. Sin embargo, a la larga se aplica la ley de los rendimientos decrecientes: cuando hay demasiados trabajadores, algunos son ineficaces, por lo que disminuye el producto marginal del trabajo. 
+La ley de los rendimientos marginales decrecientes se aplica normalmente al corto plazo, periodo en el que al menos uno de los factores se mantiene fijo. Sin embargo, también puede aplicarse al largo plazo. Aunque los factores sean variables a largo plazo, un directivo puede querer analizar las opciones de producción en las que se mantiene constante la cantidad de uno o más factores. Supongamos, por ejemplo, que solo son viables dos tamaños de planta y que los directivos deben decidir cuál construir. En ese caso, querrán saber cuándo entrarán en juego los rendimientos marginales decrecientes en cada una de las dos opciones. 
+No confunda el lector la ley de los rendimientos marginales decrecientes con los posibles cambios de la calidad del trabajo a medida que se incrementa este (como ocurriría probablemente si se contratan primero los trabajadores más cualificados y finalmente los menos cualificados). En nuestro análisis de la producción, hemos supuesto que todas las cantidades de trabajo son de la misma calidad; los rendimientos marginales decrecientes se deben a que hay limitaciones para utilizar otros factores fijos (por ejemplo, maquinaria), no a una disminución de la calidad de los trabajadores. Tampoco confunda el lector los rendimientos marginales decrecientes con los rendimientos negativos . La ley de los rendimientos decrecientes describe un producto marginal decreciente , pero no necesariamente negativo. 
+La ley de los rendimientos marginales decrecientes se aplica a una tecnología de producción dada. Sin embargo, los inventos y otras mejoras de la tecnología pueden permitir con el tiempo que toda la curva de producto total de la 
+Figura 6.1(a) se desplace en sentido ascendente, de tal manera que pueda producirse más con los mismos factores. La Figura 6.2 ilustra este principio. 
+Inicialmente, la curva de producción viene dada por O 1 , pero las mejoras de la 
+tecnología pueden permitir que esta se desplace en sentido ascendente, primero a O 2 y después a O 3 . 
+Supongamos, por ejemplo, que a medida que se utiliza con el tiempo más trabajo en la producción agrícola, la tecnología mejora. Estas mejoras podrían consistir en semillas resistentes a los pesticidas fruto de la ingeniería genética, fertilizantes más potentes y eficaces y mejor maquinaria agrícola Como 
+consecuencia, el nivel de producción pasa de A (correspondiente a una cantidad 
+de trabajo de 6 en la curva O 1 ) a B (correspondiente a una cantidad de trabajo 
+de 7 en la curva O 2 ) y a C (correspondiente a una cantidad de trabajo de 8 en la 
+curva O 3 ). 
+El paso de A a B y a C relaciona un aumento de la cantidad de trabajo con 
+un aumento del nivel de producción y hace que parezca que no hay rendimientos marginales decrecientes cuando, en realidad, los hay. De hecho, el desplazamiento de la curva de producto total sugiere que puede no haber ninguna 
+implicación negativa a largo plazo para el crecimiento económico. En realidad, 
+como veremos en el Ejemplo 6.1, el hecho de no tener en cuenta las mejoras de 
+la tecnología a largo plazo llevó al economista británico Thomas Malthus a predecir erróneamente unas consecuencias funestas si continuaba creciendo la población. 
+
+Trabajo por periodo de tiempo 
+FIGURA 6.2 El efecto de la mejora tecnológica 
+La productividad del trabajo (la producción por unidad de trabajo) puede aumentar si mejora la tecnología, aunque el trabajo muestre rendimientos decrecientes en un determinado proceso de producción. Cuando nos desplazamos del punto A de la curva O 1 al B de la curva O 2 y al C de la curva O 3 con el paso del tiempo, la productividad del trabajo aumenta. 
+
+• ley de los rendimientos marginales decrecientes 
+Principio según el cual cuando aumenta el uso de un factor mientras los 
+demás permanecen 
+constantes, la producción 
+adicional obtenida acaba 
+disminuyendo. 
+
+Malthus y la crisis de los alimentos 
+La ley de los rendimientos marginales decrecientes fue fundamental para el pensamiento del economista político Thomas Malthus (1766-1834) . Malthus creía que la cantidad limitada de tierra del planeta no sería capaz de suministrar suficientes alimentos a la población, a medida que esta creciera. Predijo que a medida que disminuyeran tanto la productividad marginal del trabajo como la productividad media y hubiera más bocas que alimentar, el hambre y la inanición serían generales. Afortunadamente, Malthus estaba en un error (aunque tenía razón en lo que se refería a los rendimientos marginales decrecientes del trabajo). 
+En los últimos cien años, las mejoras tecnológicas han alterado espectacularmente la producción de alimentos en la mayoría de los países (incluidos los países en vías de desarrollo, como la India), por lo que el producto medio del trabajo y la producción total de alimentos han aumentado. Entre estas mejoras se encuentran nuevos tipos de semillas de elevado rendimiento y resistentes a las plagas, mejores fertilizantes y mejor maquinaria de recolección. Como muestra el índice de producción de alimentos del Cuadro 6.2, la producción total de alimentos en todo el mundo ha sido continuamente superior al crecimiento demográfico desde 1960 . Este aumento de la productividad agrícola mundial también se muestra en la Figura 6.3, que representa el rendimiento medio de 
+Thomas Malthus, Essay on the Principle of Population, 1798. 
+Los datos sobre la producción mundial de alimentos per cápita proceden de la Organización de Naciones Unidas para la Alimentación y la Agricultura (FAO). Véase también http://faostat.fao.org . 
+
+FIGURA 6.3 El rendimiento de la producción de cereales y el precio mundial de los 
+productos alimenticios 
+El rendimiento de la producción de cereales ha aumentado. El precio mundial medio de los productos alimenticios subió temporalmente a principios de los años 70, pero ha bajado desde entonces. 
+la producción de cereales desde 1970 hasta 2005, junto con un índice mundial de precios de los productos alimenticios . Obsérvese que el rendimiento de los cereales ha aumentado ininterrumpidamente durante este periodo. Como el crecimiento de la productividad agrícola ha provocado un aumento de las existencias de productos alimenticios superior al crecimiento de la demanda, los precios han bajado, salvo a principios de los años 70 en que subieron temporalmente. 
+Los datos proceden de la Organización de Naciones Unidas para la Alimentación y la Agricultura y del Banco Mundial. Véase también http://faostat.fao.org . 
+4 
+4 
+Índice de precios de los alimentos (1990 = 100) 
+Rendimiento de la producción de cereales 
+(toneladas métricas por hectárea) 
+
+----------------------------------------------------Page 13 -----------------------------------------------------
+CAPÍTULO 6 • La producción 229 
+El hambre sigue siendo un grave problema en algunas zonas, como la región africana del Sahel, debido en parte a la baja productividad de su mano 
+de obra. Aunque otros países producen un excedente agrícola, sigue habiendo 
+mucha hambre debido a las dificultades para redistribuir los alimentos de las 
+regiones del mundo más productivas a las menos productivas y a la baja renta de estas últimas. 
+La productividad del trabajo 
+Aunque este libro se ocupa de la microeconomía, muchos de los conceptos aquí 
+expuestos constituyen los fundamentos del análisis macroeconómico. A los macroeconomistas les preocupa especialmente la productividad del trabajo , que es el producto medio del trabajo de toda una industria o de toda la economía. En este subapartado, analizamos la productividad del trabajo en Estados Unidos y en algunos otros países. Es un tema interesante en sí mismo, pero también ayuda a ilustrar algunas de las relaciones entre la microeconomía y la macroeconomía. 
+Como el producto medio mide el nivel de producción por unidad de trabajo, es relativamente fácil calcularlo (ya que la cantidad total de trabajo y el nivel total de producción son las únicas informaciones que necesitamos). La productividad del trabajo permite realizar útiles comparaciones entre sectores o dentro de un mismo sector a lo largo de un periodo de tiempo prolongado. Pero es especialmente importante porque determina el nivel real de vida que puede lograr un país para sus ciudadanos. 
+Productividad y nivel de vida Existe una sencilla relación entre la productividad del trabajo y el nivel de vida. En un año cualquiera, el valor agregado de los bienes y los servicios producidos por una economía es igual a los pagos que se efectúan a todos los factores de producción, entre los cuales se encuentran los salarios, los alquileres del capital y los beneficios de las empresas. Pero son los consumidores los que reciben, en última instancia, estos pagos de los factores, en forma de salarios, sueldos, dividendos o intereses. Por tanto, los consumidores en conjunto solo pueden aumentar su nivel de consumo a largo plazo aumentando la cantidad total que producen. 
+El estudio de las causas del crecimiento de la productividad constituye un importante campo de investigación en economía. Sabemos que una de las fuentes más importantes de crecimiento de la productividad del trabajo es el crecimiento del stock de capital , es decir, de la cantidad total de capital de que se dispone para producir. Como un aumento del capital significa más y mejor maquinaria, cada trabajador puede producir una cantidad mayor por cada hora trabajada. Otra importante fuente de crecimiento de la productividad del trabajo es el cambio tecnológico , es decir, el desarrollo de nuevas tecnologías que permiten utilizar el trabajo (y otros factores de producción) de una manera más eficaz y producir bienes nuevos y de mayor calidad. 
+Como muestra el Ejemplo 6.2, los niveles de productividad del trabajo varían considerablemente de unos países a otros, y lo mismo ocurre con las tasas de crecimiento de la productividad. Es importante comprender estas diferencias, dada la enorme influencia de la productividad en el nivel de vida. 
+• productividad del 
+trabajo Producto medio 
+del trabajo de una industria o a la economía en su conjunto. 
+• stock de capital 
+Cantidad total de capital 
+que puede utilizarse para 
+producir. 
+• cambio tecnológico 
+Desarrollo de nuevas 
+tecnologías que permiten 
+utilizar los factores de 
+producción de forma más 
+eficiente. 
+
+EJ E M PLO 6 . 2 
+La productividad del trabajo y el nivel de vida 
+¿Continuará mejorando el nivel de vida en Estados Unidos, Europa y Japón o se limitarán estas economías a impedir que las futuras generaciones disfruten de menos bienestar que las actuales? Dado que las rentas reales de los consumidores de estos países solo aumentan al mismo ritmo que la productividad, la respuesta depende de la productividad del trabajo. 
+Como muestra el Cuadro 6.3, en Estados Unidos el nivel de producción por persona ocupada era en 2006 mayor que en otros países industriales. Pero en el periodo posterior a la Segunda Guerra Mundial hay dos patrones inquietantes. En primer lugar, hasta la década de 1990 la productividad creció a una tasa menor en Estados Unidos que en casi todos los demás países desarrollados. En segundo lugar, el crecimiento de la productividad fue en todos los países desarrollados mucho menor en 1974-2006 que antes . 
+Durante la mayor parte del periodo 1960-1991, Japón fue el país que tuvo la tasa más alta de crecimiento de la productividad, seguido de Alemania y Francia. Estados Unidos fue el que tuvo la más baja, incluso algo menor que la del Reino Unido. Eso se debe en parte a las diferencias entre las tasas de inversión y de crecimiento del stock de capital de cada país. Japón, Francia y Alemania, que se reconstruyeron considerablemente después de la Segunda Guerra Mundial, son los países en los que más creció el capital después de la guerra. Por tanto, el hecho de que la tasa de crecimiento de la productividad de Estados Unidos sea menor que las de Japón, Francia y Alemania se debe a que estos países le dieron alcance después de la guerra. 
+
+
+El crecimiento de la productividad también va unido al sector de recursos naturales de la economía. A medida que comenzaron a agotarse el petróleo y otros recursos naturales, la producción por trabajador disminuyó. Las reglamentaciones relativas al medio ambiente (por ejemplo, la necesidad de 
+devolver el suelo a su situación original tras la explotación a cielo abierto 
+de las minas de carbón) aumentaron este efecto al comenzar a preocuparse 
+más la opinión pública por la importancia de la mejora de la calidad del aire 
+y del agua. 
+Obsérvese en el Cuadro 6.3 que en Estados Unidos el crecimiento de la productividad se aceleró en la década de 1990. Algunos economistas creen que la 
+tecnología de la información y las comunicaciones (TIC) ha sido el principal 
+impulsor de este crecimiento. Sin embargo, el lento crecimiento de los años 
+más recientes induce a pensar que la contribución de la TIC ya ha alcanzado 
+un máximo. 
+6.3 LA PRODUCCIÓN CON DOS FACTORES 
+VARIABLES 
+Hemos terminado nuestro análisis de la función de producción a corto plazo en 
+la que uno de los factores, el trabajo, es variable y, el otro, el capital, es fijo. Pasamos 
+ahora a analizar el largo plazo, en el que tanto el trabajo como el capital son variables. Ahora la empresa puede producir de diversas formas combinando distintas cantidades de trabajo y capital. En este apartado, veremos cómo puede elegir 
+una empresa entre distintas combinaciones de trabajo y capital que generan la 
+misma producción. En el primer subapartado, examinamos la escala del proceso 
+de producción, viendo cómo varía la producción cuando se duplican, se triplican, etc. las combinaciones de factores. 
+
+Las isocuantas 
+Comencemos examinando la tecnología de producción de una empresa que utiliza dos factores y puede alterar los dos. Supongamos que los factores son trabajo y capital y que se utilizan para producir alimentos. El Cuadro 6.4 muestra el nivel de producción que puede obtenerse con diferentes combinaciones de factores.

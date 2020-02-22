@@ -1,0 +1,674 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+El coste 
+de producción 
+En el capítulo anterior, hemos examinado la tecnología de produc- ción de la empresa, es decir, la relación que muestra cómo pueden transformarse los factores en productos. A continuación, vemos cómo determina la tecnología de producción, junto con los precios de los factores, el coste de producción de la empresa. 
+Dada la tecnología de producción de una empresa, los directi- vos deben decidir cómo van a producir. Como hemos visto, los fac- tores pueden combinarse de diferentes maneras para obtener la misma cantidad de producción. Por ejemplo, se puede obtener un determinado nivel de producción con una gran cantidad de traba- jo y muy poco capital, con muy poco trabajo y una gran cantidad de capital o con alguna otra combinación de los dos. En este capí- tulo vemos cómo se elige la combinación óptima —es decir, minimi- zadora de los costes — de factores. También vemos que los costes de una empresa dependen de su nivel de producción y que es pro- bable que varíen con el tiempo. 
+Comenzamos explicando cómo se definen y se miden los cos- tes , distinguiendo entre el concepto de coste que utilizan los econo- mistas, a los cuales les interesan los futuros resultados de la em- presa, y el que utilizan los contables, que se fijan en su situación financiera. A continuación, vemos cómo influyen las característi- cas de la tecnología de producción de la empresa en los costes, tan- to a corto plazo, en que la empresa puede hacer poco para alterar su stock de capital, como a largo plazo, en que puede modificar to- dos sus factores. 
+A continuación, mostramos cómo puede generalizarse el con- cepto de rendimientos de escala para tener en cuenta tanto los cam- bios de la combinación de factores como la producción de muchos bienes diferentes. También mostramos que a veces el coste dismi- nuye con el paso del tiempo a medida que los directivos y los tra- bajadores adquieren experiencia y aumentan la eficiencia del pro- ceso de producción. Por último, mostramos cómo puede utilizarse la información empírica para estimar las funciones de costes y pre- decir los costes. 
+7 E S B O Z O 
+D E L C A P Í T U L O 
+7.1 La medición de los costes: 
+¿qué costes son importantes? 247 7.2 El coste a corto plazo 256 
+7.3 El coste a largo plazo 262 
+7.4 Las curvas de costes 
+a largo plazo y a corto plazo 272 
+7.5 La producción con dos productos: 
+las economías de alcance 278 
+* 7.6 Las variaciones dinámicas de los costes: la curva de aprendizaje 282 
+* 7.7 La estimación y la predicción 
+de los costes 288 
+Apéndice: 
+La teoría de la producción 
+y los costes: análisis matemático 297 L I S T A D E E J E M P L O S 
+7.1 La elección de la localización de una nueva escuela de derecho 250 
+7.2 Los costes irrecuperables, los costes fijos y los costes variables: las computadoras, los programas informáticos y las pizzas 253 
+7.3 El coste a corto plazo 
+de la fundición de aluminio 259 7.4 La influencia de las tasas 
+sobre los vertidos en la elección de los factores de producción 268 
+7.5 Las economías de alcance 
+en el sector del transporte 
+7.1 
+LA MEDICIÓN DE LOS COSTES: ¿QUÉ COSTES SON IMPORTANTES? 
+por carretera 281 
+7.6 La curva de aprendizaje en la práctica 286 
+Antes de poder ver cómo minimizan las empresas los costes, debe- mos aclarar para empezar qué entendemos por coste y cómo debe- mos calcularlo. Por ejemplo, ¿qué conceptos deben incluirse en los 
+7.7 Las funciones de costes de la energía eléctrica 290 
+247 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+248 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+costes de una empresa? Los costes comprenden claramente los salarios que paga a sus trabajadores y el alquiler que paga por el espacio de oficina. Pero, ¿qué ocu- rre si la empresa ya posee un edificio de oficinas y no tiene que pagar un alqui- ler? ¿Cómo debemos tratar el dinero que gastó hace dos o tres años (y que no puede recuperar) en equipo o en investigación y desarrollo? Responderemos a este tipo de preguntas en el contexto de las decisiones económicas que toman los directivos. 
+El coste económico y el coste contable 
+Los economistas y los contables financieros conciben los costes de forma distin- ta; los segundos normalmente se ocupan de seguir la evolución del activo y del pasivo y de informar sobre los resultados pasados de la empresa para uso exter- no, por ejemplo en las memorias anuales. Los contables financieros tienden a adoptar una perspectiva retrospectiva a la hora de analizar las finanzas y las ope- 
+• coste contable Gastos 
+reales más gastos de 
+depreciación del equipo 
+de capital. 
+• coste económico Coste que tiene para una empresa la utilización de 
+recursos económicos en la 
+producción, incluido el 
+coste de oportunidad. 
+• coste de oportunidad 
+Coste correspondiente a 
+las oportunidades que se 
+pierden cuando no se utilizan los recursos de la empresa para el fin para el que tienen más valor. 
+raciones de la empresa. El coste contable —que es el coste que calculan los con- tables financieros — puede comprender, pues, conceptos que un economista no in- cluiría y puede no incluir conceptos que los economistas normalmente incluyen. Por ejemplo, comprende los gastos reales más los gastos de depreciación del equi- po de capital, que se averiguan aplicando las normas fiscales al respecto. 
+Los economistas —y confiamos en que los directivos— analizan la empresa pensando en el futuro. Se ocupan de la asignación de los recursos escasos, por lo que les interesa saber cuáles serán probablemente los costes en el futuro y cómo podría reorganizar la empresa sus recursos para reducirlo y mejorar su rentabilidad. Como veremos, les interesa, pues, el coste económico , que es el coste de utilizar los recursos en la producción. La palabra económico nos dice que debemos distinguir entre los costes que la empresa puede controlar y los que no puede controlar. Aquí desempeña un importante papel el concepto de coste de oportunidad. 
+El coste de oportunidad 
+El coste de oportunidad es el coste de las oportunidades que se pierden por no destinar los recursos de la empresa al mejor fin alternativo. Consideremos, por ejemplo, el caso de una empresa que posee un edificio y que, por tanto, no paga ningún alquiler por el espacio de oficina. ¿Significa eso que el coste de ese espa- cio es nulo? Mientras que el contable de la empresa diría que sí, un economista señalaría que la empresa podría obtener un alquiler por él arrendándolo a otra em- presa. Este alquiler que deja de ganar es el coste de oportunidad de utilizar el es- pacio de oficinas y debe incluirse en el coste económico de producción. 
+Veamos cómo puede hacer el coste de oportunidad que el coste económico sea diferente del coste contable en el tratamiento de los salarios y de la depreciación económica. Consideremos el caso del propietario de una tienda que gestiona él mismo, pero que decide no pagarse un sueldo. Aunque no se realice ninguna transacción monetaria (y, por tanto, no se registre ningún coste contable), la em- presa incurre en un coste de oportunidad porque el propietario podría percibir un sueldo competitivo trabajando en otro lugar. 
+Los contables y los economistas también suelen tratar la depreciación de for- ma distinta. Cuando estiman la futura rentabilidad de una empresa, a los econo- 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 249 
+mistas y a los directivos les interesa el coste de capital de la planta y la maquina- 
+ria. Este implica no solo el gasto monetario realizado para comprar y poner en 
+funcionamiento la maquinaria, sino también el coste del desgaste. Cuando se eva- 
+lúan los resultados pasados, los expertos en contabilidad de costes, al realizar sus 
+cálculos de los costes y los beneficios, utilizan reglas fiscales que se aplican a ti- 
+pos de activos definidos en un sentido general para averiguar la depreciación. 
+Pero estas deducciones por depreciación no tienen por qué reflejar el verdadero 
+desgaste del equipo, que es probable que varíe de unos activos a otros. 
+Los costes irrecuperables 
+Aunque el coste de oportunidad suele estar oculto, debe tenerse en cuenta cuan- 
+do se toman decisiones económicas. En el caso de los costes irrecuperables , que son un gasto que se ha realizado y que no puede recuperarse, ocurre exactamen- te lo contrario. Suelen ser visibles, pero una vez que se han realizado, deben de- jarse siempre de lado cuando se toman decisiones económicas. 
+Como no pueden recuperarse, no deben influir en las decisiones de la empre- sa. Consideremos, por ejemplo, la compra de equipo especializado para una plan- ta. Supongamos que solo puede utilizarse para hacer aquello para lo que se dise- ñó originalmente y que no puede dársele ningún otro uso. El gasto en este equipo es un coste irrecuperable. Como no tiene otro uso, su coste de oportunidad es cero . Por tanto, no debe incluirse en los costes económicos de la empresa. La decisión de comprar este equipo pudo haber sido buena o mala. Da lo mismo. Es agua pasa- da y no debe influir en las decisiones actuales. 
+¿Qué ocurriría si se pudiera dar otro uso al equipo o si se pudiera vender o alquilar a otra empresa? En ese caso, su uso implicaría un coste económico, a sa- ber, el coste de oportunidad de utilizarlo en lugar de venderlo o alquilarlo a otra empresa. 
+Consideremos ahora un posible coste irrecuperable. Supongamos, por ejem- plo, que la empresa aún no ha comprado el equipo especializado sino que está con- siderando meramente la posibilidad de comprarlo. Un posible coste irrecupera- ble es una inversión . En este caso, la empresa debe decidir si esa inversión en equipo especializado es económica , es decir, si generará una corriente de ingresos suficientemente grande para que esté justificado su coste. En el Capítulo 15, ex- plicamos detalladamente cómo se toma este tipo de decisiones. 
+Supongamos, a modo de ejemplo, que una empresa está considerando la posibilidad de trasladarse a otra ciudad. El año pasado pagó 500.000 dólares por una opción de compra de un edificio en la ciudad. Esta opción le da dere- cho a comprarlo con un coste de 5.000.000 de dólares, por lo que su gasto total será de 5.500.000 si acaba comprándolo. Ahora observa que ha quedado libre un edificio semejante en esa misma ciudad por un precio de 5.250.000. ¿Qué edificio debería comprar? La respuesta es el edificio inicial. La opción de 500.000 dólares es un coste irrecuperable que no debe afectar a la decisión actual de la empresa. Lo que está en cuestión es el gasto de otros 5.000.000 de dólares o de otros 5.250.000. Como el análisis económico elimina del análisis el coste irre- cuperable de la opción, el coste económico de la propiedad inicial es de 5.000.000 de dólares, mientras que el de la segunda es de 5.250.000. Naturalmente, si el nuevo edificio costara 4.900.000, la empresa debería comprarlo y renunciar a su opción. 
+• coste irrecuperable 
+Gasto que no puede 
+recuperarse una vez que 
+se realiza. 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+250 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+E J E M P L O 7 . 1 
+La elección de la localización de una nueva escuela de derecho 
+• coste total (CT o C) Coste económico total de 
+producción formado por los costes fijos y los costes variables. 
+• coste fijo (CF) Coste que no varía con el nivel de producción y que solo puede eliminarse 
+cerrando. 
+• coste variable (CV) Coste que varía con el nivel de producción. 
+La Escuela de Derecho de la Universidad de Northwestern está situada desde hace tiempo en Chicago, al borde del lago Michigan. Sin embargo, el campus principal de la universidad se encuentra en el barrio de Evanston, situado en las afueras de la ciudad. A mediados de los años 70, la escuela de derecho co- menzó a planear la construcción de un nuevo edificio y tuvo que elegir un em- plazamiento adecuado. ¿Debía construirlo en el lugar en el que se hallaba en ese momento, en el cual seguiría encontrándose cerca de los bufetes situados en el centro de la ciudad de Chicago, o debería trasladarse a Evanston, donde se integraría físicamente en el resto de la universidad? 
+La primera opción tenía numerosos y destacados defensores. Estos sostenían, en parte, que era eficaz desde el punto de vista de los costes construir el nue- vo edificio en la ciudad porque la universidad ya era propietaria del suelo. Si se quería construirlo en Evanston, habría que comprar una gran parcela. ¿Tiene sentido este argumento desde el punto de vista económico? 
+No. Frecuentemente se comete el error de no tener en cuenta los costes de oportunidad. Desde el punto de vista económico, sería muy caro construir el edificio en el centro de la ciudad porque el coste de oportunidad de los valio- sos terrenos situados al borde del lago es alto: esa propiedad podría haberse ven- dido por suficiente dinero para comprar los terrenos de Evanston y todavía habría sobrado dinero. 
+Al final, Northwestern decidió mantener la escuela de derecho en Chicago. Esta decisión fue cara. Tal vez fuera acertada si la localización de Chicago era especialmente valiosa para la escuela de derecho, pero no lo era si se tomó su- poniendo que el suelo del centro de la ciudad no tenía coste alguno. 
+Costes fijos y costes variables 
+Algunos costes de la empresa varían cuando varía la producción, mientras que otros no cambian mientras la empresa produzca algo. Esta distinción será impor- tante cuando examinemos en el siguiente capítulo la elección del nivel de pro- ducción que maximiza el beneficio de la empresa. Dividimos, pues, el coste total ( CT o C ) —el coste económico total de producción — en dos componentes: 
+• El coste fijo (CF) : coste que no varía con el nivel de producción y que solo pue- de eliminarse cerrando. 
+• El coste variable (CV): coste que varía cuando varía la producción. Dependiendo de las circunstancias, los costes fijos pueden comprender los 
+gastos en mantenimiento de la planta, seguro, calefacción y electricidad y quizá un número mínimo de trabajadores. Estos costes no varían independientemente de cuánto produzca la empresa. Los costes variables, que comprenden los gastos en sueldos, salarios y materias primas, aumentan cuando aumenta la producción. 
+El coste fijo no varía cuando varía el nivel de producción: debe pagarse inclu- so aunque no se produzca. La única manera de que una empresa pueda eliminar sus costes fijos es cerrando . 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 251 
+Cerrar Cerrar no significa necesariamente abandonar el sector. Supongamos que 
+una empresa de confección tiene varias fábricas, su demanda está disminuyen- 
+do y quiere reducir la producción y los costes lo más posible en una de las fábri- 
+cas. Reduciendo la producción de esa fábrica a cero, podría eliminar los costes de 
+materias primas y una gran parte del trabajo, pero seguiría teniendo los costes fi- 
+jos de pagar a los directivos de la fábrica, los vigilantes de seguridad y el mante- 
+nimiento. La única manera de eliminar esos costes fijos sería cerrar las puertas, 
+apagar la electricidad y quizá incluso vender o achatarrar la maquinaria. La em- 
+presa seguiría estando en el sector y podría mantener abierto el resto de las fábri- 
+cas. Podría incluso reabrir la fábrica cerrada, aunque podría tener costes si tuvie- 
+ra que comprar nueva maquinaria o modernizar la antigua. 
+¿Qué costes son fijos y cuáles son variables? ¿Cómo sabemos qué costes son 
+fijos y cuáles son variables? La respuesta depende del horizonte temporal que es- 
+temos considerando. En un horizonte temporal muy breve —por ejemplo, uno o 
+dos meses — la mayoría de los costes son fijos. En un horizonte tan breve, una 
+empresa normalmente está obligada a recibir y pagar los envíos contratados de 
+materias primas y no puede despedir fácilmente a ningún trabajador, independien- 
+temente de lo mucho o poco que produzca. 
+En cambio, en un horizonte largo —por ejemplo, dos o tres años — muchos 
+costes se vuelven variables. En un largo horizonte, si la empresa quiere reducir 
+su producción, puede reducir su plantilla, comprar menos materias primas y qui- 
+zá vender incluso parte de su maquinaria. En un horizonte muy largo —por ejem- 
+plo, diez años — casi todos los costes son variables. Es posible despedir a los tra- 
+bajadores y a los directivos (o reducir el empleo no reponiendo las bajas 
+voluntarias) y una gran parte de la maquinaria puede venderse o no sustituirse 
+cuando se queda obsoleta y se achatarra. 
+Saber qué costes son fijos y cuáles son variables es importante para la gestión 
+de una empresa. Cuando una empresa planea aumentar o reducir su producción, 
+quiere saber cómo afectará ese cambio a sus costes. Consideremos, por ejemplo, 
+un problema que tuvo Delta Air Lines. Delta quería saber cómo variarían sus cos- 
+tes si redujera un 10 por ciento el número de vuelos programados. La respuesta 
+depende de que se considere el corto plazo o el largo plazo. A corto plazo —por 
+ejemplo, en un periodo de seis meses — la programación es fija y es difícil despe- 
+dir a algunos trabajadores, por lo que la mayor parte de los costes a corto plazo 
+de Delta son fijos y no disminuirán significativamente reduciendo el número de 
+vuelos. A largo plazo —por ejemplo, en un periodo de dos años o más — la situa- 
+ción es muy distinta. Delta tiene tiempo suficiente para vender o para alquilar 
+los aviones que no necesite y para despedir a los trabajadores innecesarios. En 
+este caso, la mayoría de los costes de Delta son variables y, por tanto, pueden re- 
+ducirse significativamente si se reduce un 10 por ciento el número de vuelos. 
+Costes fijos y costes irrecuperables 
+La gente suele confundir los costes fijos con los costes irrecuperables. Como aca- 
+bamos de explicar, los costes fijos son costes que paga la empresa que está abier- 
+ta, independientemente de la cantidad que produzca. Esos costes pueden com- 
+prender, por ejemplo, los sueldos de los ejecutivos clave y los gastos de su espacio 
+de oficina y del personal auxiliar, así como el seguro y los costes de manteni- 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+252 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+miento de la planta. Los costes fijos pueden evitarse si la empresa cierra o aban- dona el sector: por ejemplo, ya no serán necesarios los ejecutivos clave y su per- sonal auxiliar. 
+Los costes irrecuperables, en cambio, son costes en los que se ha incurrido y que no pueden recuperarse . Un ejemplo es el coste de I + D de una compañía farma- céutica para desarrollar y probar un nuevo medicamento y, después, si se ha de- mostrado que el medicamento es seguro y eficaz, el coste de comercializarlo. Independientemente de que el medicamento sea un éxito o un fracaso, estos cos- tes no pueden recuperarse, por lo que son irrecuperables. Otro ejemplo es el cos- te de una planta de fabricación de chips que produce microprocesadores para computadoras. Como el equipo es demasiado especializado para poder utilizar- lo en otra industria, la mayor parte, si no todo, de este gasto, es irrecuperable, es decir, no puede recuperarse (una parte del coste podría recuperarse si el equipo se vendiera como chatarra). 
+Supongamos, por el contrario, que una empresa hubiera acordado hacer apor- taciones a un plan de jubilación de los trabajadores mientras estaba en funciona- miento, independientemente de su nivel de producción o de su rentabilidad. Estas aportaciones solo podrían cesar si la empresa cerrara. En este caso, las aportacio- nes anuales al plan de jubilación deberían considerarse costes fijos. 
+¿Por qué se distingue entre los costes fijos y los costes irrecuperables? Porque los costes fijos afectan a las futuras decisiones de la empresa, mientras que los costes irrecuperables no. Los costes fijos que son altos en relación con el ingreso y no pueden reducirse podrían llevar a una empresa a cerrar: eliminar esos cos- tes fijos y obtener un beneficio nulo podría ser mejor que incurrir en pérdidas continuas. Incurrir en un elevado coste irrecuperable podría ser más tarde una mala decisión (por ejemplo, el desarrollo infructuoso de un nuevo producto), pero el gasto se ha realizado y no puede recuperarse cerrando. Naturalmente, un cos- te irrecuperable en el que se prevé incurrir es diferente y, como hemos señalado an- tes, afectaría desde luego a las futuras decisiones de la empresa (por ejemplo, ¿debe emprender la empresa el desarrollo de ese nuevo producto?). 
+Amortización de los costes irrecuperables En la práctica, muchas empresas no siempre distinguen entre los costes irrecuperables y los costes fijos. Por ejem- plo, la compañía de semiconductores que gastó 600 millones de dólares en la plan- 
+• amortización Política que consiste en tratar un gasto realizado una sola vez como un coste anual repartido en una serie de años. 
+ta de fabricación de chips (claramente un coste irrecuperable) podría amortizar el gasto en seis años y tratarlo como un coste fijo de 100 millones de dólares al año. Eso está bien siempre que los directivos de la empresa entiendan que cerrando no desaparecerá el coste anual de 100 millones de dólares. De hecho, amortizar los gastos de capital de esta forma —repartiéndolos en muchos años y tratándolos como costes fijos — puede ser una útil forma de evaluar la rentabilidad a largo plazo de la empresa. 
+La amortización de unos elevados gastos de capital y su concepción como cos- tes fijos continuos también pueden simplificar el análisis económico del funcio- namiento de una empresa. Por ejemplo, como veremos, concibiendo los gastos de capital de esta forma puede ser más fácil comprender la disyuntiva a la que se enfrenta la empresa entre el uso de trabajo y el uso de capital. Para simplificar el análisis, normalmente trataremos los costes irrecuperables de esta forma cuando examinemos las decisiones de producción de la empresa. Cuando la distinción entre los costes irrecuperables y los costes fijos sea esencial para el análisis eco- nómico, se lo haremos saber al lector. 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+E J E M P L O 7 . 2 
+CAPÍTULO 7 • El coste de producción 253 
+Los costes irrecuperables, los costes fijos 
+y los costes variables: las computadoras, 
+los programas informáticos y las pizzas 
+A medida que avance el lector, verá que las decisiones de precios y de produc- ción de una empresa —y su rentabilidad — dependen extraordinariamente de la estructura de sus costes. Es importante, pues, que los directivos comprendan las características de los costes de producción y que sean capaces de saber cuá- les son fijos, cuáles variables y cuáles irrecuperables. Las magnitudes relativas de estos diferentes componentes del coste pueden variar considerablemente de unas industrias a otras. Buenos ejemplos son la industria de computadoras personales (en la que la mayoría de los costes son variables), la industria de programas informáticos (en la que la mayoría de los costes son irrecuperables) y el negocio de las pizzerías (en el que la mayoría de los costes son fijos). Veamos cada una de ellas por separado. 
+Algunas empresas como Dell, Gateway, Hewlett-Packard e IBM producen millones de computadoras personales todos los años. Como las computado- ras son muy parecidas, la competencia es feroz y la rentabilidad depende prin- cipalmente de la capacidad para mantener bajos los costes. La mayoría de es- tos costes son variables: aumentan en proporción al número de computadoras producidas cada año. Lo más importante es el coste de los componentes: el mi- croprocesador que realiza la mayor parte de las operaciones, los chips de me- moria, los discos duros y otros dispositivos de almacenamiento, las tarjetas de vídeo y de sonido, etc. Normalmente, la mayor parte de estos componentes se compran a proveedores externos en cantidades que dependen del número de computadoras que se produzca. 
+Otra importante parte del coste variable para estas empresas es el trabajo, es decir, los trabajadores necesarios para montar las computadoras, empaque- tarlas y enviarlas. Hay pocos costes irrecuperables, ya que las fábricas cuestan poco en relación con el valor de la producción anual de la empresa. Asimismo, hay pocos costes fijos, quizá los sueldos de los altos ejecutivos, algunos vigi- lantes de seguridad y la electricidad. Por tanto, cuando Dell y Hewlett-Packard piensan en la forma de reducir los costes, tratan principalmente de conseguir mejores precios para los componentes o de reducir la cantidad de mano de obra necesaria, factores ambos que reducen los costes variables. 
+¿Qué ocurre con los programas informáticos que se ejecutan en estas com- putadoras personales? Microsoft produce el sistema operativo Windows, así como toda una variedad de aplicaciones, como Word, Excel y PowerPoint. Pero otras muchas empresas —unas grandes y otras pequeñas — también producen programas informáticos para computadoras personales. Los costes de produc- ción de esas empresas son muy distintos de los costes de producción de los fa- bricantes de equipos. En la producción de programas informáticos, la mayo- ría de los costes son irrecuperables . Normalmente, una empresa de programas informáticos gastará una gran cantidad de dinero en desarrollar un nuevo pro- grama. Estos gastos no pueden recuperarse. 
+Una vez terminado el programa, la empresa puede tratar de recuperar su inversión (y de obtener también beneficios) vendiendo el mayor número po- sible de copias. El coste variable de producir copias del programa es muy bajo: 
+
+----------------------------------------------------- Page 8 -----------------------------------------------------
+254 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+principalmente el coste de copiar el programa en CD y de empaquetar y enviar el producto. El coste fijo de producción también es pequeño. Como la mayo- ría de los costes son irrecuperables, entrar en la industria de programas infor- máticos puede ser considerablemente arriesgado. Hasta que no se gaste el di- nero y se ponga a la venta el producto, es improbable que el empresario sepa cuántas copias puede vender y si podrá o no obtener un beneficio. 
+Pasemos, por último, a la pizzería de la esquina. Para una pizzería el ma- yor componente del coste es fijo. Los costes irrecuperables son bastante bajos porque los hornos, las sillas, las mesas y los platos pueden volver a venderse si la pizzería abandona el sector. Los costes variables también son bastante ba- jos: principalmente los ingredientes para hacer la pizza (la harina, la salsa de tomate, el queso y el salchichón para la típica pizza grande podrían costar 1 dólar) y quizá los salarios de un par de trabajadores para ayudar a producir, servir y repartir las pizzas. La mayor parte del coste es fijo: el coste de oportu- nidad del tiempo del propietario (podría trabajar normalmente entre 60 y 70 ho- ras a la semana), el alquiler y la electricidad y el agua. Como consecuencia de estos elevados costes fijos, la mayoría de las pizzerías (que podrían cobrar 12 dólares por una pizza grande cuya producción tiene un coste variable de alre- dedor de 3 dólares) no obtienen muchos beneficios. 
+El coste marginal y el coste medio 
+Para completar nuestro análisis de los costes, pasamos a continuación a examinar la distinción entre el coste marginal y el coste medio. Para explicar esta distin- ción, utilizamos un ejemplo numérico concreto de una función de costes (la rela- ción entre el coste y la producción) que representa la situación de los costes de mu- chas empresas y que se muestra en el Cuadro 7.1. Una vez explicados los conceptos de coste marginal y de coste medio, veremos la diferencia entre el análisis de los costes a corto plazo y a largo plazo. 
+• coste marginal (CM) 
+Aumento que experimenta 
+el coste cuando se 
+produce una unidad más. 
+• coste total medio (CTMe) Coste total de la empresa dividido por su 
+nivel de producción. 
+El coste marginal (CM) El coste marginal — denominado a veces coste incremen- tal — es el aumento que experimenta el coste cuando se produce una unidad más. Como el coste fijo no varía cuando varía el nivel de producción de la empresa, el coste marginal es igual al aumento que experimenta el coste variable o al aumen- to que experimenta el coste total cuando se produce una unidad más. Por tanto, puede expresarse de la siguiente manera: 
+CM = Δ CV/ Δ q = Δ CT/ Δ q 
+El coste marginal nos dice cuánto cuesta producir una unidad más. En el Cuadro 7.1 se calcula a partir del coste variable (columna 2) o del coste total (co- lumna 3). Por ejemplo, el coste marginal de incrementar la producción de 2 a 3 uni- dades es de 20 dólares porque el coste variable de la empresa aumenta de 78 a 98 (el coste total de producción también aumenta en 20 dólares, pasando de 128 a 148; el coste total se diferencia solamente del coste variable en el coste fijo, que por definición no varía cuando varía el nivel de producción). 
+El coste total medio (CTMe) El coste total medio , que se usa indistintamente con CMe y con el coste económico medio, es el coste total de la empresa dividido por 
+
+su nivel de producción, CT/ q . Así, por ejemplo, el coste total medio de producir cinco unidades es de 36 dólares, es decir, 180 $/5. El coste total medio nos dice bá- sicamente cuál es el coste de producción por unidad. 
+El CTMe tiene dos componentes. El coste fijo medio (CFMe) es el coste fijo (co- lumna 1 del Cuadro 7.1) dividido por el nivel de producción, CF/ q . Por ejemplo, el coste fijo medio de producir 4 unidades es de 12,50 dólares (50 $/4). Como el coste fijo es constante, el coste fijo medio disminuye cuando aumenta el nivel de producción. El coste variable medio (CVMe) es el coste variable dividido por el nivel de producción CV/ q . El coste variable medio de producir 5 unidades es de 26 dólares, es decir, 130 $/5. 
+Hemos analizado todos los tipos de costes que son relevantes para las deci- siones de producción tanto en los mercados competitivos como en los no com- petitivos. A continuación, pasamos a ver la diferencia entre los costes a corto plazo y a largo plazo. Esta distinción es especialmente importante en el caso de los costes fijos. Los costes que son fijos a muy corto plazo, por ejemplo, los sa- larios de los trabajadores que tienen un contrato indefinido, pueden no serlo a más largo plazo. Asimismo, los costes fijos de capital de planta y equipo se vuel- ven variables si el horizonte temporal es suficientemente largo para que la em- presa pueda comprar nuevo equipo y construir una nueva planta. Sin embar- go, los costes fijos no tienen por qué desaparecer, ni siquiera a largo plazo. Supongamos, por ejemplo, que una empresa ha estado cotizando a un progra- ma de jubilación de los trabajadores. Sus obligaciones, que son fijas en parte, pueden mantenerse incluso a largo plazo; solo podrían desaparecer si se decla- rara en quiebra. 
+• coste fijo medio (CFMe) Coste fijo dividido 
+por el nivel de producción. 
+• coste variable medio 
+(CVMe) Coste variable dividido por el nivel de producción. 
+
+----------------------------------------------------- Page 10 -----------------------------------------------------
+256 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+7.2 EL COSTE A CORTO PLAZO 
+En este apartado, centramos la atención en los costes a corto plazo. En el Apartado 7.3, analizamos los costes a largo plazo. 
+Los determinantes del coste a corto plazo 
+Los datos del Cuadro 7.1 muestran que los costes variables y los costes totales aumentan cuando aumenta la producción a corto plazo. El ritmo de aumento de estos costes depende de la naturaleza del proceso de producción y, en particular, del grado en que los factores variables que intervienen en la producción muestren 
+En el Apartado 6.2, 
+explicamos que los 
+rendimientos 
+marginales son 
+decrecientes cuando la 
+utilización de más 
+factores provoca unos 
+incrementos menores 
+de la producción. 
+El producto marginal 
+del trabajo se analiza 
+en el Apartado 6.2. 
+rendimientos decrecientes. Recuérdese que en el Capítulo 6 vimos que el trabajo muestra rendimientos marginales decrecientes cuando el producto marginal del trabajo es decreciente. Si el trabajo es el único factor, qué ocurre cuando eleva- mos el nivel de producción de la empresa? Para producir más, la empresa tiene que contratar más trabajo. En ese caso, si el producto marginal del trabajo dismi- nuye cuando se incrementa la cantidad contratada de trabajo (debido a los ren- dimientos decrecientes) deben realizarse unos gastos cada vez mayores para pro- ducir al ritmo más rápido. Como consecuencia, los costes variables y los costes totales aumentan rápidamente a medida que se eleva el nivel de producción. En cambio, si el producto marginal de trabajo solo disminuye levemente cuando se incrementa la cantidad de trabajo, el coste no aumenta tan deprisa cuando se in- crementa el nivel de producción . 
+Examinemos más detalladamente la relación entre la producción y el coste centrando la atención en los costes de una empresa que puede contratar tanto tra- bajo como desee a un salario fijo w . Recuérdese que el coste marginal CM es la va- riación que experimenta el coste variable cuando la producción varía en una uni- dad (es decir, Δ CV/ Δ q ). Pero la variación del coste variable es el coste unitario del trabajo adicional, w , multiplicado por la cantidad de trabajo adicional nece- saria para producir la cantidad adicional, Δ L . Dado que Δ CV = w Δ L , 
+CM = Δ CV/ Δ q = w Δ L / Δ q 
+Recuérdese que en el Capítulo 6 vimos que el producto marginal del trabajo, PM L , es la variación que experimenta el nivel de producción cuando la cantidad varía en una unidad, o sea, Δ q / Δ L . Por tanto, el trabajo adicional necesario para obte- ner una unidad más de producción es Δ L / Δ q = 1/PM L . Así pues, 
+CM = w /PM L 
+(7.1) 
+La ecuación (7.1) establece que cuando solo hay un factor variable, el coste marginal es igual al precio del factor dividido por su producto marginal. Supongamos, por ejemplo, que el producto marginal del trabajo es 3 y el salario es de 30 dólares por hora. En ese caso, una hora de trabajo elevará la producción en 3 unidades, por lo que una unidad de producción necesitará 1/3 de hora más de trabajo y costará 10 dólares. El coste marginal de producir esa unidad es de 10 
+Estamos suponiendo implícitamente que como el trabajo se contrata en mercados competiti- vos, el pago por unidad de trabajo utilizada es el mismo independientemente del nivel de producción de la empresa. 
+1 
+1 
+
+----------------------------------------------------- Page 11 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 257 
+dólares, que es igual al salario, 30 dólares, dividido por el producto marginal del 
+trabajo, 3. Cuando el producto marginal del trabajo es bajo, se necesita una gran 
+cantidad de trabajo adicional para obtener un nivel de producción más alto, lo 
+que hace, a su vez, que el coste marginal sea elevado. En cambio, cuando el pro- 
+ducto marginal es alto, se necesita poco trabajo y el coste marginal es bajo. En tér- 
+minos más generales, siempre que disminuye el producto marginal del trabajo, 
+el coste marginal de producción aumenta y viceversa . 
+Los rendimientos marginales decrecientes y el coste marginal La presencia de 
+rendimientos marginales decrecientes significa que el producto marginal del tra- 
+bajo disminuye cuando aumenta la cantidad de trabajo empleada. Como conse- 
+cuencia, cuando hay rendimientos marginales decrecientes, el coste marginal au- 
+menta cuando aumenta la producción. Esta relación puede observarse examinando 
+los datos sobre los costes marginales del Cuadro 7.1. En los niveles de produc- 
+ción comprendidos entre 0 y 4, el coste marginal es decreciente; sin embargo, en 
+los niveles de producción comprendidos entre 4 y 11, el coste marginal es crecien- 
+te, debido a la presencia de rendimientos marginales decrecientes. 
+Las formas de las curvas de costes 
+La Figura 7.1 muestra cómo varían diversas medidas de los costes cuando varía 
+la producción. La parte superior muestra el coste total y sus dos componentes: el 
+coste variable y el coste fijo; la parte inferior muestra el coste marginal y los cos- 
+tes medios. Estas curvas de costes, que se basan en el Cuadro 7.1, suministran un 
+tipo de información diferente. 
+Obsérvese en la Figura 7.1(a) que el coste fijo, CF, no varía cuando varía el ni- 
+vel de producción y se representa por medio de una línea recta horizontal en 50 
+dólares. El coste variable, CV, es cero cuando el nivel de producción es cero y, a 
+continuación, aumenta continuamente a medida que se incrementa la produc- 
+ción. La curva de coste total, CT, se obtiene sumando verticalmente la curva de 
+coste fijo a la curva de coste variable. Como el coste fijo es constante, la distancia 
+vertical entre las dos curvas siempre es de 50 dólares. 
+La Figura 7.1(b) muestra el conjunto correspondiente de curvas de coste va- 
+riable marginal y medio . Como el coste fijo total es de 50 dólares, la curva de 
+coste fijo medio, CFMe, desciende ininterrumpidamente de 50, cuando la pro- 
+ducción es 1, a cero, cuando es muy elevada. La forma de las curvas restantes vie- 
+ne determinada por la relación entre la curva de coste marginal y la de coste me- 
+dio. Siempre que el coste marginal se encuentra por debajo del coste medio, la 
+curva de coste medio es descendente. Siempre que se encuentra por encima, la cur- 
+va de coste medio es ascendente. Cuando el coste medio es mínimo, el coste mar- 
+ginal es igual al coste medio. 
+Cuando hay dos o más factores variables, la relación es más compleja. Sin embargo, sigue cum- 
+pliéndose el principio básico: cuanto mayor es la productividad de los factores, menor es el coste va- 
+riable en que debe incurrir la empresa para obtener un determinado nivel de producción. 
+Las curvas no coinciden exactamente con las cifras del Cuadro 7.1. Como el coste marginal re- 
+presenta la variación del coste correspondiente a una variación de la producción, hemos representa- 
+do la curva CM correspondiente a la primera unidad de producción suponiendo que el nivel de pro- 
+ducción es igual a 1/2, el correspondiente a la segunda unidad suponiendo que el nivel de producción 
+es igual a 1 1/2, etc. 
+ 
+(b) 
+Producción (unidades al año) 
+FIGURA 7.1 Las curvas de costes de una empresa 
+En (a) , el coste total CT es la suma vertical del coste fijo CF y el coste variable CV. En (b) , el coste total medio, CTMe, es la suma del coste variable medio, CVMe, y el coste fijo medio, CFMe. El coste marginal, CM, corta a las curvas de coste variable medio y coste total medio en sus puntos mínimos. 
+La relación medio-marginal El coste marginal y el coste medio son otro ejemplo de la relación entre los conceptos «medio» y «marginal» que describimos en el Capítulo 6 (cuando hablamos del producto marginal y medio). Por ejemplo, con un nivel de producción de 5 en el Cuadro 7.1, el coste marginal de 18 dólares es inferior al coste variable medio de 26 dólares; por tanto, la media disminuye cuan- do aumenta la producción. Pero cuando el coste marginal es de 29 dólares, que es mayor que el coste variable medio (25,5 dólares), la media aumenta cuando aumenta la producción. Por último, cuando el coste marginal (25 dólares) y el coste variable medio (25 dólares) son casi iguales, el coste variable medio solo aumenta levemente. 
+
+----------------------------------------------------- Page 13 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 259 
+La curva CTMe muestra el coste total medio de producción. Dado que es la 
+suma del coste variable medio y el coste fijo medio y la curva CFMe desciende en 
+todos los puntos, la distancia vertical entre la curva CTMe y la CVMe disminu- 
+ye a medida que aumenta la producción. La curva de coste CVMe alcanza su pun- 
+to mínimo en un nivel de producción más bajo que la CTMe, debido a que CM = 
+CVMe en su punto mínimo y CM = CTMe en su punto mínimo. Como CTMe 
+siempre es mayor que CVMe y la curva de coste marginal CM es ascendente, el 
+punto mínimo de la curva CTMe debe encontrarse por encima y a la derecha del 
+punto mínimo de la curva CVMe. 
+Otra manera de examinar la relación entre las curvas de coste total y las cur- 
+vas de coste medio y marginal es considerar la línea que va desde el origen hasta 
+el punto A de la Figura 7.1(a). En esa figura, la pendiente de la línea mide el cos- 
+te variable medio (un coste total de 175 dólares dividido por un nivel de produc- 
+ción de 7, o sea, un coste por unidad de 25 dólares). Como la pendiente de la cur- 
+va CV es el coste marginal (mide la variación que experimenta el coste variable 
+cuando el nivel de producción aumenta en 1 unidad), la tangente a la curva CV en 
+el punto A es el coste marginal de producción cuando el nivel de producción es 
+de 7. En el punto A , este coste marginal de 25 dólares es igual al coste variable me- 
+dio de 25, ya que el coste variable medio se minimiza en ese nivel de producción. 
+El coste total como un flujo Obsérvese que el nivel de producción de la empre- 
+sa se mide como un flujo: la empresa produce un determinado número de unida- 
+des al año . Por tanto, su coste total es un flujo, por ejemplo, un determinado nú- 
+mero de unidades monetarias al año (sin embargo, el coste medio y el marginal 
+se expresan en unidades monetarias por unidad ). Para simplificar, a menudo omi- 
+timos la referencia temporal y nos referimos al coste total en unidades moneta- 
+rias y a la producción en unidades. Pero el lector debe recordar que la producción 
+y el gasto de costes de una empresa se producen en un determinado periodo de 
+tiempo. También utilizamos a menudo el concepto de coste (C) para referirnos al 
+coste total. Asimismo, a menos que se indique lo contrario, empleamos el térmi- 
+no coste medio (CMe) para referirnos al coste total medio. 
+El coste marginal y el coste medio son conceptos muy importantes. Como ve- 
+remos en el Capítulo 8, son fundamentales en la elección del nivel de producción 
+de la empresa. El conocimiento de los costes a corto plazo es especialmente im- 
+portante para las empresas que producen en un entorno en el que las condicio- 
+nes de la demanda fluctúan considerablemente. Si la empresa está produciendo 
+actualmente un nivel de producción cuyo coste marginal es acusadamente cre- 
+ciente y la demanda puede aumentar en el futuro, es posible que la dirección quie- 
+ra expandir su capacidad de producción para evitar un incremento de los costes. 
+E J E M P L O 7 . 3 
+El coste a corto plazo de la fundición de aluminio 
+El aluminio es un metal versátil y ligero que tiene numerosas aplicaciones, en- tre las cuales se encuentran los aviones, los automóviles, el envasado y los ma- teriales de construcción. Su producción comienza con la extracción de la bau- xita en países como Australia, Brasil, Guinea, Jamaica y Surinám. La bauxita es un mineral que contiene una concentración relativamente alta de alúmina (óxi- 
+
+----------------------------------------------------- Page 14 -----------------------------------------------------
+260 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+do de aluminio), que se separa de la bauxita por medio de un proceso quími- co. La alúmina se convierte entonces en aluminio por medio de un proceso de fundición en el que se utiliza una corriente eléctrica para separar los átomos de oxígeno de las moléculas de óxido de aluminio. Es este proceso de fundición —que es el paso más caro en la producción de aluminio — en el que centramos aquí la atención. 
+Todos los grandes productores de aluminio, entre los que se encuentran Alcoa, Alcan, Reynolds, Alumax y Kaiser, tienen plantas de fundición. Una plan- ta de fundición representativa tiene dos líneas de producción, cada una de las cuales produce entre 300 y 400 toneladas de aluminio al día. Centraremos la atención en el coste de producción a corto plazo. Consideraremos, pues, el cos- te de funcionamiento de una planta existente porque no hay tiempo suficiente a corto plazo para construir nuevas plantas (se tarda alrededor de cuatro años en planear, construir y equipar totalmente una planta de fundición de aluminio). 
+Aunque el coste de una planta de fundición es considerable (más de mil millones de dólares), supondremos que la planta no puede venderse y, por tan- to, que el gasto es irrecuperable, por lo que podemos prescindir de él. Por otra parte, como los costes fijos, que son en gran parte, gastos administrativos, son relativamente bajos, también prescindiremos de ellos. Podemos centrar, pues, la atención enteramente en los costes variables a corto plazo. El Cuadro 7.2 muestra los costes medios de producción (por tonelada) de una fundición de 
+aluminio representativa 
+. Las cifras de costes se refieren a una planta que tie- 
+ne dos turnos al día y produce 600 toneladas diarias de aluminio. Si los precios fueran suficientemente altos, la empresa podría establecer tres turnos diarios pidiendo a los trabajadores que realizaran horas extraordinarias. Sin embar- go, los costes de salarios y de mantenimiento probablemente aumentarían al- 
+CUADRO 7.2 
+Costes de producción de la fundición de aluminio (dólares por tonelada) (basados en una producción de 600 toneladas diarias) 
+Costes por tonelada que son constantes en todos los niveles de producción 
+Electricidad 
+Alúmina 
+Otras materias primas 
+Energía y combustible de la planta 
+Subtotal 
+Producción ≤ 600 
+toneladas al día 
+316 $ 
+369 
+125 
+10 
+820 $ 
+Producción > 600 
+toneladas al día 
+316 $ 
+369 
+125 
+10 
+820 $ 
+Costes por tonelada que aumentan cuando la producción es superior a 600 toneladas diarias 
+Trabajo 
+Mantenimiento 
+Transporte 
+Subtotal 
+Costes totales de producción por tonelada 
+150 $ 
+120 
+50 
+320 $ 
+1.140 $ 
+225 $ 
+180 
+75 
+480 $ 
+1.300 $ 
+Este ejemplo se basa en Kenneth S. Corts, «The Aluminum Industry in 1994», Harvard Business School Case N9-799-129, abril, 1999. 
+4 
+4 
+
+----------------------------------------------------- Page 15 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 261 
+rededor de un 50 por ciento en este tercer turno, ya que sería necesario pagar 
+unos salarios más altos por las horas extraordinarias. Hemos dividido los com- 
+ponentes del coste del Cuadro 7.2 en dos grupos. El primero comprende los 
+costes que no variarían cualquiera que fuese el nivel de producción y el segun- 
+do comprende los costes que aumentarían si la producción fuera superior a 
+600 toneladas diarias. 
+Obsérvese que el mayor componente del coste de una fundición de alumi- 
+nio es la electricidad y el coste de la alúmina; juntos representan alrededor de 
+un 60 por ciento de los costes totales de producción. Como la electricidad, la 
+alúmina y otras materias primas se utilizan en proporción directa a la canti- 
+dad producida de aluminio, representan costes de producción por tonelada 
+que se mantienen constantes con respecto al nivel de producción. Los costes del 
+trabajo, el mantenimiento y el transporte también son proporcionales al nivel 
+de producción, pero solo cuando la planta tiene dos turnos diarios. Para pro- 
+ducir más de 600 toneladas al día, sería necesario un tercer turno, lo que ele- 
+varía un 50 por ciento los costes por tonelada del trabajo, el mantenimiento y 
+el transporte. 
+La Figura 7.2 muestra las curvas de coste marginal y de coste variable me- 
+dio a corto plazo de la planta de fundición. En el caso de un nivel de produc- 
+ción q de hasta 600 toneladas al día, el coste variable total es de 1.140 q , por lo 
+Coste 
+(dólares 
+por tonelada) 
+1.300 
+CM 
+1.200 
+1.140 
+1.100 
+CVMe 
+300 
+600 
+900 
+Producción (toneladas diarias) 
+FIGURA 7.2 Los costes variables a corto plazo de la fundición 
+de aluminio 
+El coste variable medio a corto plazo de la fundición es constante en los niveles de producción para los que se necesitan hasta dos turnos de trabajo. Cuando se añade un tercer turno, el coste marginal y el coste variable medio aumentan hasta que se alcanza la capacidad máxima. 
+
+----------------------------------------------------- Page 16 -----------------------------------------------------
+262 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+que el coste marginal y el coste variable son constantes e iguales a 1.140 dóla- res por tonelada. Si producimos más de 600 toneladas al día estableciendo un tercer turno, el coste marginal del trabajo, el mantenimiento y el transporte au- menta de 320 dólares por tonelada a 480, lo que hace que el coste marginal en su conjunto aumente de 1.140 dólares por tonelada a 1.300. 
+¿Qué ocurre con el coste variable medio cuando se producen más de 600 toneladas al día? Cuando q > 600, el coste total variable es igual a: 
+CVT = (1.140)(600) + 1.300( q – 600) = 1.300 q – 96.000 
+Por tanto, el coste variable medio es igual a 
+CVMe = 1.300 − — — — 
+q 
+Como muestra la Figura 7.2, cuando la producción alcanza las 900 tonela- das al día, la capacidad absoluta llega a su límite, momento en el que el coste marginal y el coste medio de producción se vuelven infinitos. 
+7.3 EL COSTE A LARGO PLAZO 
+A largo plazo, una empresa tiene mucha más flexibilidad. Puede ampliar su ca- pacidad expandiendo las fábricas existentes o construyendo otras nuevas; pue- de aumentar o reducir su plantilla y, en algunos casos, puede cambiar el diseño de sus productos o introducir otros nuevos. En este apartado, mostramos cómo elige la combinación de factores que minimiza el coste de un determinado nivel de producción. También examinamos la relación entre el coste a largo plazo y el nivel de producción. Comenzamos examinando atentamente el coste que tiene para la empresa la utilización de equipo de capital. A continuación, mostramos cómo entra este coste, junto con el coste del trabajo, en la decisión de producción. 
+El coste de uso del capital 
+Las empresas suelen alquilar o arrendar equipo, edificios y demás capital que uti- lizan en el proceso de producción. Otras veces, el capital se compra. En nuestro análisis, sin embargo, será útil tratar el capital como si se alquilara, aun cuando, en realidad, se compre. Resultará útil un ejemplo para explicar cómo y por qué partimos de este supuesto. Supongamos que Delta Airlines está considerando la posibilidad de comprar un nuevo avión Boeing 777 por 150 millones de dólares. Aunque Delta pagaría una gran cantidad de dinero por el avión hoy, por razones económicas el precio de compra puede repartirse o amortizarse a lo largo de toda la vida del avión. Eso permite a Delta comparar sus flujos anuales de ingresos y cos- tes. Supondremos que el avión dura 30 años; el coste amortizado es, pues, de 5 millones de dólares al año. Estos 5 millones pueden concebirse como la deprecia- ción económica anual del avión. 
+Hasta ahora hemos prescindido del hecho de que si la empresa no comprara el avión, podría obtener intereses por sus 150 millones de dólares. Estos intere- ses perdidos constituyen un coste de oportunidad que debe tenerse en cuenta. Por 
+96.000 
+
+----------------------------------------------------- Page 17 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 263 
+tanto, el coste de uso del capital —el coste anual de poseer y utilizar el avión en 
+lugar de venderlo o no comprarlo nunca— es la suma de la depreciación económica y los intereses (es decir, el rendimiento financiero) que podrían obtenerse si el dinero se in- virtiera de otra forma . En términos formales, 
+Coste de uso del capital = Depreciación económica + (tipo de interés) 
+(valor del capital) 
+En nuestro ejemplo, la depreciación económica del avión es de 5 millones de dólares al año. Supongamos que Delta puede obtener un rendimiento del 10 por cien- to si invierte su dinero de otra forma. En ese caso, el coste de uso del capital es 5 mi- llones de dólares + (0,10)(150 millones de dólares − depreciación). Como el avión se deprecia con el tiempo, su valor disminuye y lo mismo ocurre con el coste de oportunidad del capital financiero que se invierte en él. Por ejemplo, en el momen- to de la compra, pensando en el primer año, el coste de uso del capital es 5 millo- nes de dólares + (0,10)(150 millones de dólares) = 20 millones de dólares. En el dé- cimo año de propiedad, el avión, que se habrá depreciado en 50 millones de dólares, valdrá 100 millones. En ese momento, el coste de uso del capital será igual a 5 mi- llones de dólares + (0,10)(100 millones de dólares) = 15 millones de dólares al año. 
+También podemos expresar el coste de uso del capital como una tasa por dó- lar de capital: 
+r = tasa de depreciación + tipo de interés 
+En el ejemplo del avión, la tasa de depreciación es 1/30 = 3,33 por ciento al año. Si Delta puede obtener una tasa de rendimiento del 10 por ciento al año, su cos- te de uso del capital será r = 3,33 + 10 = 13,33 por ciento al año. 
+Como ya hemos señalado, a largo plazo la empresa puede alterar todos sus fac- tores. A continuación, mostraremos cómo elige la combinación de factores que minimiza el coste de producir una determinada cantidad, dada la información sobre los salarios y el coste de uso del capital, y examinaremos la relación entre el coste a largo plazo y el nivel de producción. 
+La elección de los factores que minimizan los costes 
+Pasamos a continuación a analizar un problema fundamental que tienen todas las empresas: cómo seleccionar los factores para obtener un determinado nivel de produc- ción con el menor coste posible . Para simplificar, utilizamos dos factores variables: trabajo (medido en horas de trabajo al año) y capital (medido en horas de uso de maquinaria al año). 
+La cantidad de trabajo y de capital que utiliza la empresa depende, por su- puesto, de los precios de estos factores. Supondremos que como hay mercados competitivos de ambos factores, lo que hace la empresa no afecta a sus precios (en el Capítulo 14 examinaremos los mercados de trabajo que no son competiti- vos). En este caso, el precio del trabajo es simplemente el salario , w . Pero ¿cuál es el precio del capital? 
+Más concretamente, el rendimiento financiero debería reflejar una inversión de riesgo similar. El tipo de interés, pues, debería incluir una prima por el riesgo. En el Capítulo 15, analizaremos esta cuestión. Obsérvese también que el coste de uso del capital no se ajusta para tener en cuenta los im- puestos; cuando se tienen en cuenta los impuestos, los ingresos y los costes deben medirse después de impuestos. 
+• coste de uso del capital Coste anual de poseer y utilizar un activo de 
+capital, igual a la 
+depreciación económica 
+más los intereses 
+perdidos. 
+5 
+5 
+
+----------------------------------------------------- Page 18 -----------------------------------------------------
+264 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+El precio del capital A largo plazo, la empresa puede ajustar la cantidad de ca- pital que utiliza. Aunque el capital comprenda maquinaria especializada que no puede utilizarse para otros fines, los gastos realizados en esta maquinaria aún no son irrecuperables y deben tenerse en cuenta; la empresa está decidiendo la can- tidad de capital que tendrá en el futuro . Sin embargo, a diferencia de lo que ocu- rre con el gasto en trabajo, es necesario hacer inicialmente grandes gastos en ca- pital. Para comparar el gasto de la empresa en capital con su coste laboral, expresamos este gasto de capital como un flujo , por ejemplo, en dólares al año. Para eso debemos amortizar el gasto repartiéndolo durante la vida del capital y debe- mos tener también en cuenta los intereses perdidos que podría haber obtenido la empresa invirtiendo el dinero de otra manera. Como acabamos de ver, eso es exactamente lo que hacemos cuando calculamos el coste de uso del capital . El pre- cio del capital es, al igual que antes, su coste de uso , que viene dado por r = tasa de depreciación + tipo de interés. 
+Tasa de alquiler del capital Como hemos señalado, a menudo el capital se al- quila en lugar de comprarse. Un ejemplo es el espacio de oficina de un gran edi- 
+• tasa de alquiler Coste anual de alquilar una 
+unidad de capital. 
+• recta isocoste Gráfico 
+que muestra todas las 
+combinaciones posibles de trabajo y capital que pueden comprarse con un 
+coste total dado. 
+ficio de oficinas. En este caso, el precio del capital es su tasa de alquiler , es decir, el coste anual de alquilar una unidad de capital. 
+¿Significa eso que debemos distinguir entre el capital que se alquila y el que se compra cuando determinamos el precio del capital? No. Si el mercado de ca- pital es competitivo (como hemos supuesto), la tasa de alquiler debe ser igual al cos- te de uso, r . ¿Por qué? Porque en un mercado competitivo, las empresas que po- seen capital (por ejemplo, el propietario del gran edificio de oficinas) esperan obtener un rendimiento competitivo cuando lo alquila, a saber, la tasa de rendi- miento que podría obtener invirtiendo el dinero de otra forma, más una canti- dad para compensar la depreciación del capital. Este rendimiento competitivo es el coste de uso del capital . 
+Muchos libros de texto suponen simplemente que todo el capital se alquila a una tasa de alquiler r . Como acabamos de ver, este supuesto es razonable. Sin em- bargo, el lector ya debería comprender por qué es razonable: el capital que se compra puede tratarse como si se alquilara a una tasa de alquiler igual al coste de uso del capital . 
+En el resto de este capítulo, supondremos, pues, que la empresa alquila todo su capital a una tasa de alquiler o «precio», r , exactamente igual que contrata tra- bajo a un salario o «precio», w . También supondremos que las empresas tratan cualquier coste irrecuperable de capital como un coste fijo que se reparte a lo lar- go del tiempo. Por tanto, no tenemos que preocuparnos de los costes irrecupera- bles. Ahora podemos ver cómo tiene en cuenta una empresa estos precios cuan- do decide la cantidad de capital y de trabajo que va a utilizar . 
+La recta isocoste 
+Comenzamos examinando el coste de contratar factores, que puede representar- se por medio de las rectas isocoste de una empresa. Una recta isocoste muestra todas las combinaciones posibles de trabajo y capital que pueden comprarse con 
+Es posible, desde luego, que los precios de los factores suban cuando aumenta la demanda de- bido a las horas extraordinarias o a una escasez relativa de equipo de capital. En el Capítulo 14, ana- lizamos la posibilidad de que exista una relación entre el precio de los factores y las cantidades de- mandadas por la empresa. 
+6 
+6 
+
+----------------------------------------------------- Page 19 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 265 
+un coste total dado. Para ver cómo es una recta isocoste, recuérdese que el coste 
+total C de producir una cantidad cualquiera viene dado por la suma del coste la- 
+boral de la empresa wL y su coste de capital rK : 
+C = wL + rK 
+(7.2) 
+La ecuación (7.2) describe las rectas isocoste correspondientes a diferentes nive- les de coste total. Por ejemplo, en la Figura 7.3 la recta isocoste C 0 describe todas las combinaciones posibles de trabajo y capital cuyo alquiler cuesta un total de C 0 . 
+Si reformulamos la ecuación de coste total como la ecuación correspondiente a una línea recta, tenemos que 
+K = C / r – ( w / r ) L 
+La recta isocoste tiene, pues, una pendiente de Δ K / Δ L = − i ( w / r ), que es el cocien- te entre el salario y el coste de alquiler del capital. Obsérvese que esta pendiente es similar a la de la recta presupuestaria a la que se enfrenta el consumidor (por- que es determinada únicamente por los precios de los bienes en cuestión, ya sean factores o productos). Nos dice que si la empresa renunciara a una unidad de tra- bajo (y recuperara w dólares de coste) para comprar w / r unidades de capital con un coste de r dólares por unidad, su coste total de producción seguiría siendo el mismo. Por ejemplo, si el salario fuera de 10 dólares y el coste de alquiler del ca- 
+Capital 
+al año 
+K 2 
+K 1 
+A 
+K 3 
+q 1 
+C 0 
+C 1 
+C 2 
+L 2 
+L 1 
+L 3 
+Trabajo al año 
+FIGURA 7.3 La obtención de un determinado nivel de producción 
+con un coste mínimo 
+Las curvas isocoste describen la combinación de factores de producción que cuestan lo mismo a la empresa. La curva isocoste C 1 es tangente a la isocuanta q 1 en el punto A y muestra que el nivel de producción q 1 puede obtenerse con un coste mínimo con la can- tidad de trabajo L 1 y la cantidad de capital K 1 . Otras combinaciones de factores − L 2 , K 2 y L 3 y K 3 − generan el mismo nivel de producción con un coste más alto. 
+
+----------------------------------------------------- Page 20 -----------------------------------------------------
+266 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+pital de 5, la empresa podría sustituir una unidad de trabajo por dos de capital, sin que variara el coste total. 
+La elección de los factores 
+Supongamos que deseamos producir la cantidad q 1 . ¿Cómo podemos producir- la con un coste mínimo? Examinemos la isocuanta de producción de la empresa denominada q 1 en la Figura 7.3. El problema consiste en elegir el punto de esta iso- cuanta que minimiza el coste total. 
+La Figura 7.3 muestra la solución de este problema. Supongamos que la empre- sa gastara C 0 en factores. Desgraciadamente, no es posible comprar ninguna com- binación de factores con un gasto C 0 que permita a la empresa lograr el nivel de producción q 1 . Sin embargo, este puede lograrse con un gasto de C 2 , bien utilizan- do K 2 unidades de capital y L 2 de trabajo, bien utilizando K 3 unidades de capital y L 3 de trabajo. Pero C 2 no es el coste mínimo. Este mismo nivel de producción q 1 pue- de obtenerse de un modo más barato: con un coste de C 1 utilizando K 1 unidades de capital y L 1 de trabajo. En realidad, la recta isocoste C 1 es la más baja que permite obtener el nivel de producción q 1 . El punto de tangencia de la isocuanta q 1 y la rec- ta isocoste C 1 en el punto A nos indica la elección de factores minimizadora de los costes, L 1 y K 1 , que puede hallarse observando directamente el gráfico. En este pun- to, las pendientes de la isocuanta y de la recta isocoste son exactamente iguales. 
+Cuando se incrementa el gasto en todos los factores, la pendiente de la recta isocoste no varía porque no han variado los precios de los factores. Sin embargo, la ordenada en el origen aumenta. Supongamos que subiera el precio de uno de los factores, como el trabajo. En ese caso, la pendiente de la recta isocoste − ( w / r ) aumentaría y la recta isocoste se volvería más inclinada. La Figura 7.4 lo mues- tra. Inicialmente, la recta isocoste es la C 1 y la empresa minimiza sus costes de producir q 1 en el punto A utilizando L 1 unidades de trabajo y K 1 de capital. Cuando sube el precio del trabajo, la recta isocoste se vuelve más inclinada. La C 2 refleja la subida del precio del trabajo. Ante este precio más alto, la empresa minimiza su coste de producir q 1 produciendo en el punto B , utilizando L 2 unidades de tra- bajo y K 2 de capital. La empresa ha respondido al precio más alto del trabajo sus- tituyendo trabajo por capital en el proceso de producción. 
+¿Qué relación existe entre la recta isocoste y el proceso de producción de la 
+En el Apartado 6.3, 
+explicamos que la RMST es la cantidad en que puede reducirse el 
+capital cuando se 
+utiliza una unidad más 
+de trabajo, de tal 
+manera que la 
+producción se 
+mantiene constante. 
+empresa? Recuérdese que en nuestro análisis de la tecnología de producción, mos- tramos que la relación marginal de sustitución técnica RMST de capital por tra- bajo es la negativa de la pendiente de la isocuanta y es igual al cociente entre los productos marginales del trabajo y el capital. 
+RMST = − Δ K / Δ L = PM L /PM K (7.3) 
+Antes hemos señalado que la recta isocoste tiene una pendiente de Δ K / Δ L = − w/r . Por tanto, cuando una empresa minimiza el coste de producir una determinada cantidad, se cumple la siguiente condición: 
+PM L /PM K 
+Reordenando levemente esta condición, 
+= w / r 
+PM L / w = PM K / r 
+(7.4) 
+
+----------------------------------------------------- Page 21 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 267 
+Capital 
+al año 
+K 2 
+B 
+K 1 
+A 
+C 2 
+q 1 
+C 1 
+L 2 
+L 1 
+Trabajo al año 
+FIGURA 7.4 La sustitución de los factores cuando varía el precio de uno 
+de ellos 
+Con una curva isocoste C 1 , la empresa produce la cantidad q 1 en el punto A utilizando L 1 unidades de trabajo y K 1 de capital. Cuando sube el precio del trabajo, las curvas iso- coste se vuelven más inclinadas. Ahora el nivel de producción q 1 se obtiene en el pun- to B de la curva isocoste C 2 utilizando L 2 unidades de trabajo y K 2 de capital. 
+PM L /w es la producción adicional que se obtiene gastando un dólar más en trabajo. Supongamos que el salario es de 10 dólares y que añadiendo un trabaja- dor al proceso de producción se producen 20 unidades más. La producción adi- cional por dólar gastado en un trabajador más será 20/10 = 2 unidades de produc- ción por dólar. Asimismo, PM K /r es la producción adicional generada por el gasto de un dólar más en capital. Por tanto, la ecuación (7.4) nos indica que una em- presa minimizadora de los costes debe elegir sus cantidades de factores de tal forma que el último dólar gastado en cualquier factor que incorpore al proceso de producción genere la misma cantidad de producción adicional. 
+¿Por qué debe cumplirse esta condición para minimizar los costes? Supongamos que además del salario de 10 dólares, la tasa de alquiler del capital es de 2. Supongamos también que añadiendo una unidad de capital se producen 20 unidades más. En ese caso, la producción adicional por dólar de capital sería 20/2 $ = 10 unidades de producción por dólar. Como un dólar gastado en capi- tal es cinco veces más productivo que un dólar gastado en trabajo, la empresa querrá utilizar más capital y menos trabajo. Si reduce el trabajo y aumenta el ca- pital, su producto marginal del trabajo aumentará y su producto marginal del ca- pital disminuirá. Finalmente, se alcanzará un punto en el que la producción de una unidad más cuesta lo mismo independientemente de qué factor adicional se uti- lice. En ese punto, la empresa minimiza su coste. 
+
+----------------------------------------------------- Page 22 -----------------------------------------------------
+268 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+E J E M P L O 7 . 4 
+La influencia de las tasas sobre 
+los vertidos en la elección de los factores de producción 
+Las acerías suelen construirse en o cerca de los ríos. Los ríos son medios de transporte fácilmente accesibles y baratos tanto del mi- neral de hierro que se utiliza en el proceso de producción como del propio acero acaba- do. Desgraciadamente, también constitu- yen un barato método para deshacerse de los subproductos del proceso de produc- ción, llamados vertidos . Por ejemplo, una 
+acería procesa su mineral de hierro para utilizarlo en sus altos hornos trituran- do los yacimientos de taconita hasta que esta tiene una fina consistencia. Durante este proceso, el mineral de hierro se extrae por medio de un campo magnético a medida que una corriente de agua y mineral de hierro fino pasa por la acería. Uno de los subproductos de este proceso —las finas partículas de taconita— puede verterse al río sin apenas costes para la empresa. Los demás métodos de eliminación o plantas privadas de tratamiento son relativamente caros. 
+Como las partículas de taconita son un residuo no degradable que puede ser perjudicial para la flora y la fauna, la Environmental Protection Agency (Agencia de Protección del Medio Ambiente) de Estados Unidos (EPA) ha im- puesto una tasa sobre los vertidos, es decir, una tasa por unidad que debe pa- gar la acería por los vertidos que arroja al río. ¿Cómo debe responder el geren- te de una acería a la imposición de esta tasa sobre los vertidos para minimizar los costes de producción? 
+Supongamos que sin una tasa sobre los vertidos la acería produce 2.000 to- neladas de acero al mes utilizando 2.000 horas-máquina de capital y 10.000 ga- lones de agua (que contiene partículas de taconita cuando vuelve al río). El ge- rente estima que una hora-máquina cuesta 40 dólares y que el vertido de cada galón de agua de residuos en el río le cuesta 10. Por tanto, el coste total de pro- ducción es de 180.000 dólares: 80.000 por el capital y 100.000 por el agua de re- siduos. ¿Cómo debe responder el gerente a la tasa sobre los vertidos de 10 dó- lares por galón de agua vertida impuesta por la EPA? El gerente sabe que existe una cierta flexibilidad en el proceso de producción. Si la empresa instala un equipo de tratamiento de los vertidos más caro, puede conseguir la misma pro- ducción con menos vertidos. 
+La Figura 7.5 muestra la respuesta que minimiza los costes. El eje de orde- nadas mide la cantidad de capital de la empresa en horas-máquina al mes y el de abscisas la cantidad de agua residual en galones mensuales. Examinemos primero el nivel en el que produce la empresa cuando no hay una tasa sobre los vertidos. El punto A representa la cantidad de capital y el nivel de agua re- sidual que permite a la empresa producir su cuota de acero con el menor cos- te posible. Como la empresa minimiza los costes, el punto A se encuentra en la recta isocoste FC , que es tangente a la isocuanta. La pendiente de la recta isocoste es igual a − 10 $/40 $ = − 0,25 porque una unidad de capital cuesta cua- tro veces más que una de agua de residuos. 
+
+----------------------------------------------------- Page 23 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 269 
+Capital 
+(horas- 
+máquina 
+al mes) 
+5.000 
+4.000 
+D 
+F 
+3.500 
+3.000 
+2.000 
+1.000 
+B 
+5.000 
+A 
+E 
+10.000 12.000 
+Producción 
+de 2.000 toneladas 
+de acero al mes 
+C 
+Agua residual 
+18.000 20.000 
+(galones al mes) 
+FIGURA 7.5 La respuesta minimizadora de los costes a una tasa 
+sobre los vertidos 
+Cuando la empresa no paga por verter su agua residual al río, decide producir una cantidad para la que utiliza 10.000 galones de agua residual y 2.000 horas-máquina de capital en el punto A . Sin embargo, una tasa sobre los vertidos eleva el coste del agua residual, desplaza la curva isocoste de FC a DE y lleva a la empresa a produ- cir en el punto B , proceso que genera muchos menos vertidos. 
+Cuando se establece una tasa sobre los vertidos, el coste del agua residual au- menta de 10 dólares por galón a 20: por cada galón de agua residual (que cues- ta 10 dólares), la empresa tiene que pagar al Estado otros 10 dólares. La tasa so- bre los vertidos aumenta, pues, el coste del agua residual en relación con el capital. Para obtener el mismo nivel de producción con el menor coste posible, el geren- te debe elegir la recta isocoste que tenga una pendiente de − 20 $/40 $ = − 0,5, que es tangente a la isocuanta. En la Figura 7.5, DE es la recta isocoste adecuada y B indica la elección adecuada de capital y agua residual. El movimiento de A a B muestra que con una tasa sobre los vertidos la utilización de otra tecnología de producción que requiera más capital (3.500 horas-máquina) y produzca menos agua residual (5.000 galones), es más barata que el proceso original, que no po- nía el acento en el reciclaje. Obsérvese que el coste total de producción ha au- mentado a 240.000 dólares: 140.000 por el capital, 50.000 por el agua de residuos y 50.000 por la tasa sobre los vertidos. 
+Cabe extraer dos lecciones de esta decisión. En primer lugar, cuanto más fácil es sustituir los factores en el proceso de producción, es decir, cuanto más 
+
+----------------------------------------------------- Page 24 -----------------------------------------------------
+270 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+fácil es para la empresa resolver el problema de sus partículas de taconita sin utilizar el río para verter los residuos, más eficaz es la tasa para reducir los ver- tidos. En segundo lugar, cuanto mayor es el grado de sustitución, menos tie- ne que pagar la empresa. En nuestro ejemplo, la tasa sería de 100.000 dólares si la empresa no alterara sus factores. Sin embargo, la acería solo paga una tasa de 50.000 trasladando la producción de A a B . 
+La minimización de los costes cuando se altera el nivel de producción 
+En el apartado anterior, hemos visto cómo selecciona una empresa minimizado- ra de los costes una combinación de factores para obtener un determinado nivel de producción. Ahora ampliamos este análisis para mostrar que los costes de la empresa dependen de su nivel de producción. Para ello averiguamos las cantida- des de factores minimizadoras de los costes de la empresa correspondientes a cada nivel de producción y calculamos el coste resultante. 
+El ejercicio de minimización de los costes da el resultado que muestra la Figura 7.6. Hemos supuesto que la empresa puede contratar trabajo L a w = 10 dólares por hora y alquilar una unidad de capital K por r = 20 dólares por hora. Dados estos costes de los factores, hemos trazado tres de las rectas isocoste de la empresa. Cada una viene dada por la siguiente ecuación: 
+C = (10 $ por hora)( L ) + (20 $ por hora)( K ) 
+En la Figura 7.6(a), la recta más baja (que no tiene rótulo) representa un coste de 1.000 dólares; la intermedia representa un coste de 2.000 y la más alta representa un coste de 3.000. 
+El lector puede ver que cada uno de los puntos A , B , y C de la Figura 7.6(a) es un punto de tangencia entre una curva isocoste y una isocuanta. Por ejemplo, el punto B muestra que la manera de producir 200 unidades con un coste mínimo es utilizar 100 unidades de trabajo y 50 de capital; esta combinación se encuen- tra en la recta isocoste 2.000 dólares. Asimismo, la manera de producir 100 uni- dades con un coste mínimo (la isocuanta más baja que no tiene rótulo) es 1.000 dó- lares (en el punto A , L = 50, K = 25); la manera de producir 300 unidades con un coste mínimo es 3.000 dólares (en el punto C , L = 150, K = 75). 
+La curva que pasa por los puntos de tangencia de las rectas isocoste de la 
+• senda de expansión Curva que pasa por los puntos de tangencia de las rectas isocoste de una empresa y sus isocuantas. 
+empresa y sus isocuantas es su senda de expansión . La senda de expansión des- cribe las combinaciones de trabajo y capital que elige la empresa para minimi- zar los costes en cada nivel de producción. En la medida en que la utilización tan- to de trabajo como capital aumente a medida que aumenta la producción, la curva tendrá pendiente positiva. En este caso concreto, podemos calcular fácil- mente la pendiente de la recta. Cuando la producción aumenta de 100 a 200 uni- dades, el capital aumenta de 25 a 50, mientras que el trabajo aumenta de 50 a 100 unidades. Para cada nivel de producción, la empresa utiliza la mitad de capital que de trabajo. Por tanto, la senda de expansión es una línea recta cuya pen- diente es igual a 
+Δ K / Δ L = (50 − 25)/(100 − 50) = — – 
+2 
+1 
+
+----------------------------------------------------- Page 25 -----------------------------------------------------
+CAPÍTULO 7 • El coste de producción 271 
+Capital 
+al año 
+150 
+Recta isocoste de 3.000 $ 
+Recta 
+isocoste 
+Senda de expansión 
+100 
+de 2.000 $ 
+C 
+75 
+50 
+25 
+A 
+B 
+Isocuanta 
+de 200 
+Isocuanta 
+de 300 unidades 
+unidades 
+50 
+100 
+150 
+200 
+300 
+(a) 
+Trabajo al año 
+Coste 
+(dólares 
+al año) 
+3.000 
+F 
+Coste total a 
+largo plazo 
+2.000 
+E 
+1.000 
+D 
+100 
+200 
+(b) 
+300 
+Producción 
+(unidades anuales) 
+FIGURA 7.6 La senda de expansión de una empresa y la curva de coste 
+total a largo plazo 
+En (a) , la senda de expansión (que parte del origen y pasa por los puntos A , B y C ) mues- tra las combinaciones de trabajo y capital de menor coste que pueden utilizarse para ob- tener cada nivel de producción a largo plazo, es decir, cuando es posible alterar ambos factores de producción. En (b) , la curva de coste total a largo plazo correspondiente (que parte del origen y pasa por los puntos D , E y F ) mide el coste mínimo de obtener cada nivel de producción. 
+La senda de expansión y los costes a largo plazo 
+La senda de expansión de la empresa contiene la misma información que su cur- va de coste total a largo plazo, C ( q ), como puede verse en la Figura 7.6(b). Para pasar de la senda de expansión a la curva de costes, seguimos tres pasos: 
+
+----------------------------------------------------- Page 26 -----------------------------------------------------
+272 SEGUNDA PARTE • Los productores, los consumidores y los mercados competitivos 
+1. Elegimos un nivel de producción representado por una isocuanta en la Figura 7.6(a). A continuación, hallamos el punto de tangencia de esa isocuan- ta con una recta isocoste. 
+2. A partir de la recta isocoste elegida hallamos el coste mínimo de producción de la cantidad seleccionada. 
+3. Representamos gráficamente la combinación de producción y coste en la Figura 7.6(b). 
+Supongamos que comenzamos con un nivel de producción de 100 unidades. El punto de tangencia de la isocuanta de 100 unidades con una recta isocoste es el pun- to A de la Figura 7.6(a). Como A se encuentra en la recta isocoste de 1.000 dólares, sabemos que el coste mínimo de producir 100 unidades a largo plazo es de 1.000 dólares. Representamos esta combinación de 100 unidades de producción y 1.000 dólares de coste por medio del punto D en la Figura 7.6(b). El punto D representa, pues, el coste de 1.000 dólares de producir 100 unidades. Asimismo, el punto E re- presenta el coste de 2.000 dólares de producir 200 unidades, que corresponde al pun- to B de la senda de expansión. Por último, el punto F representa el coste de 3.000 dólares de 300 unidades correspondiente al punto C . Repitiendo estos pasos con cada nivel de producción, obtenemos la curva de coste total a largo plazo de la Figura 7.6(b), es decir, el coste a largo plazo mínimo de obtener cada nivel de producción. 
+En este ejemplo concreto, la curva de coste total a largo plazo es una línea rec- ta. ¿Por qué? Porque hay rendimientos constantes de escala en la producción: cuando aumentan los factores proporcionalmente, también aumenta el nivel de producción. Como veremos en el siguiente apartado, la forma de la senda de ex- pansión suministra información sobre cómo varían los costes con la escala de ope- raciones de la empresa. 
+7.4 LAS CURVAS DE COSTES A LARGO PLAZO 
+Y A CORTO PLAZO 
+Hemos visto antes (véase la Figura 7.1) que las curvas de coste medio a corto pla- zo tienen forma de U. Veremos que las curvas de coste medio a largo plazo tam- bién pueden tener forma de U, pero son diferentes los factores económicos que explican la forma de estas curvas. En este apartado, analizamos las curvas de cos- te medio y marginal a largo plazo y destacamos las diferencias entre estas curvas y las curvas a corto plazo. 
+La rigidez de la producción a corto plazo 
+Recuérdese que a largo plazo todos los factores de la empresa son variables. A largo plazo, su horizonte de planificación es suficientemente largo para poder al- terar el tamaño de la planta. Esta flexibilidad adicional permite a la empresa pro- ducir con un coste medio menor que a corto plazo. Para ver por qué, podemos comparar la situación en la que el capital y el trabajo son flexibles con la situación en la que el capital es fijo a corto plazo. 
+La Figura 7.7 muestra las isocuantas de producción de la empresa. La senda de expansión a largo plazo de la empresa es la línea recta que parte del origen y que corresponde a la senda de expansión de la Figura 7.6. Supongamos ahora que el 
