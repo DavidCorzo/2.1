@@ -1,0 +1,146 @@
+\section{Variables aleatorias}
+\begin{itemize}
+    \item \emph{\textbf{Definición de ``Experimento":} Proceso que genera resultados posibles. Los resultados de un experimento pueden ser cualitativos y cuantitativos }
+    \item \emph{\textbf{Definición de ``Variable aleatoria":} una variable aleatoria es una descripción numérica del resultado de un experimento.} Puede ser discreta o contínua. \emph{\textbf{Recordar lo siguiente: }Discreta es que siempre tiene un número positivo. Contínua es que puede tener decimales infinitesimales.}
+    \item \emph{\textbf{Ejemplo: }Si un hombre planea sacar a bailar a 10 mujeres, las variables aleatorias o posibles resultados del experimento son un número entre 0 y 10.}
+    \item \emph{\textbf{Interesante:}En econometría, Una variable dummy es cuando se pone un resultado a algo, 0 a hombres y 1 a mujeres por ejemplo.}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Distribución de probabilidad discreta}
+\begin{itemize}
+    \item \emph{\textbf{Definición de ``Distribución uniforme discreta":} Cuando probabilidad de cada variable aleatoria es la misma.}
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Valor esperado y varianzas}
+\begin{itemize}
+    \item Se puede calcular el valor esperado, el valor esperado es el promedio de todos los valores posibles.
+        \[
+            E(x)= \underbrace{\mu}_{\text{  Parámetro poblacional  } \approx \bar{x}} = \sum_{}^{}xf(x)
+        \]
+    
+    \item Cálculo de un valor esperado de una distribución discreta.
+        \begin{center}
+           \begin{tabular}{ | p{5cm} | p{5cm} | p{5cm} | }
+               \hline
+                   Clase & UMAS & f(x) \\
+               \hline
+                    Análisis matemático & 4.5 & 0.43 \\ 
+                    Estadística         &  3  & 0.29 \\ 
+                    Historia            & 3   & 0.29 \\ 
+                \hline
+                    & 10.5 & $\sum (xf(x))=1.50$ \\ 
+                \hline
+           \end{tabular}
+        \end{center}
+    
+    \item Varianza de valor ponderado:
+        \[
+          \omega^2 = \sum (x+\mu)^2f(x)
+        \]
+    
+    \item Desviación estándar:
+        \[
+          \omega = \sqrt{\sum (x - \mu )^2 f(x)}
+        \]
+\end{itemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experimento binomial}
+\begin{itemize}
+    \item \emph{\textbf{Definición de ``Evento binomial":} es un evento que sólo puede tener dos resultados posibles.}
+    \item Propiedades de un experimento binomial:
+        \begin{enumerate}
+            \item El experimento consiste en una serie de $n$ ensayos idénticos.
+            \item En cada ensayo hay dos resultados posibles. Resultados posibles: éxito o fracaso.
+            \item La probabilidad de éxito $p$ no cambia de ensayo a otro. La probabilidad de fracaso se denota como $1-p$, tampoco cambia de un ensayo a otro.
+            \item Los ensayos son \textbf{independientes}.
+        \end{enumerate}
+    
+    \item Experimento: Lanzar 3 monedas:
+        \begin{center}
+           \begin{tabular}{ | p{5cm} | p{5cm} |  }
+               \hline
+                    $x = \text{  Cara  }$ & $\neg x = \text{  Escudo  }$   \\
+                    $P=0.50$ & $1-P = 0.5$ \\ 
+               \hline
+           \end{tabular}
+        \end{center}
+    
+    \item \emph{\textbf{Interesante:} Niños y niñas}
+        \begin{itemize}
+            \item De cada 100 niñas hay 106 niños:
+             \[
+                \text{  Niños  }=106 = \frac{106}{206} = 0.53
+             \]
+             \[
+                \text{  Niñas  }=100 = \frac{100}{206} = 0.47
+             \]
+             
+             \item Probabilidad que salgan 7 niños en varones:
+                \[
+                  P(\text{  7 niños  }) = (0.53)^7 = 0.011
+                \]
+        \end{itemize}
+    
+    \item \emph{\textbf{Interesante:} Monedas }
+        \begin{center}
+           \begin{tabular}{ | p{5cm} | p{5cm} | p{5cm} | p{5cm} | }
+               &   & C & CCC $\rightarrow$ 3\\
+               & C &   & \\
+               &   & E & CCE $\rightarrow$ 2\\
+            C  &   & C & CEC $\rightarrow$ 2\\
+               & E &   & \\
+               &   & E & CEE $\rightarrow$ 1\\
+               &   & C & ECC $\rightarrow$ 2 \\
+               & C &   & \\
+               &   & E & ECE $\rightarrow$ 1 \\
+            E  &   &   &  \\
+               &   & C & EEC $\rightarrow$ 1\\
+               & E &   & \\
+               &   & E & EEE $\rightarrow$ 0\\
+        \end{tabular}
+        \end{center}
+    
+    \item Función de probabilidad binomial:
+        \[
+          f(x) = \underbrace{\left(\begin{matrix}
+            n \\ 
+            x \\ 
+        \end{matrix}\right)}_{\text{  Combinaciones  }} p^x(1+p)^{(n-1)}
+        \]
+        \begin{itemize}
+            \item $f(x)=$ Probabilidad de $x$ éxitos en $n$ ensayos.
+            \item $n= $ número de ensayos
+            \item $\left(\begin{matrix}
+                n \\ x \\ 
+            \end{matrix}\right)= \frac{n!}{x!(n-x)!}\,  $:  Combinaciones.
+            
+            \item $p =$ probabilidad de un éxito en cualquiera de los ensayos.
+            \item $1-p=$ probabilidad de un fracaso en cualquiera de los ensayos. 
+        \end{itemize}
+    
+    \item Ejemplo con la función de probabilidad binomial:
+        \begin{center}
+           \begin{tabular}{ | p{1cm} | p{1cm} | p{1cm} | p{1cm} | p{1cm} | }
+               \hline
+                   $f(x)$ & $\left(\begin{matrix} n \\ x \\ \end{matrix}\right)$ & $p^x$  & $(1-p)^{n-x}$  & $=$  \\
+               \hline
+                    $f(0)$  & $1$ & $(0.50)^0$ & $(0.50)^3$ & $= 0.125$  \\ 
+                    $f(1)$  & $3$ & $(0.50)^1$ & $(0.50)^2$ & $= 0.375$  \\ 
+                    $f(2)$  & $3$ & $(0.50)^2$ & $(0.50)^1$ & $= 0.377$  \\ 
+                    $f(3)$  & $1$ & $(0.50)^3$ & $(0.50)^0$ & $= 0.125$  \\ 
+                \hline
+           \end{tabular}
+        \end{center}
+    
+    \item Para sacar la probabilidad binomial en Excel: 
+        \begin{itemize}[label=$\downarrow$]
+           \item =DIST.BINOMIAL(num\_exit,0.5,FALSO), el núm\_éxito es cuántos éxitos quiero, 0.5 $\rightarrow$ la probabilidad de éxito, FALSO.
+           \item Abrir f(x)
+        \end{itemize}
+\end{itemize}
