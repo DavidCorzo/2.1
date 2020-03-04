@@ -1,0 +1,145 @@
+﻿
+Marketing Strategy 
+How It Fits with Business Strategy 
+Key Topics Covered in This Chapter 
+
+The basics of business strategy 
+Aligning marketing strategy with business strategy 
+How market strategy changes in the phases of the product or service life cycle 
+
+What is your company ’s marketing strategy? Do you have a strategy for pricing and distribu- tion? Do you plan to tap customers in Latin 
+America? Are you scheduling a rollout of print and TV ads for a soon- to-be-released new product? 
+These are important questions because every business needs a marketing strategy. We cannot really talk about marketing strategy, however, without ﬁrst discussing business strategy. That ’s because everything you do in marketing must be aligned with your business strategy. 
+This chapter explains the basics of your business and marketing strategies and shows how you can get them to work together. It also describes the product life cycle phases of introduction, growth, ma- turity, and decline and explains how marketing strategy must change with each phase. 
+What Is Strategy? 
+In its original sense, strategy (from the Greek word strategos ) is a mil- itary term used to describe the art of the general. It refers to the gen- eral ’s plan for arraying and maneuvering his forces with the goal of defeating an enemy army. Carl von Clausewitz, a nineteenth-century theoretician of the art of war, described strategy as “drafting the plan 
+
+of war and shaping the individual campaigns, and within these, de- ciding on the individual engagements. ” More recently, historian Edward Mead Earle has described it as “the art of controlling and utilizing the resources of a nation —or a coalition of nations —in- cluding its armed forces, to the end that its vital interests shall be ef- fectively promoted and secured. ” 
+Businesspeople have always liked military analogies, so it is not surprising that they have embraced this notion of strategy. They too think of strategy as a plan for controlling and utilizing their resources (human, physical, and ﬁnancial capital) to the end of promoting and securing their vital interests. Harvard professor Michael Porter has deﬁned strategy as “a broad formula for how a business is going to compete. ” Inevitably, the formula for competing involves being dif- ferent in a way that confers a competitive advantage. “Competitive strategy is about being different, ” wrote Porter. “It means deliber- ately choosing a different set of activities to deliver a unique mix of value. ” Consider these familiar examples: 
+• Southwest Airlines didn ’t become the most pro ﬁtable air carrier in North America by copying its rivals. Instead, it differentiated itself with a strategy of low fares, frequent departures, point-to- point service, and customer-pleasing service. 
+• eBay created a different way for people to sell and acquire goods: online auctions. Company founders aimed for the on- line service to serve the same purpose as classi ﬁed ads, ﬂea mar- kets, and formal auctions, but they made it simple, ef ﬁcient, and wide reaching. Online auctions have differentiated the company ’s service from those of traditional competitors. 
+So far, these strategies have served their initiators well and have provided competitive advantages over rivals. Southwest Airlines is the most pro ﬁtable U.S. air carrier, and eBay is the most successful Internet company ever. Being different can take many forms. As you ’ll see, even companies whose products are identical to competi- tors ’ can strategically set themselves apart by, for example, offering a better price or providing faster and more reliable delivery. 
+
+Being “different, ” of course, does not in itself confer competi- 
+tive advantage nor ensure business success. The difference must be something that customers value. A rocket car would be “different ” but probably would not attract enough customers to be successful. In contrast, a hybrid car—one powered by gasoline and electricity—is different in a way that creates superior value for customers in terms of fuel economy and low emissions of air-fouling exhaust. Those are values for which many people will gladly open their wallets. 
+So, what is strategy? Strategy is a plan that aims to give the en- terprise a competitive advantage over rivals. Strategy is about un- derstanding what you do, knowing what you want to become, and—most important—focusing on how you plan to get there. A sound strategy, skillfully implemented, identiﬁes the goals and direc- tion that managers and employees at every level use to deﬁne their work and make their organization successful. An organization with- out a clear strategy, in contrast, is rudderless. It ﬂails about, dashing off in one direction and then another as opportunities present them- selves, but achieving very little. 
+The Strategy Process 
+As with most important things in business, you should approach the creation and implementation of strategy as a process—that is, as a set of activities that transforms inputs into outputs. This process is shown in ﬁgure 1-1. Here you see that you create strategy based on the company ’s mission statement, which de ﬁnes its purpose and ar- ticulates what it aims to do for customers and other stakeholders. 
+Given the mission, senior management sets goals. These goals are tangible manifestations of the organization ’s mission and are used for planning activities and measuring progress. Goals, as shown in the ﬁgure, should be informed by a pragmatic understanding of two things: the external business and market environment, and the inter- nal capabilities of the organization. 
+Typically, you begin creating a strategy by performing extensive research and analysis and conducting a process through which senior 
+
+management identiﬁes the top-priority issues that the company needs to tackle to be successful in the long term. For each priority issue, units and teams create high-level action plans. Once you have developed these action plans, you further clarify the company ’s high-level strategic objectives and direction. 
+By undertaking the planning process together, senior manage- ment and unit leaders ensure that a company ’s strategies—corporate and unit—are tightly aligned and that successful implementation can follow. 
+Where Marketing Fits In 
+Every activity within the enterprise must align itself with the business strategy. It must do its part to achieve top-level goals and, ultimately, the company ’s stated mission. In well-managed companies, every employee from the executive suite to the mailroom can state the company ’s mission and goals and describe how his or her daily tasks contribute to achieving them. 
+Every function must likewise align its goals and activities with the larger business strategy. In the case of marketing, this means that everything it does —from pricing, to distribution, to how it com- municates with customers —should be planned in a way that serves strategic goals. So important is marketing, in fact, that it should help guide the creation of business strategy. If competitive advantage is about “being different, ” management must answer this two-part question: what difference is valued, and by whom ? 
+Management naturally turns to marketing for the answers. As the primary link between the enterprise and the external world of com- petitors and potential customers—through market research and con- tinual customer contact—marketing is often in the best possible position to know what customers need and value. And that knowl- edge goes to the heart of business strategy at both the corporate and the operating-unit levels. Business strategists look to marketing prac- titioners primarily for input on the following: 
+• Competitive threats 
+• Proﬁtable opportunities 
+• Areas of market growth, maturity, and decline 
+• Latent and explicit customer needs 
+• Ideas for distribution and pricing 
+In providing this information, marketers not only participate in strategic planning but also develop plans and tactics at various levels: cor- porate, business unit, and product line. For example, we ’ve noted that Southwest Airlines ’ strategy is to differentiate itself through low fares, frequent departures, point-to-point service, and customer-pleasing ser- vice. Its marketers must develop plans around that strategy. At the cor- porate level, it must communicate the Southwest message to travelers in general: “We ’ll get you where you want to go, when you want to go, and at a price you ’ll like. And you ’ll enjoy the trip. ” At the route 
+level, marketing people must think more tactically; they must deter- mine optimal pricing for tickets on each route, the departure times most likely to please travelers, and the advertising messages that will encourage people to make Southwest their ﬁrst choice on a particu- lar route. The marketers must also examine the business potential of new routes: what is the demand for travel between city A and city B? Which air carrier is currently serving this route? Would customers en- tertain another option? Thus, marketing people engage in many ac- tivities, all aimed at serving the company ’s strategic goals. 
+At its heart, a marketing strategy answers the question, Why should our customers buy our product (or service) and not those of our competitors? This strategy will later form the heart of the mar- keting plan for the company ’s offering. 
+Marketing strategy, like business strategy, happens on several lev- els within an organization ( ﬁgure 1-2). In big companies, people create strategy at the corporate level, at the level of the strategic busi- ness unit (SBU), and at the product-line level. In many smaller com- panies, strategy may be created on all three levels simultaneously. In fact, a product manager developing a market strategy at a small ﬁrm might ask, “How should we market this product? ” Answering that strategic question requires a clear understanding of the product ’s competitive advantage —or, from the customer ’s perspective, the need that the product ful ﬁlls more effectively than rival products. 
+The marketing strategy also de ﬁnes the following: 
+• The target market. An example might be educated and af ﬂuent drivers. 
+• How the product or service will be positioned to appeal to 
+that market. For example, “Our consulting service brings to- gether deep industry knowledge with state-of-the art problem solutions. ” 
+• How the product will be branded. A product brand is a name, term, sign, symbol, or design —or any combination of these — that identi ﬁes the offering and differentiates it from those of competitors. For example, “Coca Cola ” identi ﬁes a unique cola-based soft drink. 
+
+
+Corporate level 
+
+• Helps set stategic corporate goals 
+• Develops a broad marketing strategy 
+
+Strategic business unit level 
+• Helps set business unit goals 
+• Develops a marketing plan with a budget and specific tactics 
+
+Product-line level 
+• Helps set productline goals 
+• Develops a marketing plan with a budget and specific tactics 
+
+
+
+Every strategist must understand the external environment. For marketers, this means having a ﬁrm grasp on the following: 
+• The target market ’s size, demographic characteristics, and typi- cal behavior 
+• The primary beneﬁt of the proposed product as seen by customers 
+• An estimate of sales, market share, and pro ﬁts that the product could generate over the next few years 
+Marketing strategy is general by nature. As you ’ll see later in this book, the details of strategy implementation are picked up in the marketing plan. 
+Marketing Strategy and Product Life Cycles 
+Marketplace realities for a type of product or service generally change over time. For example, a new product concept —such as a television set, a personal computer, a personal digital assistant (PDA), or a cell 
+phone —goes through four life cycle phases, as shown in ﬁgure 1-3: introduction, growth, maturity, and decline. Each phase presents a unique challenge to marketers, who must create a strategy for gen- erating sales that recognizes the circumstances of each phase. 
+Consider the case of the personal computer. When the ﬁrst per- sonal computers appeared in the late 1970s, only a small segment of the population showed any interest: technologists, mathematicians, and hobbyists. Many PCs were sold as kits. Apple Computer and other manufacturers introduced improved models that simpli ﬁed setup and use. Software writers provided programs that made these machines useful for a wide range of tasks. When IBM jumped into the game in 1981, the market grew rapidly. Industrywide sales jumped 
+higher every quarter, and many new competitors, attracted by those rising sales, entered the business. Before long, many people had a desktop machine at work and another at home, and they would re- place these every two or three years as new and improved models were developed. PCs were on the sharp, upward growth slope of the life cycle. 
+By the late 1990s, only twenty years after Apple introduced its landmark Apple II machine, the personal computer industry had taken on many of the characteristics of market maturity: a slower rate of unit sales due to market saturation, price resistance from cus- tomers, a declining rate of technical product improvements, and de- clining pro ﬁtability. The PC was becoming a commodity product, like the refrigerator and the television set. In this phase only large- scale producers could prosper. Thus, small ﬁrms dropped out. Hewlett-Packard purchased rival Compaq in quest of the scale it felt was required to operate pro ﬁtably. IBM sold its PC operations to a Chinese manufacturer. 
+Marketing strategy must change in each phase of the life cycle. Let ’s consider how. 
+The Introduction Phase 
+In this phase, one or more pioneers attempt to draw attention to something new and unfamiliar. Marketing ’s job is twofold: to create awareness of the product category and educate potential customers in how they can use it to their bene ﬁt. Consider again the personal computer. In the late 1970s, Apple, Atari, PET, Radio Shack, and other pioneers were as interested in creating the market as in push- ing their particular products. Growing awareness and interest in per- sonal computing was good for all competitors. When giant IBM entered the market in 1981, the existing players were overjoyed be- cause Big Blue ’s entry gave their product category legitimacy and would bring more people into the market. 
+Product-line ﬁnancial losses are typical in this start-up phase as revenues are quickly eaten up by continued product development, marketing, and manufacturing costs. 
+
+The marketing challenge in the start-up phase is to create product awareness and get people to try the product. The aim is to make the pie grow bigger. 
+
+The Growth Phase 
+Some products experience a stage of rapid revenue growth. Net in- come shoots upward, ending start-up losses. In some cases, however, only a small portion of those revenues makes it to the bottom line (net pro ﬁts). The reason is that the company (or product line) is busily reinvesting its operating proﬁts in product development, brand building, and market expansion. eBay, the online auction giant, illustrates the point. 
+eBay began operations in 1995 as a home-based business. The con- cept of buying and selling through an online auction was so appealing, however, that it grew quickly. Figure 1-4 indicates the magnitude of 
+that growth in the company ’s formative period, 1996 –2002. Notice that net income barely inched up during 1997 –1999, even though revenue was more than doubling year to year. In the absence of other information, we might think that eBay was doing a poor job of managing its bottom line. In fact, the company was using cash gen- erated through revenues to develop its online infrastructure, create a recognizable brand, and develop new auction categories. It was also aggressively staking claims in other segments of the auction universe, often through acquisition; this preempted market entry by potential rivals. 
+The marketing challenge in the growth phase is to switch from creating product awareness to brand building. Because new competitors are naturally drawn to the rising level of revenues and pro ﬁts, you should concentrate on maximizing the company ’s shares of the growing pie. To capture more revenues, extend the product; an example is Apple ’s 2005 introduction of the lower-priced iPod Mini. 
+The Maturity Phase 
+Eventually, most industries and product categories reach a point of maturity, which is characterized by a consolidation in the number of producers, ﬂat or slow unit sales growth, and declining pro ﬁt mar- gins. In the maturity phase, the seller ’s market gives way to a buyer ’s market. Margins decline as producers wrestle with each other in try- ing to capture a bigger slice of pie. Product changes are incremental, not “breakthrough. ” Substantial sums are spent on advertising and price discounts. Competition deteriorates into a punching match between entrenched competitors, each trying to win a point or two of market share from the others. 
+The personal computer industry is very near the maturity phase, if not in it. Hardware and software makers continue to make incre- mental improvements, but these have not excited consumers and businesses to the point that they will dump their current machines in favor of new ones. Even Microsoft has discovered that big corporate 
+
+customers are less and less willing to replace their “of ﬁce suite ” soft- ware with Microsoft ’s latest versions. These customers feel that the purchase and training costs associated with those replacements are not justiﬁed by new bells and whistles. PC vendors have come up against similar resistance and must resort to price discounts to move their merchandise. 
+As with other life cycle phases, the transition from rapid growth to maturity requires a strategy shift on the part of marketers, one that recognizes a change in supply and demand. Here, you attempt to dif- ferentiate on price and on any new features your R&D people have integrated into the mature product. If you watch the very mature auto industry, you ’ll see the mature phase marketing strategy in ac- tion. In the saturated U.S. market, for example, automakers resort to low-cost or zero-percent ﬁnancing to move the merchandise. They tout new technical gizmos, such as GM ’s OnStar GPS and emer- gency road service feature. They offer new technologies to set them- selves apart, such as all-wheel drive on passenger cars. 
+“New and improved ” —you ’ve probably heard it a thousand times to describe mature products. Indeed, strategy in the mature phase tries to revitalize brands in ways that will increase revenues. Figure 1-5 represents the goal of brand revitalization. It indicates the start-up, rapid growth, and maturity phases, as well as the beginnings of decline for a particular brand. The bold line represents what busi- ness and marketing strategists attempt through some form of brand revitalization, whose aim is to get the brand back on the growth track. Here are some examples of product revitalization: 
+• Wireless features added to traditional laptop computers 
+• GPS applications in passenger cars 
+• Plaque- ﬁghting ingredients added to traditional toothpaste 
+• New uses for an old product (for example, Arm & Hammer ’s campaign to boost sales of baking soda by suggesting that people freshen the air in their refrigerators by putting an open box on the shelf or reduce odors in cat litter boxes by mixing in the product) 
+ 
+Brand revitalization 
+Marketer ’s Toolkit 
+Time 
+Marketing ’s role in brand revitalization strategy is twofold: 
+1. Work with product developers to determine what customers will value and what they will pay for. 
+2. When the new-and-improved product is launched, communicate with the marketplace about the greater value it now represents. 
+The great danger in a brand revitalization strategy is getting the ﬁrst of these assignments wrong. It ’s easy to be myopic about prod- uct “improvements. ” Managers have a bad habit of thinking that customers should be as excited as they are about whatever new fea- ture the R&D people have cooked up, when in fact customers couldn ’t care less. Managers think about their differentiating features quite a bit; customers think about these feature hardly at all. Man- agers spend millions advertising their differentiating features, and customers ignore them. 
+In the early 1990s, for example, some Japanese car makers were so excited about their ﬂexible manufacturing capabilities that they of- fered customers the ability to choose between dozens of options for steering wheels, sound system packages, ﬂoor carpets, wheel covers, 
+
+and so on. The variety was mind-boggling —and that was the prob- lem. Customers didn ’t want their minds boggled! The many choices were not valued —in fact, customers viewed them negatively. What they wanted was a simple set of choices. 
+The marketing challenges in the mature phase include the need to protect market share through intensi ﬁed promotion, to reduce manu- facturing costs as price pressure becomes more intense, to eliminate weaknesses in the product, and to leverage the success of the current brands with brand extensions. 
+The Decline Phase 
+Every dog has his day, as folk wisdom puts it. The same can be said of many products and services. In the decline phase, unit sales di- minish year after year. One reason is technical obsolescence. For ex- ample, sales of vacuum tubes diminished rapidly, beginning in the 1950s, as newly developed transistors displaced them in most types of electronic devices. Vacuum tubes survive today only in a few spe- cialized applications. 
+Changing buyer behavior is another reason for decline. The manufacturers of men ’s suits have taken a big hit in recent years as workplace dress codes have become more informal. The sales of sewing machines and fabric also declined as women entered the workforce; these working women lacked the time and energy to make their own clothes, as they had in the past. 
+The marketing challenges in the decline phase include the need to promote new uses for old products and introduce the product in new markets —for example, by selling in parts of the developing world. One European food company did that with its baby formula. With birthrates in decline in Europe and North America —its initial stronghold —it began selling baby formula in Africa, where this ordinary product was viewed as a status item. Marketers must aim to harvest as much proﬁt as possible from the brand. 
+
+Marketer ’s Toolkit 
+Not every product or service can be de ﬁned through this life cycle approach. Life is not that tidy. However, the life cycle is a useful tool for anticipating future challenges and assessing how you can respond. 
+Take a minute to think about your company ’s products and services. Which of the life cycle phases do they currently occupy? What are your marketing people doing to improve sales and pro ﬁt performance? 
+Summing Up 
+• Competitive strategy is about being different in a way that cus- tomers value. 
+• In formulating a strategy, management must determine what difference is valued and by whom . 
+• Marketing strategy must be aligned with business strategy. It answers the question, Why should our customers buy our prod- uct (or service) and not those of our competitors? 
+• Marketing strategy deﬁnes the target market, how the product or service will be positioned, and how it will be branded. 
+• A new product concept goes through four life cycle phases: in- troduction, growth, maturity, and decline. Each phase presents a different challenge to marketers. 
+• In the introduction phase, marketing ’s job is to create awareness of the product category and to educate potential customers about how they can use it to their bene ﬁt. 
+• Products or services that experience a phase of rapid unit sales growth attract competitors. The challenge in this phase is to build your brand. 
+• In the maturity phase, the seller ’s market gives way to a buyer ’s market. Margins decline as producers wrestle with each other 
+\nCopying or posting is an infringement of copyright. 
+for a bigger slice of the pie. Marketers are challenged to revital- ize their brands. 
+• During the phase of declining unit sales, marketers try to pro- mote new uses for their old products, ﬁnd new markets, or harvest as much pro ﬁt as possible as the end draws near. 
+Copying or posting is an infringement of copyright. 
+
+Notes 
+Chapter 1 
+1. Alfred P. Sloan Jr., “Quarterly Dividend Mailing to GM Common Stockholders, ” General Motors Corporation, September 11, 1933. For a more complete look at the contents of this letter and Sloan ’s strikingly modern view, see Vincent P. Barabba, Meeting of the Minds (Boston: Harvard Business School Press, 1995), 12. 
+2. Peter F. Drucker, Management: Tasks, Responsibilities, Practices (New York: Harper & Row, 1974), 61. 
+3. Vincent P. Barabba, Meeting of the Minds (Boston: Harvard Business School Press, 1995), 2. 
+
+
+
+The New Manager ’s Guide and Mentor 
+The Harvard Business Essentials series is designed to provide com- prehensive advice, personal coaching, background information, and guidance on the most relevant topics in business. Drawing on rich content from Harvard Business School Publishing and other sources, these concise guides are carefully crafted to provide a highly practi- cal resource for readers with all levels of experience, and will prove especially valuable for the new manager. To assure quality and accu- racy, each volume is closely reviewed by a specialized content adviser from a world-class business school. Whether you are a new manager seeking to expand your skills or a seasoned professional looking to broaden your knowledge base, these solution-oriented books put re- liable answers at your ﬁngertips. 
