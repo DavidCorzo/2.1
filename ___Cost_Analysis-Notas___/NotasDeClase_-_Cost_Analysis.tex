@@ -39,14 +39,30 @@
 \usepackage{amssymb}
 \usepackage{pifont}
 \usepackage{longtable}
+\usepackage{davidcorzo}
 \usetikzlibrary{arrows,shapes}
+
+% \newcommand{\estadoderesultados}[3]{
+%     \begin{center}
+%        \begin{tabular}{ | p{8cm} | p{5cm} | }
+%            \hline
+%                 Ventas &  #1   \\
+%                 Costo de ventas & #2 \\ 
+%            \hline
+%                 Utilidad marginal &  \\
+%                 Costos fijos & #3 \\ 
+%            \hline
+%                 Utilidad de operación &  \\ 
+%                 ISR & \\ 
+%            \hline
+%                 Utilidad neta & \\ 
+%             \hline
+%        \end{tabular}
+%     \end{center}
+% }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Begin block styles
-\tikzstyle{decision}=[diamond, draw, fill=white!20,text width=4.5em, text badly centered, node distance=3cm, inner sep=0pt]
-\tikzstyle{block}=[rectangle, draw, fill=white!20,text width=5em, text centered, rounded corners, minimum height=4em]
-\tikzstyle{large_block}=[rectangle, draw, fill=white!20,text width=16em, text centered, rounded corners, minimum height=4em]
-\tikzstyle{line}=[draw, -latex']
-\tikzstyle{cloud}=[draw, ellipse,fill=white!20, node distance=3cm,minimum height=2em]
+\tikzblockdefinitions
 % End block styles 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -72,6 +88,9 @@
 
 \chapter{Clase de repaso - 2020-02-24}
 \input{Clases/06.tex}
+
+\chapter{Clase - 2020-03-04 Post Parcial}
+\input{Clases/07.tex}
 
 
 \end{document}
