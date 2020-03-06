@@ -1,0 +1,14 @@
+'L_'  -> # Laboratorios
+'HDT_ -> # Hojas de trabajo
+'T_'  -> # Trabajos 
+'EC_' -> # Examenes cortos
+'P_'  -> # Parciales 
+'RP_' -> # Repaso de parciales 
+'R_'  -> # Resumenes
+'MA_' -> # Material de apoyo
+'RE_' -> # Repasos
+'E_'  -> # Ejercicios en clase
+'PR_' -> # Proyectos 
+'CE_' -> # Comprobación de eventos
+'TA_' -> # Tareas
+'NC_' -> # Notas complementarias

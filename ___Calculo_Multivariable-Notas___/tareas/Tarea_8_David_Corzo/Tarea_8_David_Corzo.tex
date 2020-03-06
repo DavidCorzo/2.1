@@ -1,5 +1,5 @@
 \documentclass{article}
-\usepackage[margin = 1in]{geometry}\usepackage{pdfpages}
+\usepackage[margin = 1in]{geometry}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
 \usepackage{amsthm}
@@ -9,6 +9,7 @@
 \usepackage{fancyhdr}
 \usepackage{tikz}
 \usepackage{davidcorzo}
+\usepackage{enumitem}
 
 \title{Tarea \#8 - David Corzo}
 \date{2020 March 04, 09:43PM}
@@ -22,12 +23,35 @@
 %----------------------------------------------------------------------------------------
 \subsection{$\displaystyle y\tan^{-1}(x)=x\sin^{-1}(y)+x^2y^2$}  
 
+\begin{center}
+    \begin{itemize}[label=\#]
+        \item La variabel respecto a la que hay que derivar es la que está en el denominador.
+    \end{itemize}
+    \begin{center}
+       \begin{align*}
+            0 &= -y \arctan (x)+x\arcsin(y)+x^2y^2\\ 
+            % \dervpar{F}{y} &= -\arctan(x) + \frac{x}{\sqrt{1-y^2}} + x^2\cdot 2y \\
+            % \dervpar{F}{x} &= \frac{-y}{x^2+1} + \arcsin(y) 2x\cdot y^2 \\
+
+            \dervpar{y}{x} &= \frac{-\arctan(x) + \frac{x}{\sqrt{1-y^2}} + x^2\cdot 2y}{\frac{-y}{x^2+1} + \arcsin(y) 2x\cdot y^2}  \\ 
+       \end{align*}
+    \end{center}
+\end{center}
 %----------------------------------------------------------------------------------------
 \subsection{$\displaystyle yx+x^3\ln(y)=\left(x^2+y^2\right)^2$}
+
+\begin{center}
+   \begin{align*}
+        yx+x^3\ln(y) &= x^4 + 2x^2+y^2 + y^4 \\ 
+        y'x+y+\frac{3}{y} &= 
+   \end{align*}
+\end{center}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Encuentre las derivadas parciales para las sigs. funciones implícitas}
+
 
 %----------------------------------------------------------------------------------------
 \subsection{$\displaystyle \sin(xy)+\cos(yz)=\cot(zx)$}
@@ -40,7 +64,10 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Encuentre la ecuación del plano tangente a la superficie dada en el punto específicado.}
-
+Fórmula plano tangente: 
+\[
+    z = f(a,b)+f_x(a,b)(x-a)+f_y(a,b)(y-b)
+\]
 
 %----------------------------------------------------------------------------------------
 \subsection{$\displaystyle z = \frac{2x+3}{4y+1} $, $(0,0,0)$}
