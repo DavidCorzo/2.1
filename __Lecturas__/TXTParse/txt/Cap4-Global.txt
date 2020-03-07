@@ -1,0 +1,814 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+Planeación 107 
+4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Después de estudiar el capítulo deberá ser capaz de: 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+Comprender qué es la planeación administrativa y por qué es importante. 
+Identificar y analizar los diversos tipos de planes y mostrar cómo se relacionan entre sí. Esbozar y discutir los pasos lógicos de la planeación y ver cómo son, en esencia, un enfoque 
+racional para establecer objetivos y seleccionar los medios para alcanzarlos. 
+Explicar la naturaleza de los objetivos. 
+Describir cómo pueden establecerse objetivos verificables para situaciones distintas. Esbozar los conceptos en evolución de la administración por objetivos (APO). 
+Comprender el modelo de enfoque sistemático a la APO. 
+Describir los beneficios de la APO. 
+Identificar las debilidades de la APO y sugerir formas de superarlas. 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+108 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Planes nuevos 
+Planeación 
+Instrumentación de 
+los planes 
+Control: comparación 
+entre planes 
+y resultados 
+Desviaciones no 
+indeseables de 
+los planes 
+Desviaciones 
+indeseables 
+Acción correctiva 
+Figura 4.1 Relaciones estrechas entre planeación y control. 
+1 Ahora está familiarizado con la teoría de la administración básica y tiene las bases para compren- der las cinco funciones administrativas esenciales: planeación, organización, integración de perso- nal, dirección y control. En esta segunda parte del libro se analizará la planeación. 
+Al diseñar un ambiente para el desempeño efectivo y funcional de los individuos que trabajan en grupo, la tarea principal de un gerente es asegurarse de que todos comprendan tanto el proyecto a realizar como los objetivos del grupo y los métodos para alcanzarlos. Si se quiere que el esfuerzo 
+del grupo sea efectivo, las personas deben saber lo que se espera que cumplan. Ésta es 
+Planeación Selección de misio- la función de la planeación , la base de todas las funciones gerenciales que consiste en 
+seleccionar misiones y objetivos, y decidir sobre las acciones necesarias para lograr- los; requiere tomar decisiones, es decir, elegir una acción entre varias alternativas, de 
+es decir, elegir una acción entre manera que los planes proporcionen un enfoque racional para alcanzar los objetivos varias alternativas. preseleccionados. Como se analizará en el capítulo 6, en la planeación también par- 
+ticipa activamente la innovación gerencial, pues cierra la brecha entre dónde estamos y adónde queremos ir. Los siameses de la administración (véase la fi gura 4.1), la pla- 
+neación y el control, son inseparables; cualquier intento por controlar sin una buena planeación no tiene sentido, pues no hay forma de que las personas sepan si van en la dirección que quieren (el resultado de la tarea del control), a menos de que primero estén seguros de adónde quieren ir (parte de la tarea de planeación); así, los planes aportan los estándares de control. Tipos de planes 109 
+
+Misiones o propósitos 
+La misión o el propósito (términos que a menudo se utilizan indistintamente) 
+identifican la función o las tareas básicas de una empresa o dependencia, o de cual- 
+quiera de sus partes. Todo tipo de operación organizada tiene —o debería tener, si es 
+coherente — una misión o un propósito. En cada sistema social las empresas deben ra de sus partes. 
+realizar una función básica o tarea que la sociedad le asigna, por ejemplo, el propó- 
+sito de una empresa en general es la producción y distribución de bienes y servicios; 
+el de una dirección pública de carreteras es el diseño, construcción y operación de un sistema de 
+carreteras estatales; el de los tribunales es la interpretación de las leyes y su aplicación; el de una 
+universidad es enseñar, investigar y proporcionar servicios a la comunidad. 
+Misión del periódico El Universal 
+Debido a la cada vez mayor importancia que las empresas conceden a enunciar y difundir su 
+misión, se describirá la misión establecida por el periódico El Universal : 
+… contribuir al mejoramiento de la sociedad mediante la creación, acopio y distribución —por todos 
+los canales a su alcance — de noticias, cultura y entretenimiento de alta calidad. Asimismo, pre- 
+servar la existencia de una empresa con responsabilidad social, que procure la satisfacción de sus 
+clientes y el desarrollo profesional y humano de sus empleados. Todo ello basado en la observancia 
+de estándares de excelencia, al tiempo que crea valor duradero para los recursos de la compañía a 
+través de la inversión y la persistencia en el esfuerzo. 
+Se observa que El Universal define su misión o tarea básica a partir de la creación, el acopio y 
+la distribución de información de alta calidad, y pretende lograrlo con apoyo de estándares de 
+excelencia, además, busca satisfacer las necesidades de sus clientes y recompensar la confianza 
+que sus accionistas han depositado en los administradores, para lo cual se apoya en la adminis- 
+tración y la calidad de sus productos y servicios como elementos esenciales. 
+En este enunciado de misión se describe el propósito básico que desde la perspectiva de 
+la empresa da sentido a su propia existencia y, al mismo tiempo, subraya cómo ha de lograrlo 
+y la función que corresponde a cada uno de quienes han de participar en la búsqueda del cum- 
+plimiento del propósito básico. Un enunciado de misión como éste señala claramente las áreas 
+de prioridad para la empresa y dota a los administradores de un marco general para definir los 
+objetivos concretos deseables que habrán de alcanzarse en cada una de las áreas y que a su vez 
+pueden servir como base para desarrollar los planes de acción. 
+Con información de: El Universal , “Código de ética ”, en: http://www.eluniversal.com.mx/disenio/directorios06/codigo. 
+htm, consultado el 23 de agosto de 2011. 
+Aun cuando aquí no se hace, algunos autores distinguen entre misión y propósito; por ejemplo, una empresa puede tener el propósito social de producir y distribuir bienes y servicios, y es posible que lo logre al cumplir la misión de fabricar ciertas líneas de pro- ductos. La misión de una compañía petrolera —Exxon, por ejemplo — es buscar petróleo y extraerlo, para luego refinarlo y comercializarlo en crudo o elaborar productos derivados, desde combustible y diésel hasta químicos, y comercializarlos. Du Pont ha expresado su 
+www.exxon.com 
+www.dupont.com 
+www.kimberly-clark. 
+com 
+www.nasa.gov 
+A menudo el término se relaciona con el tema de la misión de una empresa. En relación con el análisis de la visión, las obras sobre administración más conocidas analizan conceptos como establecimiento de metas, admi- nistración de equipos y administración enfocada al futuro. 
+Un estudio reciente encontró que no existe acuerdo entre los ejecutivos sobre el significado de visión ; sin embargo, identificó siete factores en la estructura y el contenido de sus declaraciones sobre la visión: formu- lación, instrumentación, realismo innovador, generalidad, grado de detalle, propensión al riesgo y orientación a las ganancias. 
+1 
+2 
+Misión o propósito La función o 
+las tareas básicas de una empre- 
+sa o dependencia, o de cualquie- 
+1 
+2 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+110 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+misión como “hacer mejores cosas mediante la química ” y la empresa Kimberly-Clark (conoci- da por su marca registrada Kleenex) tiene la misión de producir y vender papel y sus derivados. En el decenio de 1960, la misión de la National Aeronautics Space Administration (NASA) fue llevar a una persona a la Luna antes que la Agencia Espacial Federal Rusa (AEFR). Es cierto que 
+a menudo en algunos negocios y empresas el propósito o misión se confunde; por 
+Sinergia El efecto del todo es ejemplo, muchos conglomerados establecen como su misión la sinergia , la cual se 
+logra mediante la combinación de varias compañías. 
+Desarrollo de las declaraciones 
+de misión 
+La filosofía y la visión de una organización se expresan en una declaración de misión que básica- mente consiste en desarrollar los siguientes puntos: 
+• 
+• 
+• 
+• 
+• 
+Valores esenciales. 
+Ámbito geográfico. 
+Dirección. 
+Relaciones con quienes participan en ella. 
+Visión del futuro (a menudo con base en la misión histórica). 
+Aunque pueden variar, los pasos para el desarrollo de una declaración de misión son los siguientes: 
+• 
+• 
+• 
+• 
+• 
+• 
+Evaluación del perfil pasado y presente de la empresa. 
+Contribución de los participantes en la empresa a la dirección futura. 
+Consenso de las necesidades opuestas de los grupos interesados (p. ej., accionistas, acree- dores, administradores, empleados y comunidad). 
+Elaboración del enunciado de la misión que describa la dirección general de la organización, sus valores y filosofía, ámbito geográfico y contribución a la sociedad. 
+Discusión de la declaración de misión con grupos de interesados, administradores y emplea- dos, y realización de los ajustes necesarios. 
+Comunicación de la declaración de misión a todos los que requieran conocerla y exposición tanto de sus implicaciones para la dirección estratégica de la organización como de sus ob- jetivos organizacionales específicos, e incluso, de las metas y los objetivos concretos de cada unidad organizacional. 
+Objetivos o metas 
+Objetivos o metas 
+Los fines hacia los que se dirige la actividad. 
+Los objetivos o metas (ambos términos se usan indistintamente en esta obra) son los fines hacia los cuales se dirige la actividad; no sólo representan el punto final de la planeación, sino el fin al que se dirige la organización, la integración de personal ( staffing ), la dirección y el control. Más adelante, en este mismo capítulo, se anali- zarán con mayor detalle tanto la naturaleza de los objetivos como la administración por objetivos (APO). 
+Estrategias 
+Durante años los militares usaron la palabra estrategias para referirse a todos los planes de acción respecto de lo que se estimaba podría hacer un enemigo; si bien el término tiene un supuesto 
+El concepto de sinergia puede expresarse simplemente como una situación en la que un grupo de personas sobrepasa el desempeño de la suma de los desempeños de sus integrantes por separado; así, el efecto del todo es superior al de sus partes. 
+3 
+superior al de sus partes. 
+3 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+Tipos de planes 
+111 
+competitivo, los gerentes lo utilizan cada vez más para reflexionar sobre amplias áreas del funcionamiento de una empresa. En este libro, estrategia se define como la forma en que se determinan los objetivos básicos a largo plazo en una empresa, la instrumentación de los cursos de acción y la asignación de los recursos necesarios para alcanzar esos objetivos. 
+Políticas 
+Estrategia Determinación de los objetivos básicos a largo plazo de una empresa, la instrumen- tación de los cursos de acción y la asignación de los recursos necesarios para alcanzar esos 
+objetivos. 
+Las políticas también son planes, pues son declaraciones o interpretaciones gene- 
+rales que orientan o dirigen las reflexiones para la toma de decisiones. No todas las 
+políticas son declaraciones : a menudo sólo están implícitas en las acciones de los 
+gerentes; por ejemplo, el presidente de una compañía puede seguir estrictamente toma de decisiones. 
+(quizá por conveniencia, más que por política) la práctica de promover al personal 
+interno, lo que puede interpretarse como política y seguirse al pie de la letra por los 
+subordinados. De hecho, uno de los problemas que enfrentan los gerentes es el asegurarse de que 
+los subordinados no interpreten como política decisiones gerenciales menores que no tienen la 
+intención de servir como modelo. 
+Las políticas definen un área dentro de la cual debe tomarse una decisión y aseguran que ésta 
+sea consistente con un objetivo y contribuya a su logro. Las políticas ayudan a solucionar proble- 
+mas antes de que se vuelvan serios, hacen innecesario analizar la misma situación cada vez que se 
+presenta y unifican otros planes, lo que si bien permite que los gerentes deleguen autoridad, sea 
+con el control sobre lo que hacen sus subordinados. 
+Hay muchos tipos de políticas, algunos ejemplos son: sólo contratar ingenieros con capacita- 
+ción universitaria, promover las sugerencias de los empleados para una mejor cooperación, pro- 
+mover desde dentro, apegarse estrictamente a un alto estándar de ética en las empresas, establecer 
+precios competitivos e insistir en asignar precios fijos y no de costo más utilidad. 
+La decisión de política global de Bill Ford 
+Ford Motor Company tiene la larga tradición (que se remonta al modelo 
+T) de orientarse mediante la política de fabricar automóviles sencillos y 
+asequibles por su bajo costo. Hasta el periodo 2007-2008, la compañía 
+era conocida por su camioneta pickup F-150, que tuvo mucho éxito; en- 
+tonces llegó la crisis del petróleo que elevó los precios de la gasolina a un 
+nivel nunca visto en Estados Unidos, así que Bill Ford tuvo que tomar una 
+decisión importante de política: pensó en pequeño, pensó en consumo 
+eficiente, pensó globalmente. 
+Ford tuvo suerte: la compañía contaba con modelos europeos exi- 
+tosos de consumo eficiente que se convirtieron en la base de su nueva 
+política de reducción del tamaño de los vehículos. También tuvo éxito en 
+Sudamérica, y considera que hay oportunidades de crecimiento en Asia, El modelo de autos más conocido de Ford es la por ejemplo en India y China, aunque para esta marca no dejan de ser pickup F-150. 
+preocupantes el automóvil indio de 2 500 dólares y las intenciones de 
+otros competidores de fabricar autos de bajo costo. Cambiar desde una política de fabricación de 
+camionetas muy rentables hacia otra con unidades más pequeñas es un paso muy arriesgado, 
+pero con las expectativas de los elevados precios de petróleo y gasolina, aplicar una estrategia 
+de no hacer nada sería aún más arriesgado. 
+Políticas Declaraciones o 
+interpretaciones generales que 
+orientan las reflexiones para la 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+112 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Procedimientos 
+Procedimientos Planes que esta- blecen un método de actuación necesario para soportar activida- 
+des futuras. 
+Los procedimientos son planes que establecen un método de actuación necesario para soportar actividades futuras; son secuencias cronológicas de acciones requeridas, lineamientos para actuar —más que para pensar — que detallan la manera precisa en que deben realizarse ciertas actividades. Por ejemplo, la Case Western University resume su proceso de evaluación en tres pasos: 
+1. Establecer los objetivos de desempeño. 
+2. Realizar una revisión de los objetivos a medio año. 
+3. Realizar un análisis del desempeño al final del periodo. 
+Los procedimientos a menudo rebasan los límites entre departamentos; por ejemplo, en una compañía manufacturera el procedimiento para el manejo de los pedidos puede incluir los depar- tamentos de ventas (para el pedido original), de finanzas (para el acuse de recibo de los fondos y la aprobación del crédito al cliente), de contabilidad (para registrar la operación), de producción (para ordenar la producción de los bienes o autorizar surtirlos del almacén) y de embarques (para determinar los medios y la ruta de embarque). 
+Unos cuantos ejemplos ilustran la relación entre procedimientos y políticas. La política de las compañías establece que pueden otorgarse vacaciones a los empleados, los procedimientos establecidos para instrumentar esta política proporcionarán el programa de vacaciones para evitar la interrupción del trabajo, con tarifas para el pago de las vacaciones y métodos para calcularlos; deberán también hacerse los procesos contables correspondientes para asegurar las vacaciones de cada empleado como establecerse los medios para solicitar los permisos. 
+Reglas 
+Reglas Establecen las acciones —o su ausencia — específicas necesarias en las que no se permite la discreción. 
+Las reglas establecen las acciones específicas necesarias, o su ausencia, para evitar que existan desviaciones; casi siempre son el tipo de plan más simple: no fumar es una regla que no permite la desviación de un curso de acción establecido. La finalidad de una regla es manifestar una decisión gerencial sobre si cierta acción debe seguirse. Las reglas se diferencian de las políticas en que estas últimas tienen el propósito de orientar la toma de decisiones al establecer áreas donde los gerentes pueden usar su discreción, en tanto que las primeras no permiten discreción en su aplicación. 
+Procedimientos y reglas impuestos desde el exterior 
+www.gd.com 
+En ocasiones las reglas y los procedimientos los establece una publicidad negativa. General Dynamics, uno de los mayores contratistas del Departamento de Defensa de Estados Unidos, fue acusado por procedimientos indebidos, y para no ser suspendido de la participación en 
+licitaciones públicas tuvo que aceptar una lista de reglas y procedimientos impuestos por la ins- titución gubernamental. 
+Estos nuevos requisitos se diseñaron para impedir el cambio de costos de un contrato a otro; por ejemplo, los trabajadores deben preparar y firmar sus propias tarjetas de asistencia, 
+Case Western University, en: www.cwru.edu/finadmin/humres/policies/III-2a.html, consultado el 27 de julio de 2011. Michael Hammer y James Champy sugieren, sin embargo, que muchos de esos pasos pueden combinarse; 
+véase su libro Reengineering the Corporation, Nueva York: HarperBusiness, 1993; véase también Reengineering , en: http://en.wikipedia.org/wiki/Business_process_reengineering, consultado el 27 de julio de 2011. 
+Worthy, Ford S., “Mr. Clean Charts a New Course at General Dynamics ”, Fortune , 28 de abril de 1986, pp. 70-76; General Dynamics, en: www.gd.com, consultado el 27 de julio de 2011. 
+4 
+5 
+6 
+4 
+5 
+6 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+Pasos de la planeación 113 
+el supervisor debe revisar cada una y de no haber sido completada correctamente la remitirá 
+al empleado para que la corrija y la firme tanto él como su jefe; además, el registro original no 
+debe borrarse para posterior revisión. También se requirió que General Dynamics estableciera 
+reglas estrictas para cargar gastos indirectos, así que no se permite que los empleados acepten 
+regalos, ni siquiera un bolígrafo o un calendario. 
+De esta manera, un cliente importante puede imponer reglas y procedimientos que no sólo 
+son ejemplos de planeación, sino de control, lo que muestra la estrecha relación entre las dos 
+funciones. 
+Programas 
+Los programas son un complejo de metas, políticas, procedimientos, reglas, asignacio- nes de tareas, pasos a seguir, recursos a emplear y otros elementos necesarios para realizar un curso de acción determinado; por lo regular cuentan con el apoyo de un presupuesto asignado. Pueden ser tan importantes como el programa de una aerolínea para adquirir una flotilla de jets con valor de 400 millones de dólares, o un programa de cinco años para mejorar el estatus y la calidad de sus miles de supervisores; o tan secundarios como un programa formulado por un supervisor para mejorar la moral de los trabajadores del departamento de fabricación de partes en una compañía de maquinaria agrícola. 
+Programas Complejos de metas, 
+políticas, procedimientos, reglas, 
+asignaciones de tareas, pasos a seguir, recursos a emplear y otros elementos necesarios para realizar un curso de acción determinado. 
+Presupuesto 
+Un presupuesto es, en términos numéricos, el informe de los resultados esperados 
+—puede llamarse plan cuantificado —; de hecho, el presupuesto financiero operativo 
+es a menudo un plan de utilidades que puede expresarse en términos financieros y de 
+horas laborables, en unidades de producto u horas máquina, o en cualquier término 
+numérico medible. Asimismo, puede ocuparse en la operación, como el presupuesto 
+de gastos; repercutir en el egreso de capitales, como el presupuesto de gastos de capital, o mostrar el flujo de efectivo, como lo hace el presupuesto de caja. Uno de los presupuestos más amplios es el que prepara la Oficina de Administración y Presupuesto de la Casa Blanca, que después presenta al Congreso el presidente de Estados Unidos. 
+Como los presupuestos también son dispositivos de control, se reserva su análisis principal para el capítulo 19, “Técnicas de control y tecnología de la información ”; sin embargo, y dado que hacer un presupuesto es evidentemente planear, es el instrumento de planeación fundamental en muchas compañías, ya que las obliga a elaborar por adelantado (para una semana o cinco años) una compilación numérica de los flujos de efectivo, gastos e ingresos, gastos de capital o utiliza- ción de mano de obra u horas máquina esperados. El presupuesto es necesario para el control, pero no puede servir como estándar práctico de control a menos que repercuta en los planes. 
+Pasos de la planeación 
+Los pasos prácticos que se listan a continuación y se representan en la figura 4.2 son de aplicación general; sin embargo, en la práctica se debe estudiar lo factible que son los posibles cursos de acción en cada etapa. 
+Office of Management and Budget at the White House, en: www.whitehouse.gov/omb, consultado el 27 de julio de 2011. 
+3 
+Presupuesto Informe de resulta- 
+dos esperados que se expresa en 
+términos numéricos. 
+7 
+7 
+
+----------------------------------------------------- Page 8 -----------------------------------------------------
+114 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Atención a las oportunidades 
+A la luz de: 
+• Mercado 
+• Competencia 
+• Deseos de los clientes 
+• Fortalezas propias 
+• Debilidades propias 
+Establecimiento de objetivos o metas Dónde querríamos estar, 
+qué deseamos hacer y cuándo 
+Consideración de las premisas de planeación 
+¿En qué condiciones (internas 
+o externas) operarán los planes? 
+Figura 4.2 Pasos de la planeación. 
+Identificación de alternativas 
+• ¿Cuáles son las alternativas más promisorias para el cumplimiento 
+de los objetivos? 
+Comparación de las alternativas con base en las metas propuestas ¿Qué alternativa ofrece mayores posibilidades de cumplir las metas al menor costo y con mayores ganancias? 
+Elección de una alternativa 
+Selección del curso de acción 
+a seguir 
+Formulación de los planes de apoyo Como los planes para: 
+• Comprar equipo 
+• Comprar materiales 
+• Contratar y capacitar a empleados • Desarrollar un nuevo producto 
+Conversión de los planes en cifras mediante la realización de presu- puestos 
+Desarrollo de presupuestos como: • Volumen y precio de las ventas • Gastos de operación necesarios 
+para los planes 
+• Inversión en bienes de capital 
+1. Estar atentos a las oportunidades 
+Aun cuando precede a la planeación real y, por tanto, no es estrictamente parte del proceso de pla- neación, el estar atentos a las oportunidades en los entornos externo e interno de la organización es el verdadero punto de partida de la planeación. Todos los gerentes deben echar un vistazo pre- liminar a las posibles oportunidades futuras y verlas con claridad y de manera integral, así como saber cuál es la posición de su compañía respecto de sus fortalezas y debilidades, comprender qué problemas debe resolver y por qué, además, saber qué puede esperar para ganar. Establecer objetivos realistas depende de esta percepción. La planeación requiere un diagnóstico realista de la situación de oportunidad. 
+2. Establecer objetivos 
+El segundo paso en la planeación es establecer objetivos para toda la empresa y luego para cada unidad de trabajo subordinada, lo que debe hacerse pensando en el corto y el largo plazo. Los ob- jetivos especifican los resultados esperados e indican el punto final de lo que debe hacerse, dónde debe colocarse el interés primario y qué es lo que debe lograrse con la red de estrategias, políticas, procedimientos, reglas, presupuestos y programas. 
+Los objetivos de la empresa orientan a los planes mayores, que, al expresar los objetivos, defi nen el de cada departamento importante. A su vez, los principales objetivos departamentales controlan los de los departamentos subordinados, y así hasta el fi nal de la línea; en otras palabras, los objetivos tienen jerarquía: los de los departamentos inferiores serán más precisos si los gerentes de subdivisión comprenden los objetivos generales de la empresa y las metas derivadas; los geren- tes también deben tener la oportunidad de contribuir con ideas para establecer sus propias metas y las de la empresa. 
+3. Desarrollar premisas 
+El siguiente paso lógico en la planeación es establecer, divulgar y lograr el acuerdo para utilizar las 
+premisas de planeación decisivas como los pronósticos, las políticas básicas aplicables 
+Premisas Supuestos sobre el y los planes existentes de la compañía. Las premisas son supuestos sobre el ambiente ambiente en el que se desarro- 
+llará el plan. 
+Podría utilizarse la palabra problemas en vez de oportunidades ; sin embargo, un estado de desor- den o confusión y la necesidad de una solución para lograr una meta dada puede considerarse más constructivamente como una oportunidad. De hecho, el presidente de una compañía muy exitosa y astuta no permite que sus colegas hablen de problemas: sólo deben hablar de oportunidades. 
+8 
+8 
+
+----------------------------------------------------- Page 9 -----------------------------------------------------
+Pasos de la planeación 
+115 
+en el que se desarrollará el plan. Para todos los gerentes involucrados en la planea- 
+ción es importante acordar las premisas; de hecho, el siguiente es el principio de Principio de las premisas de pla- las premisas de planeación más importante: cuanto más comprendan y acuerden 
+los individuos a cargo de la planeación utilizar premisas de planeación consistentes, 
+mejor será la planeación coordinada de la empresa. premisas de planeación consis- Los pronósticos son importantes en el establecimiento de premisas: ¿qué tipo tentes, mejor será la planeación 
+de mercados habrá?, ¿qué volumen de ventas?, ¿qué precios?, ¿qué productos?, ¿qué 
+desarrollos técnicos?, ¿qué costos?, ¿qué niveles de sueldos?, ¿qué tasas y políticas de 
+impuestos?, ¿qué nuevas plantas?, ¿qué políticas respecto de los dividendos?, ¿qué ambiente políti- 
+co o social?, ¿cómo se financiará la expansión?, ¿cuáles son las tendencias a largo plazo? 
+Obstáculos de planeación del Nano 
+Cuando en 2008 Tata Motors presentó el Nano en la exposición de auto- 
+móviles de Delhi a un precio de 2 500 dólares, ocupó los titulares de todo 
+el mundo y captó la atención de competidores como Hyundai Motor y 
+Nissan-Renault, quienes planeaban introducir vehículos de bajo costo. 
+Se esperaba que este auto, que rinde 50 millas por galón (18.26 
+km/L), cambiara la manera en que viajan los habitantes de India; sin em- 
+bargo, desde la planeación del Nano los costos han aumentado: la mate- 
+ria prima, que constituye una parte importante del costo, ha aumentado 
+de precio; también, la fábrica está atrasada respecto al calendario, ade- 
+más, los pueblos de alrededor de Kolkata protestaron porque el gobierno 
+tomó su tierra sin una compensación adecuada para construir la fábrica. 
+La presentación del auto fue a mediados del decenio de 2008, en el 
+momento en que los ingresos de Tata Motors caían; el precio por acción de 
+la compañía también se afectó, en parte por la adquisición que Ford Motor 
+Company hizo de Jaguar y Land Rover; aun así, Ratan Tata, director del 
+grupo, se comprometió con el proyecto de automóvil de bajo costo, aun- ya se vende en India entre 1 500 y 2 040 euros. que tuvo que hacer algunos compromisos para mantener el precio bajo. 
+Quizá el mayor obstáculo fueron las disputas por la tierra. Cerca de 40 000 manifestantes 
+llegaron a Singur, una ciudad a 25 millas de Kolkata, y se quejaron porque las autoridades, junto 
+con algunos industriales, se habían apoderado de unos 1 000 acres (405 ha) de los granjeros para 
+construir la fábrica de Nano. Por su parte, Tata amenazó con sacar la fábrica del estado; de he- 
+cho, en 2008 la compañía decidió reubicarla en el estado de Guajarat, más proclive a los negocios, 
+movimiento que fue muy costoso para Tata y supuso retrasos en el lanzamiento del Nano. 
+4. Determinar cursos alternativos 
+El cuarto paso de la planeación es buscar y examinar cursos de acción alternativos, especialmente 
+los que no son muy evidentes. Pocas veces hay un plan para el que no existan alternativas razona- 
+bles: a menudo la menos obvia demuestra ser la mejor. 
+Rowley, Ian y Srivastava, Mehul, “Tata ’s Nano Hits a Speed Bump, ” Business Week , 11 de agosto de 2008, p. 30; 
+Tata Nano, en: http://en.wikipedia.org/wiki/Tata_Nano, consultado el 27 de julio de 2011; Tata Nano Car, en: 
+http://www.infibeam.com/static/tata-nano.html, consultado el 27 de julio de 2011; véase también el sitio web de 
+Tata, en: http://tatanano.inservices.tatamotors.com/tatamotors, consultado el 27 de julio de 2011; Rowley, Ian y 
+Ihlwan, Moon, “In India, Farmers vs. Factories ” Business Week , 8 de septiembre de 2008, p. 30. 
+Srivastava, Mehul, “Protests Against Tata ’s Nano Get Ugly ”, Business Week , 28 de agosto de 2009, en: http:// 
+www.businessweek.com/globalbiz/content/aug2008/gb20080829_140882.htm?chan=globalbiz_asia+index+page_ 
+companies, consultado el 27 de julio de 2011. 
+“Tata ’s Nano Project finds a Home ”, en: http://afp.google.com/article/ALeqM5iSr7X9bcGB1kQi-wX1I_royTvHZg, 
+consultado el 27 de julio de 2011. 
+neación Cuanto más compren- 
+dan y acuerden los individuos a 
+cargo de la planeación utilizar 
+coordinada de la empresa. 
+9 
+El Nano, que tiene cuatro plazas y cinco puertas, 
+10 
+11 
+9 
+10 
+11 
+
+----------------------------------------------------- Page 10 -----------------------------------------------------
+116 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+El problema más frecuente no es el de encontrar alternativas, sino el de reducir su cantidad para, de esa forma, analizar la más prometedora. Aun con las técnicas matemáticas y la compu- tadora, hay un límite a la cantidad de alternativas que pueden examinarse a fondo, y casi siempre el planeador debe hacer un examen preliminar para descubrir las posibilidades más fructíferas. 
+5. Evaluar cursos alternativos 
+Después de buscar cursos alternativos y examinar sus puntos fuertes y débiles, el paso siguiente es evaluarlos sopesándolos a la luz de premisas y metas. Un curso puede parecer el más rentable, pero requerir de un fuerte desembolso de efectivo y tener una lenta recuperación; otro puede parecer menos rentable, pero suponer menos riesgo; otro más puede adecuarse mejor a los objetivos de largo plazo de la compañía. 
+En la mayoría de las situaciones existen tantos cursos alternativos, variables y limitaciones a considerar, que la evaluación puede ser muy difícil; por ello en la sexta parte, dedicada al control, se analizan las metodologías y las aplicaciones más recientes, así como el análisis. 
+Evaluación de los cursos alternativos de los fabricantes de automóviles en India con la intención de mitigar el impacto medioambiental 
+India es muy conocida por sus motocicletas; Hindustan Motors lo es por su tradicional Ambas- sador. Pero cuando Tata Motors introdujo el Nano a un precio de 2 500 dólares, su industria au- tomotriz salió a la luz pública en todo el mundo, y muchas compañías automotrices entraron a ese país; por ejemplo, General Motors construyó allí su segunda planta en 2008 y competirá con Maruti y Nano, entre otros, aunque se espera que su automóvil sea más caro que el Nano de Tata Motors. Volkswagen, la mayor compañía de automóviles de Europa, también entró en el mercado indio de coches usados. Con los altos precios de la gasolina, las compañías se concentran en el bajo consumo y, al mismo tiempo, en desarrollar motores ecológicos; en este sentido, Toyota ha tenido mucho éxito con su auto híbrido Prius. Honda también cuenta con un auto híbrido, el Civic Hybrid ya está en el mercado mexicano; incluso el fabricante de autos de lujo BMW lanzó su auto híbrido BMW i8, que cuenta con motor de tres cilindros; mientras que Tata Motors ha trabajado en el Tata Nano EV, un auto eléctrico con batería de ion litio. 
+Pero la meta de largo plazo en India es desarrollar automóviles impulsados por hidrógeno, aunque al principio éstos tendrían que importarse, lo que supone varios obstáculos. Aun así, Honda Siel Cars India ha introducido su popular modelo Civic, pero ahora con propulsión híbrida. Los legisladores se preguntan qué cursos alternos podrían seguirse para minimizar el impacto medioambiental que supone contar con cada vez más autos. 
+6. Seleccionar un curso 
+Éste es el paso en que se adopta el plan, el verdadero punto de la decisión. En ocasiones un análisis y una evaluación de los cursos alternativos revelarán que dos o más son aconsejables y el gerente puede decidir utilizar varios en lugar del mejor. 
+7. Formular planes derivados 
+Cuando se toma una decisión raras veces la planeación está completa y se requiere un séptimo paso: casi siempre se necesitan planes derivados para apoyar el plan básico. 
+“Second Car Plant from General Motors ”, en: http://www.cartradeindia.com/news/second-car-plant-from- general-motors-in-india-110332.html, consultado el 27 de julio de 2011; “Hindustan Ambassador ”, en: http:// en.wikipedia.org/wiki/Hindustan_Ambassador, consultado el 27 de julio de 2011. 
+12 
+12 
+
+----------------------------------------------------- Page 11 -----------------------------------------------------
+Objetivos 117 
+8. Cuantificar los planes mediante presupuestos 
+Después de que se han tomado las decisiones y establecido los planes, el paso final para darles significado —como se indicó en el análisis sobre los tipos de planes — es cuantificarlos y conver- tirlos en presupuestos. El presupuesto general de una empresa representa la suma total de ingresos y egresos, con las utilidades o el valor agregado resultante y los presupuestos de las partidas de la hoja de balance general, como los gastos de caja y capital. Cada departamento o programa de una empresa puede tener sus propios presupuestos —casi siempre gastos genéricos y de capital — que se relacionan con el presupuesto general. 
+Si se calculan bien, los presupuestos se convierten en medios para sumar los diversos planes y establecer estándares importantes contra los cuales puede medirse el progreso de planeación. 
+Preparar un plan de negocios 
+de un nuevo proyecto 
+Casi siempre los empresarios empiezan el proceso de planeación al elaborar un plan de negocios para su nuevo proyecto, en él intentan describir con claridad el propósito de su negocio (lo que la empresa en realidad hace), posteriormente identifican la oportunidad o el problema de mercado que quieren resolver, luego describen cómo se relaciona su producto con la oportunidad de mer- cado y de qué manera se proponen vender su producto y financiar la operación de su nueva em- presa. Este proceso de planeación del negocio es esencial para ayudar a dirigir los esfuerzos del empresario. El plan de negocios también es fundamental para presentar la nueva empresa a los inversionistas potenciales y ganarse su confianza y respaldo. En las conclusiones de la segunda parte de este libro se presenta una estructura completa de plan de negocios que los gerentes de empresas y estudiantes empresariales pueden utilizar como referencia. 
+Coordinación de planes a corto y largo plazos 
+A menudo se hacen planes de corto plazo sin referirlos a los de largo plazo; éste es, evidentemente, un grave error. La importancia de integrar a los dos tipos no puede exagerarse, pero no debe ha- cerse un plan de corto plazo a menos que contribuya al logro relevante de un plan a largo plazo. Se pierde mucho tiempo al tomar decisiones relativas a situaciones inmediatas que no consideran su efecto en objetivos más lejanos. 
+Los gerentes responsables deben revisar y analizar continuamente las decisiones inmediatas para determinar si contribuyen a los programas de largo plazo, y han de informar con regularidad a los gerentes subordinados sobre los planes a largo plazo para que tomen decisiones consisten- tes con las metas a largo plazo de la compañía. Hacer esto es mucho más sencillo que corregir inconsistencias más adelante, en especial cuando los compromisos a corto plazo tienden a llevar a compromisos adicionales en la misma línea. 
+Objetivos 
+4 
+Ya se definieron los objetivos como los fines importantes hacia los que se dirigen las actividades 
+organizacionales e individuales. Dado que los autores y los encargados de practicar la administra- 
+ción no distinguen entre los términos metas y objetivos, en esta obra se utilizan de manera indis- 
+tinta. En el contexto de la discusión quedará claro si los objetivos son, por un lado, a 
+corto o largo plazo, y, por otro, si son amplios o específicos. El principal interés está Objetivo verificable Es cuando al en los objetivos verificables , lo que significa que al final del periodo debe ser posi- final del periodo puede determi- ble determinar si los objetivos se consiguieron. La meta de cada gerente es crear un narse si se ha logrado. 
+
+----------------------------------------------------- Page 12 -----------------------------------------------------
+118 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+valor agregado —que en las organizaciones lucrativas significa utilidades —. Los objetivos claros y verificables facilitan la medición del excedente, así como la efectividad, la eficiencia y, por tanto, la eficacia de las acciones gerenciales. 
+Naturaleza de los objetivos 
+Los objetivos establecen los resultados finales, y los generales deben apoyarse en los particulares. Así, éstos forman una jerarquía, es decir, una red. Más aún, organizaciones y gerentes tienen metas múltiples que en ocasiones son incompatibles y pueden llevar a conflictos dentro de la or- ganización, del grupo y hasta entre individuos. El gerente tendrá que elegir entre un desempeño a corto o largo plazos, y los intereses personales quizá tengan que subordinarse a los objetivos organizacionales. 
+Jerarquía de los objetivos 
+Como lo muestra la figura 4.3, los objetivos forman una jerarquía que va desde la meta amplia hasta objetivos individuales específicos. En el punto más alto de la jerarquía está el propósito o la misión, que tiene dos dimensiones: 
+1. El propósito social, como contribuir al bienestar de la gente proporcionando bienes y servi- cios a un precio razonable. 
+2. La misión o propósito de la empresa, que podría ser proporcionar transportación conveniente y de bajo costo para la persona promedio. 
+La misión indicada podría ser la de producir automóviles, comercializarlos y darles servicio. Según puede observarse, la distinción entre propósito y misión es fi na y, por tanto, muchos auto- res y practicantes de la administración no distinguen entre los dos términos. De cualquier manera, estas metas se traducen a su vez en objetivos y estrategias generales, como diseñar, producir y co- mercializar automóviles confi ables, de bajo costo y efi cientes en el consumo de combustible. 
+1. 
+Propósito 
+socioeconómico 
+2. Misión 
+3. Objetivos generales de 
+la organización (a largo plazo, 
+estratégicos) 
+4. Objetivos generales más específicos 
+(p. ej., de áreas de resultados clave) 
+5. Objetivos divisionales 
+6. Objetivos departamentales y de unidades 
+7. Objetivos individuales 
+• Desempeño 
+• Objetivos de desarrollo personal Jerarquía de objetivos 
+(Algunos) 
+(Algunos) 
+Consejo 
+administrativo 
+Administradores 
+de nivel superior 
+Administradores 
+de nivel medio 
+Administradores de 
+nivel inferior 
+Jerarquía organizacional 
+Adaptado de: Weihrich, H. y Mendleson, J., Management: An MBO Approach , Dubuque, Iowa, Wm, C. Brown Co., 1978, p. xi. Reproducido con autorización. 
+Figura 4.3 Relación entre objetivos y jerarquía organizacional. 
+M é 
+d o 
+a s 
+nd 
+nt 
+t o 
+e 
+e 
+c e 
+M é 
+d o 
+d e 
+e n 
+d e 
+n t e 
+t o 
+s c 
+
+----------------------------------------------------- Page 13 -----------------------------------------------------
+Objetivos 
+119 
+El siguiente nivel en la jerarquía contiene objetivos más específicos, como los de las 
+áreas de resultados clave , en las que el desempeño es esencial para el éxito de la Área de resultados clave En ésta 
+el desempeño es esencial para el 
+Aunque no hay total acuerdo sobre cuáles deberían ser las áreas de resultados 
+clave en una empresa —y pueden ser muy diferentes para cada una —, Peter F. Druc- 
+ker sugiere las siguientes: posición en el mercado, innovación, productividad, recursos físicos y 
+financieros, rentabilidad, desempeño y desarrollo del gerente, desempeño y actitud del trabajador, 
+y responsabilidad pública; sin embargo, recientemente dos áreas de resultados clave han tomado 
+importancia estratégica: servicio y calidad. 
+A continuación se presentan algunos ejemplos de objetivos para las áreas de resultados: lograr 
+un rendimiento de 10% sobre la inversión para finales del año calendario de 2011 (rentabilidad); 
+aumentar 7% el número de unidades del producto X fabricadas para el 30 de junio de 2011 sin 
+elevar los costos o reducir el nivel de calidad actual (productividad). 
+Los objetivos deben traducirse adicionalmente en los de divisiones, departamentos y unida- 
+des hasta el nivel más bajo de la organización. 
+Establecimiento de objetivos y jerarquía 
+organizacional 
+Como se ilustra en la figura 4.3, los gerentes de los diferentes niveles de la jerarquía organizacional 
+se preocupan por distintos tipos de objetivos. El consejo directivo y los gerentes de más alto nivel 
+están muy involucrados en la determinación del propósito, el proyecto y los objetivos generales 
+de la empresa, así como en los objetivos generales más específicos de las áreas de resultados clave. 
+Los gerentes de nivel medio, como el vicepresidente, gerente de marketing o de producción, están 
+involucrados en el establecimiento de los objetivos de las áreas de resultados clave, divisionales y 
+departamentales. La principal preocupación de los gerentes de nivel inferior radica en establecer 
+los objetivos de los departamentos, las unidades y sus subordinados. Aun cuando los objetivos in- 
+dividuales, que consisten en metas de desempeño y desarrollo, aparecen al final de la jerarquía, los 
+gerentes de los niveles superiores también deben establecer objetivos para su propio desempeño 
+y desarrollo. 
+Existen diferentes puntos de vista sobre si una organización debería usar el enfoque descen- 
+dente o ascendente para establecer objetivos, como lo indican las flechas de la figura 4.3; en el 
+primer enfoque los gerentes de alto nivel determinan los objetivos de sus subordinados, en tanto 
+que en el segundo los subordinados inician el establecimiento de objetivos de sus puestos y los 
+presentan a su superior. 
+Quienes defienden el enfoque descendente sugieren que toda la organización necesita una 
+dirección mediante objetivos corporativos proporcionados por el director ejecutivo (en conjunto 
+con el consejo directivo). Por su parte, los defensores del enfoque ascendente sostienen que la 
+alta gerencia requiere información de los niveles inferiores en la forma de objetivos. Además, es 
+probable que los subordinados se sientan motivados por las metas que inician y, en consecuencia, 
+se comprometan con éstas. La experiencia personal demuestra que el enfoque ascendente ha sido 
+subutilizado, pero que cualquiera de los dos por sí sólo es insuficiente. 
+Drucker, Peter F., The Practice of Management , Nueva York: Harper & Brothers, 1954, p. 63. Para conocer 
+sobre las contribuciones de Drucker a la administración véase: http://drucker.cgu.edu/html/aboutdrucker/ 
+index.htm y http://drucker.cgu.edu/html/aboutdrucker/timelineh.htm, sitios de internet a cargo de The Peter F. 
+Drucker Graduate School of Management, consultados el 30 de marzo de 2002; Drucker, Peter F., Management 
+(Revised Edition), Nueva York: HarperCollins Publishers, 2008. 
+Partes de esta discusión se basan en Weihrich, Heinz , Management Excellence: Productivity through MBO , 
+Nueva York: McGraw-Hill, 1985, cap. 4. 
+empresa. 
+éxito de la empresa. 
+13 
+14 
+13 
+14 
+
+----------------------------------------------------- Page 14 -----------------------------------------------------
+120 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Multiplicidad de objetivos 
+Por lo general hay múltiples objetivos dado que las realidades de las organizaciones así lo deman- dan, por ejemplo, no sería suficiente establecer que el proyecto de una universidad es la educación y la investigación; sería más preciso —aunque no verificable — listar los objetivos generales, que podrían ser los siguientes: 
+• Atraer estudiantes de alta calidad. 
+• Ofrecer capacitación básica en artes y ciencias, así como en ciertos campos profesionales. • Otorgar títulos de posgrado a candidatos calificados. 
+• Atraer profesores de gran reconocimiento. 
+• Descubrir y organizar nuevos conocimientos mediante la investigación. 
+• Operar como escuela privada que se apoye, sobre todo, en colegiaturas y donativos de exa- lumnos y amigos. 
+De igual forma, para cada nivel en la jerarquía de objetivos es probable que haya múltiples metas. Algunas personas consideran que un gerente no puede buscar más de dos a cinco objetivos con efectividad, el argumento es que demasiados objetivos tienden a diluir el impulso para su cumplimiento. No obstante, el límite de dos a cinco parece demasiado arbitrario: los gerentes podrían buscar objetivos más significativos. Por tanto, sería prudente establecer la importancia relativa de cada objetivo para que las principales metas reciban más atención que las menores. De cualquier modo, la cantidad de objetivos que los gerentes deben establecer para sí mismos de manera realista depende de cuánto harán ellos y cuánto pueden asignar a sus subordinados, limitando con ello su función a la de asignar, supervisar y controlar. 
+Cómo establecer objetivos 
+Sin objetivos claros la administración se vuelve arriesgada, ningún individuo o grupo puede espe- rar un buen desempeño efectivo, eficiente y, en consecuencia eficaz, a menos que exista una meta clara. La tabla 4.1 ilustra algunos objetivos y la manera como pueden establecerse a modo de que permitan su medición. 
+Tabla 4.1 Ejemplos de objetivos no verificables y verificables 
+Objetivos no verificables 
+1. Obtener utilidades. 
+2. Mejorar las 
+comunicaciones. 
+3. Mejorar la productividad 
+del departamento de 
+producción. 
+4. Desarrollar mejores 
+gerentes. 
+Objetivos verificables 
+1. Lograr un rendimiento sobre la inversión de 12% al final del año fiscal en curso. 
+2. Publicar un boletín mensual de dos páginas a partir del 1 de julio de 2011, que involucre no más de 40 horas de trabajo en su preparación (después de la primera edición). 
+3. Aumentar la producción en 5% para el 31 de diciembre de 2011, sin costos adicionales y con el nivel de calidad actual. 
+4. Diseñar y realizar un programa interno de 40 horas sobre los fundamen- tos de la administración , a completarse para el 1 de octubre de 2011 y que requiera no más de 200 horas de trabajo del personal de desarrollo gerencial y con al menos 90% de los 100 gerentes que aprueben el exa- men (especificado). 
+( continúa ) 
+“Planning and Goal Setting for Small Business ”, U.S. Small Business Administration MP-6, www.sba.gov/ library/pubs/mp-6.doc; Heinz Weihrich, “How to Set Goals that Work for Your Company—and Improve the Bottom Line ”, www.usfca.edu/fac-staff/weihrichh/docs/goals.pdf, consultados el 27 de julio de 2011. 
+15 
+15 
+
+----------------------------------------------------- Page 15 -----------------------------------------------------
+Objetivos 
+121 
+Tabla 4.1 Ejemplos de objetivos no verificables y verificables ( continuación ) 
+Objetivos no verificables 5. Instalar un sistema de 
+cómputo. 
+Objetivos verificables 
+5. Instalar un sistema de control computarizado en el departamento de pro- ducción para el 31 de diciembre de 2011, sin rebasar 500 horas de traba- jo de análisis de sistemas y en operación, con no más de 10% de tiem- po inactivo durante los primeros tres meses, o bien 2% más adelante. 
+Objetivos cuantitativos y cualitativos 
+Para ser medibles, los objetivos deben ser verificables, lo que significa que puede contestarse esta 
+pregunta: ¿cómo sé si al final del periodo se alcanzó el objetivo? Por ejemplo, el objetivo de obte- 
+ner una utilidad razonable (tabla 4.1) no establece cuál debe obtenerse y qué es razonable para el 
+subordinado, lo que puede no ser del todo aceptable para el superior. En caso de tal desacuerdo, 
+por supuesto que el subordinado es quien pierde la discusión. En contraste, un rendimiento sobre 
+la inversión de 12% al finalizar el año fiscal en curso es algo que puede medirse, y deben contes- 
+tarse estas preguntas: ¿cuánto o qué? y ¿cuándo? 
+En ocasiones, establecer resultados en términos verificables es más difícil, sobre todo cuando 
+se trata de los objetivos del personal administrativo y de gobierno. Por ejemplo, instalar un siste- 
+ma de cómputo es una tarea importante, pero no es una meta verificable; sin embargo, lo es si el 
+objetivo es: 
+“Instalar un sistema de control computarizado (con ciertas especificaciones) en el departamento de 
+producción para el 31 de diciembre de 2011, con un gasto de no más de 500 horas laborables. Así, es 
+posible medir el cumplimiento de la meta; más aún, puede especificarse también la calidad en térmi- 
+nos de tiempos inactivos de la computadora, en el ejemplo, el sistema deberá operar 90% del tiempo 
+durante los primeros dos meses de operación ”. 
+Establecer metas públicas puede ser arriesgado, pero funcionó para Nissan 
+Carlos Ghosn, quien le dio un giro a Nissan, estableció la muy ambiciosa meta de vender 
+3 600 millones de autos en 2005; esta meta verificable recibió mucha publicidad, lo que sig- nificó un alto riesgo para Ghosn porque medirla y no alcanzarla hubiera significado una pérdida de sus aptitudes de liderazgo. Por otra parte, los empleados se identificaron con esta meta clara y estaban motivados para su logro; de hecho alcanzaron la meta, en parte, con la introducción de nuevos modelos, el Murano y el Fuga. Por este liderazgo, en Nissan se ha con- siderado a Ghosn la cabeza de una alianza entre la japonesa Nissan, la francesa Renault y la estadounidense General Motors. 
+Pautas para establecer objetivos 
+www.nissan.com 
+5 
+Establecer objetivos es en verdad una tarea difícil: requiere asesoramiento inteligente del superior y práctica exhaustiva del subordinado. Las pautas que se presentan en la tabla 4.2 ayudarán a los gerentes a establecer sus objetivos. 
+La lista de objetivos no debe ser demasiado larga, pero debe cubrir las principales caracterís- ticas del puesto. Como se destacó en este capítulo, los objetivos deben poder verificarse y en ellos debe establecerse qué debe lograrse y cuándo; de ser posible, debe indicarse tanto la calidad desea- 
+16 
+Andrew 
+Morse, The Wall Street Journal , 26 de julio de 2006. 
+16 
+
+----------------------------------------------------- Page 16 -----------------------------------------------------
+122 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+da como el costo proyectado para alcanzar los objetivos; además, los objetivos deben plantear un reto, establecer prioridades y promover el crecimiento profesional y el desarrollo personal. Éstos y otros criterios se resumen en la tabla 4.2. De lo anterior se desprende que evaluar los objetivos respecto de los criterios mostrados en la lista de verificación sea un buen ejercicio para gerentes y aspirantes a gerentes. 
+Tabla 4.2 Lista de verificación de objetivos gerenciales 
+Si los objetivos cumplen el criterio, anote “ + ” en el recuadro a la derecha de la declaración. 
+Si no es así, marque “ – ” en el recuadro. 
+1. Las principales características de mi puesto, ¿cubren los objetivos? 
+2. ¿Es demasiado larga la lista de objetivos?, de ser así, ¿puedo combinar algunos? 
+3. ¿Son verificables los objetivos?, es decir, ¿sabré al final del periodo si se han alcanzado? 
+4. Los objetivos indican: 
+a ) ¿Cantidad (cuánto)? 
+b ) ¿Calidad (qué tan bien, o características específicas)? 
+c ) ¿Tiempo (cuándo)? 
+d ) ¿Costo (a qué costo)? 
+5. ¿Los objetivos son desafiantes, pero razonables? 
+6. ¿Se asignan prioridades a los objetivos (clasificación, peso, etcétera)? 
+7. La serie de objetivos incluye también: 
+a ) ¿Objetivos de mejoría? 
+b ) ¿Objetivos de desarrollo personal? 
+8. ¿Están coordinados los objetivos con los de otros gerentes o unidades 
+organizacionales?, ¿son consistentes con los objetivos de mi superior, 
+mi departamento y la compañía? 
+9. ¿He comunicado los objetivos a todos los que necesitan estar informados? 
+10. ¿Son consistentes los objetivos a corto plazo con las metas de largo plazo? 
+11. ¿Están claramente identificados los supuestos que subyacen a los objetivos? 
+12. ¿Están los objetivos expresados con claridad y de manera escrita? 
+13. ¿Proporcionan los objetivos realimentación oportuna para que puedan 
+tomarse las acciones correctivas necesarias? 
+14. ¿Son suficientes mis recursos y autoridad para lograr los objetivos? 
+15. ¿He dado a los individuos que deben lograr los objetivos la oportunidad 
+de expresar los suyos? 
+16. ¿Tienen mis subordinados control sobre los aspectos en que se les 
+ha asignado responsabilidad? 
+
+----------------------------------------------------- Page 17 -----------------------------------------------------
+Conceptos en evolución de la administración por objetivos 123 Entrevista con Bryant Tong, director general 
+de Nth Power 
+Como capitalista de riesgo de una destacada empresa de inversión en Silicon Valley, Bryant www.nthpower.com Tong aconseja a los empresarios de las compañías que su empresa financia establecer ob- 
+jetivos audaces pero alcanzables o por etapas. Estas etapas no siempre se relacionan con 
+metas financieras, ya que las empresas pueden tardar varios meses en desarrollar productos 
+que se vendan; sin embargo, las etapas son clave por un lado y, por otro, verificables, tal es el 
+caso de desarrollar productos prototipo, asegurar la protección de la propiedad intelectual para 
+productos clave, formar un equipo administrativo con las mejores personas y empezar un ciclo 
+de ventas con clientes potenciales. Estos objetivos o etapas están a menudo ligados a series 
+adicionales de financiamiento y, por tanto, el éxito de la empresa se basa en el cumplimiento de 
+dichos objetivos. 
+Conceptos en evolución de la administración 
+6 
+por objetivos 
+APO se practica en todo el mundo, y a pesar de su amplia aplicación, no siempre está claro qué 
+es. Algunos estiman que es una herramienta aún en evaluación, otros la ven como una técnica 
+de motivación y otros más la consideran como un dispositivo de planeación y control. En otras 
+palabras, sus definiciones y aplicaciones difieren mucho. 
+Aquí entendemos la administración por objetivos (APO) como un amplio Administración por objetivos sistema administrativo que de manera sistemática integra muchas actividades ge- 
+renciales clave y está conscientemente dirigido hacia el logro efectivo, eficiente y, 
+en consecuencia, eficaz de objetivos organizacionales e individuales. No todos com- de manera sistemática y está parten esta concepción, y aunque algunos aún la definen de manera muy estrecha y conscientemente dirigido hacia limitada, se ha de considerar como un amplio sistema administrativo impulsado por 
+metas y orientado al éxito, según se ilustra en la figura 4.4. Además de utilizarse en 
+la evaluación del desempeño como instrumento para motivar a los individuos y en la 
+planeación estratégica, existen otros subsistemas gerenciales que pueden integrarse a 
+este proceso, entre ellos la planeación y el desarrollo de recursos humanos (integración de personal 
+y desarrollo individual y de la compañía), la planeación del desarrollo profesional (construir sobre 
+fortalezas individuales y superar debilidades), el sistema de recompensas (pagar por el desempe- 
+ño), el presupuesto (planeación y control) y otras actividades administrativas importantes para un 
+puesto específico; actividades gerenciales diversas que requieren estar integradas en un sistema. En 
+suma, para que la APO sea efectiva debe considerarse una forma de dirigir (como se ilustra en la 
+figura 4.4) y no una adenda al puesto gerencial. 
+Entrevista realizada por Mark Cannice a Bryant Tong, de Nth Power, el 10 de enero de 2007. 
+Véase también ManagementLearning.com, en: http://managementlearning.com/topi/mngtobje.html; Heinz 
+Weihrich, “A New Approach to MBO: Updating a Time-honored Technique ”, en: www.usfca.edu/fac-staff/weihri- chh/docs/newmbo.pdf, consultados el 2 de octubre de 2006. 
+Weihrich, Heinz, “A Study of the Integration of Management by Objectives with Key Managerial Activities and 
+the Relationship to Selected Effectiveness Measures ”, disertación para el doctorado, University of California, 
+Los Angeles, 1973; Weihrich, Heinz, Management Excellence: Productivity through MBO; Vogl, A.J., “Drucker, of 
+Course ”, Across the Board, noviembre/diciembre de 2000. 
+17 
+18 
+(APO) Amplio sistema admi- 
+nistrativo que integra muchas 
+actividades gerenciales clave 
+el logro efectivo, eficiente y, por 
+tanto, eficaz, de objetivos 
+organizacionales e individuales. 
+7 
+19 
+17 
+18 
+19 
+
+----------------------------------------------------- Page 18 -----------------------------------------------------
+124 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+Reenergización del sistema 
+Proceso de transformación 
+Insumos 
+humanos 
+de capital 
+administrativos 
+tecnológicos 
+otros 
+Insumos 
+meta de 
+empleados 
+consumidores 
+proveedores 
+accionistas 
+gobierno 
+comunidad 
+otros 
+Planeación 
+estratégica 
+Jerarquías de objetivos 
+Subsistemas 
+Fijación de 
+objetivos 
+Planeación 
+de la acción 
+Desarrollo 
+de la 
+organización 
+Control y 
+evaluación 
+Instrumen- 
+tación 
+Productos 
+bienes 
+servicios 
+ganancias 
+satisfacción 
+integración de 
+metas 
+otros 
+Límite 
+de la 
+organización 
+Planeación y 
+desarrollo de 
+recursos humanos 
+Planeación de 
+carrera 
+Sistemas de 
+recompensa 
+Elaboración del 
+presupuesto 
+Otros 
+Percepción-manejo de la información 
+Limitaciones externas 
+• educativas 
+• sociológicas 
+• políticas/legales 
+• económicas 
+• otras 
+Oportunidades externas 
+Amenazas externas 
+Adaptado de: Weihrich, Heinz, Management Excellence: Productivity through MBO, Nueva York: McGraw-Hill, 1985, p. 18. 
+Figura 4.4 Enfoque sistemático de la APO. 
+Ventajas y debilidades de la administración por objetivos 
+Aun cuando la administración orientada a objetivos es uno de los enfoques gerenciales más am- pliamente practicados, en ocasiones se cuestiona su efectividad, lo que casi siempre se atribuye a una instrumentación defectuosa, pero también a que puede aplicarse como una técnica mecánica que se enfoca en determinados aspectos del proceso gerencial sin integrarlos en un sistema. 
+8 
+Ventajas de la administración por objetivos 
+Hay bastantes pruebas de las ventajas de la APO —casi todas en estudios de laboratorio — que muestran el aspecto motivacional de las metas claras; así, las siguientes son también ventajas: 
+• Perfeccionamiento de la administración mediante la planeación orientada a resultados. 
+• Precisión en las funciones y estructuras, así como en la delegación de autoridad según los resultados esperados de las personas que desempeñan las funciones. 
+• Fomento al compromiso con las metas personales y las de la organización. 
+• Desarrollo de controles efectivos que miden los resultados y conducen a acciones correcti- vas. 
+
+----------------------------------------------------- Page 19 -----------------------------------------------------
+Resumen 125 
+Debilidades de la administración por objetivos 
+y algunas recomendaciones 
+A pesar de todas sus ventajas, un sistema de la APO tiene debilidades —la mayoría se deriva de errores de aplicación —. El fracaso en la enseñanza de la filosofía de la APO es una de las debilida- des de ciertos programas: los gerentes deben explicar a sus subordinados qué es, cómo funciona, por qué se hace, qué función tendrá en la evaluación del desempeño y, sobre todo, cómo pueden beneficiarse los participantes. La filosofía se funda en los conceptos de autocontrol y autodirección. 
+A menudo otro de los problemas es no orientar a quienes establecen las metas: los gerentes deben saber cuáles son las metas corporativas y de qué manera sus propias actividades se ajustan a ellas; también necesitan premisas de planeación y el conocimiento de las principales políticas de la compañía. 
+Otro problema es la dificultad de establecer metas verificables con el grado correcto de fle- xibilidad. En ocasiones, los participantes en programas de la APO reportan que la preocupación excesiva por los resultados económicos presiona a los individuos, lo que puede alentar un compor- tamiento dudoso. Para reducir la probabilidad de utilizar medios no éticos en el logro de los re- sultados, la alta gerencia debe aceptar objetivos razonables, establecer expectativas claras de com- portamiento y dar alta prioridad al comportamiento ético, sancionando las actividades no éticas. 
+Además, puede darse importancia a las metas a corto plazo en detrimento de la salud a largo plazo de la organización. Más aún, los problemas de falta de flexibilidad pueden hacer dudar a los gerentes respecto a si deben cambiar de objetivos, incluso cuando un ambiente diferente exigiera tales ajustes. 
+Otros riesgos importantes incluyen el uso excesivo de metas cuantitativas y la tentativa de usar cifras en áreas en las que no son aplicables, o bien pueden menospreciarse metas importantes que son difíciles de establecer en términos de resultados finales; por ejemplo, una buena imagen puede ser la fortaleza clave de una empresa, pero es difícil establecerla en términos cuantitativos. También se corre el riesgo de olvidar que la administración es algo más que el establecimiento de metas. 
+Incluso con las dificultades y los riesgos que conlleva administrar por objetivos en ciertas situaciones, el sistema destaca en la práctica el establecimiento de metas, algo que desde hace tiempo se considera parte esencial de la planeación y la administración. 
+La planeación supone la selección de proyectos y objetivos, así como las acciones para lograrlos. Requiere, además, tomar decisiones, lo que significa elegir un curso de acción a futuro de entre varias alternativas. Aunque en esta obra se analizan por separado la planeación y el control, están estrechamente relacionados. Existen muchos tipos de planes, como proyectos o misio- nes, objetivos o metas, estrategias, políticas, procedimientos, reglas, programas y presupuestos. Una vez que reconoce una oportunidad, el gerente planea con sensatez al establecer objetivos, presuponer (premisas) el ambiente presente y futuro, encontrar y evaluar cursos de acción alter- nativos y elegir un curso a seguir. Luego, el gerente debe hacer planes de soporte y elaborar un presupuesto, actividades que ha de realizar sin perder de vista el ambiente total, por supuesto, los planes a corto plazo deberán coordinarse con los de largo plazo. 
+Los objetivos son el punto final hacia el que se dirigen las actividades; y para determinar si se han logrado deben poder verificarse, si es posible, al final del periodo. Los objetivos tienen un arreglo jerárquico que parte de las misiones o propósitos corporativos y va hasta las metas individuales. La mejor forma en que los gerentes pueden determinar la cantidad de objetivos a establecer para sí en términos realistas es mediante el análisis de la naturaleza de su puesto, y de cuánto pueden hacer ellos y cuánto pueden delegar. En cualquier caso, los gerentes deben conocer la importancia relativa de cada una de sus metas. 
+9 
+
+----------------------------------------------------- Page 20 -----------------------------------------------------
+126 Capítulo 4 
+Elementos esenciales de la planeación y la administración por objetivos 
+La APO se ha utilizado ampliamente para la evaluación del desempeño y la motivación de los empleados, pero en realidad es un sistema de administración. Entre sus ventajas está la de me- jorar la administración; asimismo, logra a menudo que los gerentes simplifiquen la estructura de sus organizaciones, alienta a las personas a comprometerse con sus metas y ayuda a desarrollar controles efectivos. 
+Entre sus debilidades está que en ocasiones los gerentes no explican la filosofía de la APO (que destaca el autocontrol y la autodirección) a sus subordinados, o bien no les dan pautas para establecer sus metas. Además, las propias metas son difíciles de establecer, tienden a proyectar- se a corto plazo y pueden volverse inflexibles a pesar de los cambios en el ambiente, además de que por buscar su verificación las personas pueden exagerar las metas cuantificables. 
+Áreas de resultados clave 
+Capacidad de verificación Conceptos en evolución de la APO Debilidades de la APO Enfoque sistemático de la APO Estrategia 
+Etapas de la planeación 
+Jerarquía de los objetivos 
+Misión o propósito 
+Objetivo o meta 
+Objetivos cuantitativos y cualitativos 
+Planeación 
+Política 
+Presupuesto 
+Procedimiento 
+Programa 
+Recomendaciones para mejorar la APO Regla 
+Ventajas de la APO 
+1. “Planear es mirar hacia adelante y controlar es mirar hacia atrás ”. Haga sus observaciones. 2. Prepare una declaración de política y elabore un procedimiento breve que pudiera ser útil 
+para instrumentar, luego pregúntese: ¿mi política no es en verdad una regla? 
+3. Elija una organización que conozca e identifique su propósito o misión, aun cuando la empre- sa no la haya establecido formalmente. 
+4. 
+¿Hasta qué grado cree que los gerentes que ha conocido en empresas u otras partes tienen una comprensión clara de sus objetivos? Si cree que no es así, sugiera qué podrían hacer éstos para establecer sus objetivos. 
+5. Algunas personas evitan definir metas a largo plazo porque creen que es imposible saber lo que ocurrirá. ¿Cree que esto es asumir una postura inteligente?, ¿por qué? 
+6. 
+7. 
+8. 
+¿Cree que podría introducirse la APO en una agencia gubernamental, una universidad, una hermandad de alumnos universitarios? 
+¿Cuáles son sus cinco objetivos personales más importantes?; ¿son a corto o largo plazos?, ¿son verificables? 
+En su organización, ¿qué espera de usted su superior en términos de desempeño?, ¿está señalado por escrito? Si usted escribió su objetivo de trabajo y su jefe puso por escrito lo que espera de usted, ¿los dos documentos son consistentes? 
+1. En este capítulo se identificaron los objetivos generales de una universidad, desarrolle los objetivos generales de su universidad, su escuela y los diversos departamentos de ésta. Muestre de qué manera estos objetivos se interrelacionan para formar una red. 
+
+----------------------------------------------------- Page 21 -----------------------------------------------------
+Caso internacional 4.1 127 
+1. Utilice un motor de búsqueda para encontrar el término administración por objetivos e iden- 
+tifique cómo se utiliza: ¿como herramienta de planeación?, ¿para evaluación gerencial?, 
+¿para motivar a las personas?, ¿en conjunto con la planeación estratégica?, ¿para desarro - 
+llar a los gerentes? 
+2. Busque en internet el término 
+presupuesto y analice sus conclusiones con la clase. 
+4.1 
+Desarrollo de metas verificables 
+Un gerente de división escuchó recientemente una conferencia sobre la APO; encendido en ese momento, su ánimo creció al pensar en el tema y finalmente decidió introducir el concepto y ver qué podía obtener en la siguiente reunión con su personal. 
+Hizo un recuento del desarrollo teórico de la técnica, citó las ventajas de su aplicación para la división y pidió a sus subordinados que pensaran si debían adoptarla. 
+No fue tan fácil como todos pensaron. En la siguiente reunión se plantearon varias preguntas: —¿Tiene usted las metas de la división que le asignó el presidente para el año próximo? 
+—Quería saber el gerente de finanzas. 
+—No, no las tengo —respondió el gerente de división —. He estado esperando que la oficina del presidente me informe qué se espera, pero parece que no harán nada al respecto. 
+—¿Qué es lo que la división hará entonces? —preguntó el gerente de producción, con la es - peranza de que no se indicara acción alguna. 
+—Me propongo listar mis expectativas de la división —dijo el gerente de división —. No son un gran misterio. Espero 30 millones de dólares en ventas; una utilidad sobre las ventas antes de impuestos de 8%; un rendimiento sobre la inversión de 15%; un programa en funcionamiento para el 30 de junio, con características específicas que mencionaré más adelante, para desarro- llar a nuestros futuros gerentes; la terminación del trabajo de desarrollo de nuestro modelo XZ para finales del año, y la estabilización de la rotación de personal en 5%. 
+Los asistentes se quedaron asombrados de que su superior hubiera pensado en estos obje- tivos verificables y los hubiera establecido con tanta claridad y seguridad. También les sorprendió la sinceridad de querer alcanzarlos. 
+—Durante el mes próximo quiero que cada uno de ustedes convierta estos objetivos en me- tas verificables para sus funciones. Naturalmente serán distintas para finanzas, marketing, pro- ducción, ingeniería y administración. Como quiera que las establezcan, espero que se sumen a la realización de las metas de la división. 
+Preguntas 
+1. 
+2. 
+¿Puede un gerente de división desarrollar metas u objetivos verificables cuando el presiden - te no se las ha asignado?, de ser así, ¿de qué manera?, ¿qué tipo de información o ayuda cree usted es importante que reciba el gerente de división de las oficinas centrales? 
+¿Estableció el gerente de división las metas de la mejor manera?, ¿qué habría hecho usted? 
