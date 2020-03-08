@@ -269,13 +269,10 @@ Allí se presenta el resultado neto de las operaciones del periodo presupuestado
 1), las ventas mostraron una tendencia ascendente, que empezó con US$97,515 para enero, US$103,125 para febrero, y aumentó a US$109,560 
 en marzo. Sin embargo, la utilidad neta no revela un incremento proporcional. A medida que la compañía avance en el 
 periodo presupuestado, el director de presupuesto deberá investigar el aumento continuo en el costo de los artículos vendidos y tratará 
-de reducir los costos. Posiblemente se sustituye un material de costo menor, si puede mantenerse la calidad. ANEXO 1 Estado 
-de ingresos presupuestado; primer trimestre de 19XX PRESUPUESTOS DE APOYO Ventas Costo de los artículos vendidos Utilidad bruta PROGRAMA 1a 
-ig ENERO US$97,515 59,979 US$37,536 FEBRERO US$103,125 65,571 US$ 37,554 MARZO US$109,560 71,376 US$ 38,184 TRIMESTRE US$310,200 196,926 US$113,274 Gastos 
-operacionales: Gastos de ventas Gastos administrativos Gastos por concepto de intereses Total de gastos operacionales Utilidad neta antes de impuestos 
-Impuestos sobre la renta (supuesto) Utilidad neta 1i 1j Anexo 2 US$12,492 5,200 150 US$17,842 US$19,694 7,183 US$12,511 US$ 12,926 
-5,200 150 US$ 18,276 US$ 19,278 5,706 US$ 13,572 US$ 13,414 5,200 150 US$ 18,764 US$ 19,420 6,453 US$ 12,967 
-US$ 38,832 15,600 450 US$ 54,882 US$ 58,392 19,342 US$ 39,050 PRESUPUESTO DE CAJA El presupuesto de caja se reconoce 
+de reducir los costos. Posiblemente se sustituye un material de costo menor, si puede mantenerse la calidad. 
+
+PRESUPUESTO DE CAJA 
+El presupuesto de caja se reconoce 
 como una herramienta gerencial básica, y la cuidadosa planeación del efectivo se considera un elemento de rutina en una gerencia 
 eficiente. Los buenos presupuestos de 358 P arte 1 Costeo del producto caja contribuyen en forma significativa a la estabilización 
 de los saldos de caja y a mantener estos saldos razonablemente cercanos a las continuas necesidades de efectivo. Por lo 
