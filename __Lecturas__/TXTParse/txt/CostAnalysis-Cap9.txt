@@ -7,41 +7,16 @@ Definir un presupuesto y enumerar sus características.
 Analizar los tres tipos de presupuestos maestros y el desarrollo de los presupuestos. 
 Analizar los aspectos de comportamiento de la presupuestación con respecto a la responsabilidad de su elaboración. 
 Analizar brevemente la investigación que se ha realizado en la elaboración do los presupuestos participativos. 
-^ 
-Analizar cómo puede mejorarse la presupuestación. 
-JEW ISH C O M M U N IT Y F E D ER A TIO N , San Francisco, C alifornia 
-Descripción: 
-Mercado: 
-Dotación en 1989: 
-Donaciones en 1989: 
-Director asociado: 
-Organización de recaudación de fondos Donantes en todo el territorio de Greater Bay US$64 millones 
-US$20 millones 
-Daniel M. Asher 
-C u a l q u i e r o r g a n i z a c i ó n d e b e t r a t a r d e r e s o l v e r e l p r o b l e m a d e l p r o c e s o p r e s u p u e s t a r io . L o s f a b r i c a n t e s 
-s e 
-p r e o c u p a n 
-p o r p r o d u c i r a r t e f a c t o s c o n 
-d e m a s i a d a s 
-u n i d a d e s 
-d e 
-m a t e r i a s p r im a s a 
-u n p r e c i o 
-d e t e r m i n a d o , c o n g r a n c a n t i d a d d e m a n o d e o b r a a 
-u n a d e t e r m i n a d a 
-ta r ifa s a la r ia l , e t c . P a r a u n a 
-o r g a n iz a c ió n d e c a r id a d t a m b ié n e s fu n d a m e n t a l e l c o n t r o l d e c o s t o s . U n a r a z ó n : la c r e d ib ilid a d d e l o s d o n a n t e s . E l l o s q u i e r e n s a b e r q u é p o r c e n t a j e d e s u s d o n a c i o n e s s e u tiliz a e n b u e n a s o b r a s y q u é p o r c e n t a je s e a s ig n a a l o s g a s t o s d e a d m in is tr a c ió n . 
+
+
+Cualquier organización debe tratar de resolver el problema del proceso presupuestario . Los fabricantes 
+se preocupan por producir artefactos con demasiadas unidades de materia primas a un precio determinado , con gran cantidad de mano de obra a una determinada 
+tarifa salarial , e t c . Para una  organización de caridad también es fundamental el control de costos . Una razón : la credibilidad de los donantes . El los quieren saber qué porcentaje de sus donaciones se utiliza en buenas obras y qué porcentaje se asigna a los gastos de administración . 
 En Jewish Community Federation los empleados tienen presupuestos de “desarrollo ” por cumplir: en vez de las metas de ventas, tienen las de donaciones. “En 1989, nuestra meta 1 3 ra reunir US$19.5 millones ” , dice Daniel Asher, graduado en MBA de la UCLA en 1981. 
 Al igual que United Way, la federación realiza una campaña anual y mantiene un seguimiento de las contribuciones que se han recibido hasta la fecha, en comparación con las del año anterior. ¿Cuántas personas donaron US$25,000 o más?, ¿han incrementado sus donaciones cada año? Al igual que un negocio, los empleados pueden recibir una bonificación dependienco qué tan bien se realice la campaña. 
 Lo mismo que las empresas con ánimo de lucro, las organizaciones de recolección de fondos deben enfrentar lo inesperado. En San Francisco, el terremoto de octubre de 1983 generó una gran emergencia. Los líderes comunitarios, así como las organizaciones de caridad, necesitaban reunir más recursos adicionales. En el momento del terremoto, la federación reunió a otras organizaciones regionales de servicio comunitario para comenzar a respaldar y coordinar el e rorm e esfuerzo de ayuda. 
 Sin embargo, la comunidad judía se enfrentó con otro desafío en 1989, cuando emigrantes soviéticos en cantidades mayores que antes comenzaron a llegar al área de Greater Bay. Los fondos de emergencia se necesitaban para vivienda, enseñanza del idioma y asesoríc en búsqueda de empleo. 
-La recolección de fondos se realiza mediante el sistema de pignoración. Los donantes realizan pignoraciones y luego giran el cheque meses más tarde. ¿No le preocupa a Asher que no se cumplan 34 4 
-
------------------------------------------------------ Page 2 -----------------------------------------------------
-C apítulo 9 Presupuesto maestro 
-/ 
-3 4 5 
-estas promesas? Esto le recuerda un chiste. “Hubo un robo en la federación, se perdieron US$10,000 en pignoraciones ”, se ríe. “Pero la pérdida, con toda su gravedad, es increíblemente pequeña. En más de US$19 millones en pignoraciones, es de esperarse que se cumplan unos US$300,000 aproximadamente ” . 
+La recolección de fondos se realiza mediante el sistema de pignoración. Los donantes realizan pignoraciones y luego giran el cheque meses más tarde. ¿No le preocupa a Asher que no se cumplan estas promesas? Esto le recuerda un chiste. “Hubo un robo en la federación, se perdieron US$10,000 en pignoraciones ”, se ríe. “Pero la pérdida, con toda su gravedad, es increíblemente pequeña. En más de US$19 millones en pignoraciones, es de esperarse que se cumplan unos US$300,000 aproximadamente ” . 
 La n atu raleza y d esarrollo d el p re su p u e sto m a e s tro se a n a liz a rá p rim e ro y lu e g o se p re s e n ta rá el p rin cip al a sp e c to del c o m p o rta m ie n to d e la p re su p u e sta c ió n . 
 N a tura l e z a d el presupuesto 
 El p re su p u e sto e s u n a e x p re s ió n cu a n tita tiv a d e los o b je tiv o s g e re n cia le s y u n m e d io p a ra co n tro la r el p ro g re so h a c ia el lo g ro d e ta les o b je tiv o s. P a ra q u e sea e fe ctiv o d e b e e sta r b ie n c o o rd in a d o c o n la g e re n cia y lo s sis te m a s d e c o n ta b ilid a d . P o r e je m p lo , d e b e e x is tir u n d ia g ra m a d e cu e n ta s y un o rg a n ig ra m a co m p le to , q u e in d iq u e las re sp o n sa b ilid a d e s d e cad a e je cu tiv o q u e ju s tific a el p re su p u e sto . O tro re q u isito im p o rta n te d e u n b u e n p re s u p u e sto es u n sis te m a d e co sto s e stá n d a re s. 

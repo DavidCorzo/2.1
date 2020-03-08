@@ -47,4 +47,4 @@ def runner():
 
 if __name__ == "__main__":
     # runner()
-    open_file("txt/Cap4-Global.txt")
+    open_file("txt/CostAnalysis-Cap9_OCR.txt")
