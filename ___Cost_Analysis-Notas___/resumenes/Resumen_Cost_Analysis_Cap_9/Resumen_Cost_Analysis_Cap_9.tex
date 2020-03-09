@@ -1,0 +1,391 @@
+\documentclass{article}
+
+\usepackage{generalsnips}
+\usepackage{calculussnips}
+\usepackage[margin = 1in]{geometry}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{xpatch}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{autobreak}
+\title{Resumen Cost Analysis Cap 9}
+\date{2020 March 08, 06:20PM}
+\author{David Gabriel Corzo Mcmath}
+
+\begin{document}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\allowdisplaybreaks
+
+\section{Naturaleza del presupuesto}
+\begin{itemize}
+    \item \termdefinition{Presupuesto}{es una expresión cuantitativa de los objetivos gerenciales  un medio para controlar el progreso hacia el logro de tales objetivos. Hay diferentes tipos y que cubren diferentes periodos. Usualmente se quiere un presupuesto que corresponden a 12 meses.} 
+    \item \termdefinition{Costos estándares}{Costos por unidad que se espera lograr en determinado proceso de producción.} 
+    \item \termdefinition{Costos presupuestados}{Costos totales que se espera incurrir.}
+    \item \termdefinition{Director de presupuesto}{El responsable de cordinar todas las partes del presupuesto. Este presenta informes directamente al comité de presupuesto.}  
+    \item \termdefinition{Gerencia de línea}{Los que preparan los diferentes componentes como ventas por producto, territorio, produccíon por producto.} 
+    \item \termdefinition{Manual de presupuesto}{proporciona los datos respectivos para cada segmento del presupuesto maestro, donde se asigne la responsabilidad de su preparación, y se describan las formas, las políticas y los procedimientos presupuéstales afines a la presupuestación} 
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto maestro}
+\begin{itemize}
+    \item \termdefinition{Presupuesto maestro}{todos los costos que se esperan incurrir a nivel macro de la empresa} 
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Sistema convencional del presupuesto maestro}
+\begin{itemize}
+    \item \termdefinition{Sistema convencional del presupuesto meastro}{Un sistema de presupuesto que se basa del presupuesto maestro anterior, Los resultados reales que se lograron en el periodo anterior más las expectativas del periodo próximo determinan si se incrementará o disminuirá cada ítem en el presupuesto maestro.} 
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto base cero (PBC)}
+\begin{itemize}
+    \item \termdefinition{PBD}{el gerente de un centro de responsabilidad debe justificar cada actividad planeada y su costo total estimado como si fuera la primera vez que va a realizarse, se catalogan las actividades de cada centro de acuerdo a qué tan importantes son, el presupuesto tras haber sido enviado por el gerente se somete a revisión por el comité de presupuesto para hacer las eliminaciones o adiciones necesarias, esto se hace cada perioro presupuestal.}
+\end{itemize}
+
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Planeación del programa y sistema presupuestario (PPSP)}
+\begin{itemize}
+    \item \termdefinition{PPSP}{se centra en el resultado (programas o actividades) de la organización;  La fuerza del PPSP está en la asignación de los recursos (efectivo) limitados de la organización a aquellas actividades o programas que prometen el mayor rendimiento}; 
+    \item Cuatro pasos para el PPSP:
+        \begin{enumerate}
+            \item Alta gerencia planea estratégicamente metas a corto y largo plazo.
+            \item Se identifican todos los programas o actividades alternativos para lograr las metas y objetivos de la organización.
+            \item Se pronostica los costos y beneficios cuantitativos y cualitativos de cada actividad o programa alternativo.
+            \item Se hace un presupuesto de lo que se seleccionó junto con un plan detallado por ítem.
+        \end{enumerate}
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\section{Elaboración del presupuesto maestro}
+\begin{itemize}
+    \item Se empieza planeando estratégicamente (fijar metas a largo plazo).
+    \item El presupuesto es una herramienta para mobilizar a la compañía con recursos limitados a donde quiere llegar.
+    \item Pasos:
+        \begin{itemize}
+            \item Pronostico de venta 
+            \item Elaboración de estado de ingresos presupuestado, presupuesto de vaja y balance general presupuestado. \termdefinition{estado financiero presipuestado}{lo mismo que estado de resultados solo que en versión futura tomando en cuenta el presupuesto.} 
+        \end{itemize}
+    
+    \item Dos extremos en el desarrollo del presupuesto maestro:
+        \begin{enumerate}
+            \item El enfoque de la alta gerencia 
+            \item Enfoque ``la base'' de la organización
+        \end{enumerate}
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de ventas}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de ventas}{el pronóstico de ventas suministra los datos para elaborar presupuestos de producción, de compra, de gastos de venta y administrativos; se debe elaborar con cuidado.} 
+    \item El pronostico de ventas empieza con a preparación de estimaciones de ventas realizadas por cada uno de los vendedores, estas se consolidan y son presentadas al gerente general de mercadeo que las revisa y aprueba para elaborar el presupuesto de ventas.
+    \item Estimar las ventas es un proceso que se puede dar de varias formas, y hay libros dedicados a la elaboración de estas estimaciones.
+    \item Requerimientos para la elaboración, programa 1a:
+        \begin{enumerate}
+            \item Presupuesto de ventas, en unidades.
+            \item Precio de venta por unidad.
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de ventas }= \text{ Presupuesto de ventas (unidades) } \times \text{ precio de venta por unidad }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto por producción}
+\begin{itemize}
+    \item \termdefinition{Presupuesto por producción}{ es el presupuesto de ventas ajustado por los cambios en el inventario} 
+    \item Función: quiero que para x fecha estén listas y cantidad de unidades, necesito un presupuesto para saber qué necesito para que estén listas y unidades en x fecha.
+    \item Está relacionado con el presupuesto de ventas.
+    \item Se debe determinar si la fábrica es capaz de suplir lo que se estableció en la estimación de ventas.
+    \item Requerimientos para la elaboración, programa 1b:
+        \begin{enumerate}
+            \item Presupuesto de ventas, en unidades.
+            \item Inventario final, en unidades.
+            \item Inventario inicial, en unidades.
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de producción (unidades) } = 
+          \text{ Presupuesto de ventas (unidades) } 
+        + \text{ Inventario final deseado (unidades) } 
+        - \text{ Inventario inicial (unidades) }
+        \end{autobreak}\end{align*}
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de compras de materiales directos}
+\begin{itemize}
+    \item \termdefinition{Presupeusto de ompras de materiales directos}{es un presupuesto que sirve para mantener el inventario de de los materiales directos.}
+    \item Función: para tener x cantidades directos para fecha y.
+    \item Por lo general, se dispone de una hoja de especificación o fórmula para cada producto que muestra el tipo y la cantidad de cada material directo por unidad de producción.
+    \item  El presupuesto de suministros y de materiales indirectos se incluye, por lo general, en el presupuesto de costos indirectos de fabricación.
+    \item Requerimientos para elaboración, programa 1c:
+        \begin{enumerate}
+            \item Presupuesto de producción, en unidades.
+            \item Inventario final, en unidades.
+            \item Inventario inicial, en unidades.
+            \item Precio de compra, por unidad.
+        \end{enumerate}
+        
+        \noindent\begin{align*}\begin{autobreak}
+          \text{ Compra de materiales directos requeridos (unidades) } = 
+          (\text{Presupuesto de producción (unidades)} 
+          \times \text{ Materiales directos requeridos para producir una unidad })
+          + \text{ Inventario final deseado (unidades)} 
+          - \text{ Inventario inicial (unidades) } 
+        \end{autobreak}\end{align*}
+        
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Costo de compra de materiales directos } = 
+          \text{ Compras de materiales directos requeridos (unidades) } \times
+           \text{ Precio de compra por unidad }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de consumo de materiales directos}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de consumo de materiales directos}{presupuesto utilizado para planear las actividades operacionales, este etima el consumo de materiales directos que se incurrirá en las actividades.}
+    \item Requerimientos para elaboración, programa 1d:
+        \begin{enumerate}
+            \item Presupuesto de materiales directos de producción, en unidades 
+            \item Precio de compra, en unidades 
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de consumo de materiales directos } = 
+          \text{ Materiales directos requeridos(unidades) } 
+          \times \text{ Costo unitario de materiales directos }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de mano de obra directa}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de mano de obra}{El departamento de personal deberá expresar en los presupuestos de mano de obra directa e indirecta los tipos y la cantidad de empleados requeridos y cuándo se necesitan en este presupuesto.} 
+    \item  La mano de obra indirecta se incluye en el presupuesto de costos indirectos de fabricación. 
+    \item  El presupuesto de mano de obra directa debe estar coordinado con los de producción, de compras y con las demás partes del presupuesto maestro.
+    \item Requerimientos para la elaboración, programa 1e:
+        \begin{enumerate}
+            \item Presupuesto de producción, en unidades.
+            \item Horas de mano de obra directa, unidades.
+            \item Tasa por hora de mano de obra directa.
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de mano de obra directa } = 
+          \text{ Unidades de producción requeridas } 
+          \times \text{ Horas de mano de obra por unidad  } 
+          \times \text{ Tarifa por hora de mano de obra directa }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de costos indirectos de fabricación}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de costos indirectos de fabricación}{Los jefes de departamento deben ser responsables de los costos incurridos por sus respectivos departamentos, estos se hacen en el presupuesto de costos indirectos de fabricación.} 
+    \item Los costos fijos y variables se separan como sigue: los costos fijos tienen valores totales asignados en dólares en tanto que a los costos variables se les asignan tasas.
+    \item Requerimientos para la elaboración, programa 1f:
+        \begin{enumerate}
+            \item Presupuesto de horas de mano de obra directa.
+            \item Costos fijos 
+            \item Costos variables
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de horas de mano de obra directa } = 
+          \text{ Costos indirectos fijos totales } 
+          + \text{ (Total de horas presupuestadas de mano de obra indirecta) }
+           \times \text{ Tasa de costos variables por hora de mano de obra directa }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}      
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de inventarios finales}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de inventarios finales}{Con las cantidades del inventario presupuestado al final del mes (que se necesitan para el inventario de materiales directos y de artículos terminados) en el presupuesto del costo de los artículos vendidos y el balance general presupuestado se calcula el presupuesto de inventarios finales.}
+    \item Requisitos para la elaboración, programa 1g: 
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Costo de inventario final presupuestado } = 
+          \text{ Inventario final (unidades) }
+          \times  \text{ Costo estándar por unidad }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto del costo de los artículos vendidos}
+\begin{itemize}
+    \item \termdefinition{Presupuesto del costo de los artículos vendidos}{Presupuesto que describe el costo de los artículos vendidos, pueden tomarse de presupuestos individuales previamente descritos y ajustados por los cambios en inventario.} 
+    \item Requisitos para la elaboración, programa 1h:
+        \begin{enumerate}
+            \item Presupuesto de consumo de materiales directos 
+            \item Presupuesto de mano de obra directa 
+            \item Presupuesto de costos indirectos de fabricación 
+            \item Inventario inicial de artículos de fabricación 
+            \item Inventario inicial de artículos terminados
+            \item Inventario final de artículos terminados
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de costo de los artículos vendidos } = 
+          \text{ Presupuesto de consumo de materiales directos } + 
+          \text{ Presupuesto de mano de obra directa }
+           + \text{ Presupuesto de costos indirectos de fabricación }
+            + \text{ Inventario inicial de artículos terminados }
+             - \text{ Inventario final de artículos terminados }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de gastos de venta}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de gastos de venta}{Presupuesto conpuesto por: Los principales gastos fijos son salarios y depreciación; los principales gastos variables, como comisiones y publicidad, se basan en las cifras en dólares por concepto de ventas y, por tanto, varían directamente con las ventas} 
+    \item Requisitos para la elaboración, programa 1i:
+        \begin{enumerate}
+            \item Ventas en dólares 
+            \item Gastos fijos
+            \item Gastos variables
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Presupuesto de gastos de venta } =
+
+           \text{ Gastos fijos totales por ítem }
+
+            + [\text{ Ventas en dólares  }
+            \times \text{ Tasa de gastos variables (\%) } por item] 
+
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de gastos administrativos}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de gastos administrativos}{estos gastos puede asignarse a operaciones como compra o investigación, pero en este caso consideraremos todas las partidas como gastos fijos no asignables} 
+    \item Requisitos para la elaboración, programa 1j:
+        \begin{enumerate}
+            \item Gastos fijos
+        \end{enumerate}
+        
+        \begin{align*}\begin{autobreak}
+        \text{ Presupuesto de gastos administrativos } = \sum \p{\text{Gastos fijos} } 
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\section{Estado de ingresos presupuestado}
+\begin{itemize}
+    \item \termdefinition{Estado de ingresos presupuestado}{El resultado final de todos los presupuestos operativos, como ventas, costo de los artículos vendidos, gastos de ventas y administrativos, se resume en el estado de ingresos presupuestado. Allí se presenta el resultado neto de las operaciones del periodo presupuestado.}
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Presupuesto de caja}
+\begin{itemize}
+    \item \termdefinition{Presupuesto de caja}{se reconoce como una herramienta gerencial básica, y la cuidadosa planeación del efectivo se considera un elemento de rutina en una gerencia eficiente} 
+    \item contribuyen en forma significativa a la estabilización de los saldos de caja y a mantener estos saldos razonablemente cercanos a las continuas necesidades de efectivo.
+    \item En la mayor parte de las empresas, las entradas de caja provienen principalmente de la recaudación de cuentas por cobrar y de las ventas de contado.
+    \item Requerimientos para su elaboración, programa 2c: 
+        \begin{itemize}
+            \item Saldo en cada, inicial 
+            \item Entradas presupuestadas de caja para el periodo 
+            \item Salidas presupuestadas de cada para el periodo.
+        \end{itemize}
+        
+        \begin{align*}\begin{autobreak}
+          \text{ Saldo final en caja } = 
+          \text{ Saldo inicial en caja } 
+          +  \text{ Entradas presupuestadas de caja para el periodo } 
+          - \text{ Salidas presupuestadas de caja para el periodo }
+        \end{autobreak}\end{align*}
+        
+\end{itemize}
+
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Estado presupuestado de los flujos de caja}
+\begin{itemize}
+    \item \termdefinition{Estado presupuestdo de los flujos de caja}{Un estado de los flujos de caja presenta el cambio durante el periodo en caja y en los equivalentes de caja (inversiones a corto plazo de alta liquidez) se clasifican en un estado de flujos de caja según las actividades operacionales, de inversión y financieras}
+    \item \termdefinition{Actividades operacionales}{Las actividades operacionales usualmente involucran la producción y el despacho de artículos y el suministro de servicios} 
+    \item \termdefinition{Actividades de inversión}{ activos que la empresa posee o utiliza en la producción de artículos o servicios (distintos de los materiales que hacen parte del inventario de la empresa). } 
+    \item \termdefinition{Acitividades financieras}{incluyen la obtención de recursos por parte de los propietarios y el suministro a éstos de un rendimiento sobre su inversión y un rendimiento de ella.} 
+    \item La reconciliación de la utilidad neta para los flujos de caja exige ajustar la utilidad neta para eliminar: 1) los efectos de todos los aplazamientos de entradas y desembolsos de caja operacionales previos, como cambios durante el periodo en inventario, ingreso diferido y similares, y todas las acumulaciones de las salidas y pagos de caja operacionales futuros esperados, como cambios durante el periodo en cuentas por cobrar y cuentas por pagar, y 2) los efectos de todos los ítemes cuyos efectos de caja están financiando los flujos de caja, como depreciación, amortización de goodwill, ganancias o pérdidas sobre las ventas de propiedad, planta y equipo. Esto se debe representar en un programa separado.
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\section{Aspectos de comportamiento de la presupuestación}
+\begin{itemize}
+    \item En realidad el presupuesto aprobado representa un consenso y un compromiso pactado entre muchas personas dentro de la organización.
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
