@@ -11,6 +11,7 @@
 \usepackage{pdfpages}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
+\usepackage{amssymb}
 \usepackage{amsthm}
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
@@ -23,8 +24,9 @@
 \usepackage{longtable}
 \usepackage{generalsnips}
 \usepackage{calculussnips}
+\usepackage{cancel}
 
-
+\pdfsettings
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \maketitle
@@ -37,6 +39,7 @@
 \chapter{Control de precios}
 \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/Control_De_PreciosYElasticidad.pdf}
 \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/Comercio_Internacional.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/ExcedenteProductoryConsumidor.pdf}
 
 \chapter{Teoría de la empresa y del productor}
 \input{Clases/TeoriaDeLaEmpresa.tex}
