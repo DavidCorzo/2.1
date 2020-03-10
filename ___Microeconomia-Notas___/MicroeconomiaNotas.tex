@@ -3,6 +3,8 @@
 \author{David Gabriel Corzo Mcmath}
 \date{2020-Jan-06 11:36:01}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \usepackage{calc}\usepackage{import}\usepackage{transparent}\usepackage{lipsum}\usepackage{xifthen}\usepackage{xcolor}\usepackage{color}\usepackage{fancyhdr}\usepackage{sectsty}\usepackage{blindtext}\usepackage{xpatch}\usepackage{listing}\usepackage{bookmark}\usepackage{titlesec}\usepackage{spverbatim}\usepackage{lmodern}\usepackage{fancyvrb}\usepackage{fvextra}\usepackage{amssymb}\usepackage{pifont}
+
 \usepackage[margin = 1in]{geometry}
 \usepackage{graphicx}
 \usepackage{fontenc}
@@ -13,58 +15,36 @@
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
 \usepackage{mathtools}
-% \usepackage{import}
-% \usepackage{xifthen}
 \usepackage{pdfpages}
-% \usepackage{transparent}
-% \usepackage{color}
-% \usepackage{fancyhdr}
-% \usepackage{lipsum}
-% \usepackage{sectsty}
-% \usepackage{titlesec}
-% \usepackage{calc}
-% \usepackage{lmodern}
-% \usepackage{xpatch}
 \usepackage{blindtext}
-% \usepackage{bookmark}
 \usepackage{fancyhdr}
-% \usepackage{xcolor}
 \usepackage{tikz}
-% \usepackage{blindtext}
 \usepackage{hyperref}
-% \usepackage{listing}
-% \usepackage{spverbatim}
-% \usepackage{fancyvrb}
-% \usepackage{fvextra}
-% \usepackage{amssymb}
-% \usepackage{pifont}
 \usepackage{longtable}
 \usepackage{generalsnips}
 \usepackage{calculussnips}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\input{settings.tex}
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \maketitle
 \tableofcontents
 
-\chapter{Clase introductoria - 2020-01-06}
-\input{Clases/01.tex}
+\chapter{Elasticidad}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/Elasticidad.pdf}
+\input{Clases/ElasticidaYTeoriaDeLaEmpresa.tex}
 
-\chapter{Clase socrática - 2020-01-08}
-\input{Clases/02.tex}
+\chapter{Control de precios}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/Control_De_PreciosYElasticidad.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{./Clases/Comercio_Internacional.pdf}
 
-% \chapter{Clase revisión de clase pasada - 2020-01-13}
-% \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{Clases/03.pdf}
+\chapter{Teoría de la empresa y del productor}
+\input{Clases/TeoriaDeLaEmpresa.tex}
+\input{Clases/TeoríaDelProductor.tex}
 
-% \chapter{Clase - 2020-01-15}
-% \includepdf[pages=-,pagecommand={\thispagestyle{plain}}]{Clases/04.pdf}
+\chapter{Repaso}
+\input{Clases/Repaso.tex}
 
-% \chapter{Clase - 2020-01-29}
-% \input{Clases/00.tex}
-
-\chapter{Clase de repaso - 2020-03-09}
-\input{Clases/13.tex}
 
 
 \end{document}
