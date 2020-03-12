@@ -125,10 +125,13 @@
             \item Punto de quilibrio en unidades globales:
                 \begin{center}
                     \begin{tikzpicture}[node distance = 5cm, auto]
-                        \node [large_block] (1) {$P_e = \frac{520,000}{3.95} = 131,646 \, \text{  Unidades  }$};
+                        \node [block, text width=18em, node distance= 10cm] (1) {$P_e = \frac{520,000}{3.95} = 131,646 \, \text{  Unidades  }$};
+                        
                         \node [block,right of=1] (2) {25\% =  B}; 
-                        \node [block,above of=2] (3) {35\% = A};
-                        \node [block,below of=2] (4) {40\% = C};   
+
+                        \node [block,above of=2, node distance=2cm] (3) {35\% = A};
+                        \node [block,below of=2,node distance=2cm] (4) {40\% = C};   
+                        
                         \path [line] (1) -- (2);
                         \path [line] (1) -- (3);
                         \path [line] (1) -- (4);

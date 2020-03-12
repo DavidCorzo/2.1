@@ -1,4 +1,4 @@
-\documentclass{book}
+\documentclass[openany]{book}
 \title{Cost Analysis}
 \author{David Gabriel Corzo Mcmath}
 \date{2020-Jan-08 10:00:30}
@@ -6,42 +6,25 @@
 \usepackage[margin = 1in]{geometry}
 \usepackage{graphicx}
 \usepackage{fontenc}
-\usepackage{pdfpages}
 \usepackage[spanish]{babel}
 \usepackage{amsmath}
 \usepackage{amsthm}
+\usepackage{amssymb}
 \usepackage[utf8]{inputenc}
 \usepackage{enumitem}
 \usepackage{mathtools}
-\usepackage{import}
-\usepackage{xifthen}
-\usepackage{pdfpages}
-\usepackage{transparent}
-\usepackage{color}
-\usepackage{fancyhdr}
-\usepackage{lipsum}
 \usepackage{sectsty}
 \usepackage{titlesec}
-\usepackage{calc}
-\usepackage{lmodern}
-\usepackage{xpatch}
-\usepackage{blindtext}
-\usepackage{bookmark}
-\usepackage{fancyhdr}
-\usepackage{xcolor}
 \usepackage{tikz}
-\usepackage{blindtext}
 \usepackage{hyperref}
-\usepackage{listing}
-\usepackage{spverbatim}
-\usepackage{fancyvrb}
-\usepackage{fvextra}
-\usepackage{amssymb}
 \usepackage{pifont}
 \usepackage{longtable}
-\usepackage{davidcorzo}
+\usepackage{generalsnips}
+\usepackage{calculussnips}
+% \usepackage[nomessages]{fp}
 \usetikzlibrary{arrows,shapes}
 
+\pagestyle{plain}
 % \newcommand{\estadoderesultados}[3]{
 %     \begin{center}
 %        \begin{tabular}{ | p{8cm} | p{5cm} | }
@@ -60,17 +43,14 @@
 %        \end{tabular}
 %     \end{center}
 % }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Begin block styles
-\tikzblockdefinitions
-% End block styles 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\tikzblockdefinitions
 
 \begin{document}
 \maketitle
 \tableofcontents
 
+\part{Introducción} 
 \chapter{Segunda Clase - 2020-01-08}
 \input{Clases/01.tex}
 
@@ -89,8 +69,15 @@
 \chapter{Clase de repaso - 2020-02-24}
 \input{Clases/06.tex}
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\part{Posterior al parcial \#1} 
+
 \chapter{Clase - 2020-03-04 Post Parcial}
 \input{Clases/07.tex}
+
+\chapter{Presupuestos} % 2020-03-11 
+\input{Clases/08.tex}
 
 
 \end{document}
