@@ -3,13 +3,6 @@ import os, yaml, time, datetime, asyncio
 
 from progress.bar import Bar
 
-async def load_git():
-    pass 
-
-def load():
-    pass
-
-@asyncio.coroutine
 def progressbar():
     bar = Bar('Processing', max=20)
     for i in range(20):
@@ -113,5 +106,5 @@ async def git_push():
 if __name__ == "__main__":
     loop = asyncio.get_event_loop()
     progressbar()
-    loop.run_until_complete(git_push())
+    print(loop.run_until_complete(git_push()))
     loop.close()
