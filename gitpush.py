@@ -1,5 +1,22 @@
 from git import Repo 
-import os, yaml, time, datetime
+import os, yaml, time, datetime, asyncio 
+
+from progress.bar import Bar
+
+async def load_git():
+    pass 
+
+def load():
+    pass
+
+@asyncio.coroutine
+def progressbar():
+    bar = Bar('Processing', max=20)
+    for i in range(20):
+        # Do some work
+        bar.next()
+        time.sleep(0.5)
+    bar.finish()
 
 
 def get_message():
@@ -78,10 +95,10 @@ def get_message():
     return message
 
 
-def git_push():
+async def git_push():
     PATH_OF_GIT_REPO = os.getcwd() + "/.git"
     COMMIT_MESSAGE = get_message()
-    
+
     try:
         repo = Repo(PATH_OF_GIT_REPO)
         repo.git.add(update=True)
@@ -94,4 +111,6 @@ def git_push():
 
 
 if __name__ == "__main__":
-    git_push()
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(git_push())
+    loop.close()
