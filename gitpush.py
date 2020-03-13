@@ -1,15 +1,15 @@
 from git import Repo 
-import os, yaml, time, datetime, asyncio 
-
-from progress.bar import Bar
+import os, yaml, time, datetime
+from progress.bar import Bar 
 
 def progressbar():
     bar = Bar('Processing', max=20)
+    print(" git:")
+    s = git_push()
     for i in range(20):
-        # Do some work
         bar.next()
-        time.sleep(0.5)
     bar.finish()
+    print(s)
 
 
 def get_message():
@@ -88,7 +88,7 @@ def get_message():
     return message
 
 
-async def git_push():
+def git_push():
     PATH_OF_GIT_REPO = os.getcwd() + "/.git"
     COMMIT_MESSAGE = get_message()
 
@@ -98,13 +98,10 @@ async def git_push():
         repo.index.commit(COMMIT_MESSAGE)
         origin = repo.remote(name='origin')
         origin.push()
-        print("|!| Refs have been pushed to git. DGCM")
+        return "|!| Refs have been pushed to git. DGCM"
     except:
-        print('Some error occured while pushing the code')    
+        return 'Some error occured while pushing the code'
 
 
 if __name__ == "__main__":
-    loop = asyncio.get_event_loop()
-    print(loop.run_until_complete(git_push()))
     progressbar()
-    loop.close()
