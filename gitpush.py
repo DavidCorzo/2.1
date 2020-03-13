@@ -36,7 +36,6 @@ def get_message():
     with open("dependencies_hours.yaml") as file:
         F = yaml.full_load(file)
         file.close()
-    now = datetime.datetime.now() 
 
     Master = {
         "monday":{},
@@ -60,12 +59,12 @@ def get_message():
     #     for i in v:
     #         print(v,i)
 
-    date = ["saturday","23","15"]#str(datetime.datetime.now().strftime("%A,%H,%M")).split(",") # day of the week, hour, minute
+    date = str(datetime.datetime.now().strftime("%A,%H,%M")).split(",") # day of the week, hour, minute
     time = datetime.time(hour=int(date[1]),minute=int(date[2]))
 
     activated = False
     message = ""
-    if (Master[str(date[0]).lower()] == {}):
+    if (bool(Master[str(date[0]).lower()])): # if it is empty dont do anything
         for course,class_times in Master[str(date[0]).lower()].items():
             if (class_times["starts"] <= time) and  (time <= class_times["ends"]):
                 activated = True
@@ -74,14 +73,15 @@ def get_message():
 
 
     if (not activated):
-        message = str(time) + " @ " + "extracurricular"
+        message = str(date[0] + " ") + str(time) + " @ " + "extracurricular"
         
     return message
 
-PATH_OF_GIT_REPO = os.getcwd() + "/.git"
-COMMIT_MESSAGE = 'automatic commit'
 
 def git_push():
+    PATH_OF_GIT_REPO = os.getcwd() + "/.git"
+    COMMIT_MESSAGE = get_message()
+    
     try:
         repo = Repo(PATH_OF_GIT_REPO)
         repo.git.add(update=True)
@@ -92,4 +92,6 @@ def git_push():
     except:
         print('Some error occured while pushing the code')    
 
-git_push()
+
+if __name__ == "__main__":
+    git_push()
