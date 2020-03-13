@@ -1,10 +1,17 @@
-import subprocess, sys, time, os
+from git import Repo 
+import os
 
-if __name__ == "__main__":
-    path = os.getcwd() + "\\autogit.ps1" 
-    path = path.replace("\\","/")
-    print(f"==========> {path}")
-    p = subprocess.Popen(["powershell.exe", path], stdout=sys.stdout)
-    p.communicate()
-    print("Done?")
-    time.sleep(5)
+PATH_OF_GIT_REPO = os.getcwd() + "/.git"
+COMMIT_MESSAGE = 'automatic commit'
+
+def git_push():
+    try:
+        repo = Repo(PATH_OF_GIT_REPO)
+        repo.git.add(update=True)
+        repo.index.commit(COMMIT_MESSAGE)
+        origin = repo.remote(name='origin')
+        origin.push()
+    except:
+        print('Some error occured while pushing the code')    
+
+git_push()
