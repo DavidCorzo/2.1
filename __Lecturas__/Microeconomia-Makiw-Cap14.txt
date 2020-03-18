@@ -1,0 +1,63 @@
+Las empresas en mercados competitivos
+
+Si la estación de servicios de su comunidad incrementara 20% el precio de la 
+gasolina, la cantidad de gasolina que vende sufriría una fuerte caída, ya que 
+los clientes decidirían de inmediato comprar gasolina en otras gasolineras. 
+Por otro lado, si la empresa que abastece de agua a la ciudad incrementa 20% 
+el precio del agua, ésta sólo experimentará una pequeña disminución en la cantidad 
+de agua vendida. Las personas regarán su jardín menos y comprará regaderas más 
+eficientes, pero tendrán dificultades en reducir de manera importante su consumo 
+de agua y difícilmente encontrarán otro proveedor. La diferencia entre el mercado de
+la gasolina y el mercado del agua es evidente: muchas empresas venden gasolina en 
+el mercado local, pero sólo una provee el agua. Como podría esperarse, la diferencia 
+en la estructura del mercado determina las decisiones sobre fijación de precios y el 
+nivel de producción que toman las empresas que operan en estos mercados.
+En este capítulo estudiaremos cómo se comportan las empresas competitivas, 
+como la gasolinera local. Recordará que un mercado es competitivo si cada comprador y vendedor es pequeño en comparación con el tamaño del mercado y, por consiguiente, tiene poca capacidad de influir en los precios del mercado. Por otro lado, si una empresa puede influir en el precio de mercado del bien que vende, se dice que 
+tiene poder de mercado. Más adelante estudiaremos la conducta de las empresas con 
+poder de mercado, como la proveedora de agua de su comunidad.
+El análisis de las empresas competitivas en este capítulo nos dará una idea de las 
+decisiones en las que se basa la curva de la oferta en un mercado competitivo. Como 
+es de esperar, veremos que la curva de la oferta está estrechamente relacionada con 
+los costos de producción de las empresas. Algo menos evidente, sin embargo, es la 
+pregunta sobre cuál de todos los costos de una empresa (fijo, variable, promedio y 
+marginal) es el más relevante para sus decisiones de oferta. Veremos que todas estas 
+medidas de costos desempeñan roles importantes e interrelacionados.
+
+
+¿Qué es un mercado competitivo?
+Nuestra meta en este capítulo es estudiar cómo las empresas toman decisiones rela￾cionadas con su producción en mercados competitivos. Como introducción a este 
+análisis, empezaremos por repasar qué es un mercado competitivo.
+El significado de competencia
+Un mercado competitivo, algunas veces llamado mercado perfectamente competitivo, 
+tiene dos características:
+• Existen muchos compradores y vendedores en el mercado.
+• Los bienes ofrecidos por los diversos vendedores son básicamente los mismos.
+Como resultado de estas condiciones, las acciones de un solo comprador o vendedor 
+en el mercado tienen un efecto insignificante en el precio de mercado. Cada compra￾dor y vendedor toma el precio de mercado como dado.
+Como ejemplo, considere el mercado de la leche. Ningún consumidor de leche por 
+sí solo puede influir en el precio de la misma, porque cada comprador adquiere una 
+pequeña cantidad en relación con el tamaño del mercado. De la misma manera, cada 
+productor tiene control limitado sobre el precio, porque muchos vendedores ofrecen 
+leche que es esencialmente idéntica. Debido a que cada vendedor puede vender todo 
+lo que quiera al precio de mercado, no tendrá razones para cobrar menos, y si cobra 
+más, los compradores se irán a otro lugar. Compradores y vendedores en mercados 
+competitivos deben aceptar el precio que el mercado determina y, por tanto, se dice 
+que son tomadores de precios.
+Además de las dos condiciones anteriores para la competencia, agregaremos una 
+tercera que en ocasiones se piensa que caracteriza a los mercados perfectamente 
+competitivos:
+• Las empresas pueden entrar y salir libremente del mercado.
+Si, por ejemplo, cualquiera puede decidir iniciar una empresa de producción de 
+lácteos y cualquier productor de leche existente puede decidir dejar el negocio, la 
+industria de los lácteos satisface esta condición. Una buena parte del análisis de las 
+empresas competitivas no requiere el supuesto de libre entrada y salida, porque 
+esta condición no es necesaria para que las empresas sean tomadoras de precios. Sin 
+embargo, como veremos más adelante en este capítulo, si hay libre entrada y salida 
+en el mercado competitivo, ésta es una fuerza poderosa que contribuye a establecer 
+el equilibrio a largo plazo.
+
+Mercado competitivo: Mercado con muchos com￾pradores y vendedores que 
+intercambian productos idénticos, de tal forma que cada 
+comprador y vendedor son 
+tomadores de precios.

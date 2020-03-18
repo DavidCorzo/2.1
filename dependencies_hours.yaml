@@ -1,0 +1,32 @@
+estructuras_de_datos: 
+  - monday[1]
+  - wednesday[2]
+  
+global_management: 
+  - monday[2]
+  - wednesday[2]
+
+cost_analysis: 
+  - monday[3]
+  - wednesday[3]
+
+microeconomia: 
+  - monday[4]
+  - wednesday[4]
+  - thursday[5]
+
+calculo_multivariable: 
+  - tuesday[3]
+  - thursday[3]
+
+estadistica_1: 
+  - tuesday[4]
+  - thursday[4]
+
+marketing: 
+  - tuesday[1]
+  - thursday[1]
+
+teorias_eticas: 
+  - tuesday[2]
+  - thursday[2]
