@@ -1,0 +1,11 @@
+ma: 
+  - 'D:/___Proyectos_En_Proceso___/MaterialDeApoyoAutomaticoTex/dist/ConsolidadorDeMaterialDeApoyo.exe'
+  - 'ConsolidadorDeMaterialDeApoyo.exe'
+
+rb: 
+  - 'D:/___Proyectos_En_Proceso___/MaterialDeApoyoAutomaticoTex/dist/ConsolidadorDeRocketBook.exe'
+  - 'ConsolidadorDeRocketBook.exe'
+
+# ct:
+#   - 'D:/___Proyectos_En_Proceso___/TableCreator/dist/CreateTabular.exe'
+#   - 'CreateTabular.exe'
