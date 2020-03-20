@@ -1,0 +1,28 @@
+\usetikzlibrary{arrows.meta, calc, positioning}
+\usetikzlibrary{decorations.markings}
+\usetikzlibrary{decorations.pathreplacing}
+
+\tikzset{
+    dot/.style = {circle, fill, minimum size=#1,
+                inner sep=0pt, outer sep=0pt},
+    dot/.default = 4pt % size of the circle diameter 
+}
+
+\tikzset{dasharr/.style={
+	dash pattern=on 3pt off 2pt,postaction={decorate,
+    decoration={markings,
+    mark=between positions 3pt and 1 step 10pt with {\arrow{>};}}}
+}}
+
+
+\newcommand{\lbraceontikz}[4]{
+    \draw [decorate,decoration={brace,amplitude=10pt,mirror,raise=4pt},yshift=0pt]
+    #1 -- #2 node [black,midway,#4] % xshift=-1cm
+    {\footnotesize #3};
+}
+
+\newcommand{\rbraceontikz}[3]{
+    \draw [decorate,decoration={brace,amplitude=10pt},xshift=-0.5cm,yshift=0pt]
+    #1 -- #2 node [black,midway, yshift=0.6cm] %xshift=-0.6cm
+    {\footnotesize #3};
+}
