@@ -1,0 +1,35 @@
+\begin{tikzpicture}
+	\begin{pgfonlayer}{nodelayer}
+		\node [style=none] (0) at (-3, 0.25) {};
+		\node [style=none] (1) at (-3, 8.25) {};
+		\node [style=none] (2) at (5, 0.25) {};
+		\node [style=none] (3) at (-7, -5) {};
+		\node [style=none] (4) at (-7, -5) {};
+		\node [style=none] (5) at (5.25, -0.25) {$y$};
+		\node [style=none] (6) at (-7.25, -5.5) {$x$};
+		\node [style=none] (7) at (-3.75, 8.5) {$z$};
+		\node [style=none] (8) at (-4.25, 2.75) {};
+		\node [style=none] (9) at (3.75, 2.75) {};
+		\node [style=none] (10) at (-0.275, 6.325) {};
+		\node [style=none] (11) at (-0.25, -0.85) {};
+		\node [style=darkdot] (12) at (-0.25, 2.75) {};
+		\node [style=darkdot] (13) at (2.275, 5.6) {};
+		\node [style=none] (14) at (1, 4.75) {$d$};
+		\node [style=none] (15) at (3, 6) {$(x_2,y_2,z_2)$};
+		\node [style=none] (16) at (-0.25, 2.25) {$(x_1,y_1,z_1)$};
+		\node [style=none] (17) at (0, -2.25) {$\displaystyle \p{x-x_1}^2+\p{y-y_1}^2+\p{z-z_1}^2=d^2$};
+		\node [style=none] (18) at (-0.25, -3.5) {Ec. de una esfera de radio $r$ centrada en $(x_1,y_1,z_1)$};
+	\end{pgfonlayer}
+	\begin{pgfonlayer}{edgelayer}
+		\draw [style=line with arrow] (0.center) to (4.center);
+		\draw [style=line with arrow] (0.center) to (2.center);
+		\draw [style=line with arrow] (0.center) to (1.center);
+		\draw [style=dashed line, bend left=60, looseness=0.50] (8.center) to (9.center);
+		\draw [bend right, looseness=0.75] (8.center) to (9.center);
+		\draw [bend right=90, looseness=1.50] (8.center) to (9.center);
+		\draw [bend left=90, looseness=1.50] (8.center) to (9.center);
+		\draw [bend right] (10.center) to (11.center);
+		\draw [style=dashed line, bend right] (11.center) to (10.center);
+		\draw (12) to (13);
+	\end{pgfonlayer}
+\end{tikzpicture}
