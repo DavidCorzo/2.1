@@ -1,0 +1,46 @@
+\section{15.2 y 15.3 Integrales dobles}
+\begin{itemize}
+    \item El volúmen del sólido entre las dos superficies $\displaystyle z=f\p{x,y} $ y la región $R$ en el plano $xy$ es:
+        \[
+          V = \iint_{D}^{} f\p{x,y} dA 
+        \]
+    
+    \item Región rectangular $\displaystyle R = [a,b] \times [c,d]$ 
+        \[
+          \iint_{D}^{f\p{x,y} }dA = \int_{a}^{b} \p{\int_{c}^{d} f\p{x,y}dy  }dx = \int_{c}^{d}\int_{a}^{b}f\p{x,y} dxdy 
+        \]
+    
+    \item En algunos problemas un orden de integración simplifica considerablemente la evaluación de la integral doble.
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Ejercicios}
+\begin{enumerate}
+    \item Evalúe $\displaystyle I = \int_{0}^{2}\p{\int_{0}^{3}ye^{-xy}dy} dx$ 
+        \begin{center}
+           \begin{align*}
+               I_1 = \int_{0}^{3}yc^{-xy}dy = \frac{-y}{x} e^{-xy} \evaluate{y=0}{y=3} + \int_{0}^{3}e^{-xy}dy \\ 
+               \\
+               \text{ Cambiar los ordenes de integración } \\ 
+               \begin{matrix}
+                   u = -xy \\ 
+                   du = -ydx \\ 
+               \end{matrix}
+               I = \int_{0}^{3}\p{\int_{0}^{2}e^{-xy}ydx} dy \\ 
+               I = \int_{0}^{3}-e^{-xy}\evaluate{x=0}{x=2} dy = \int_{0}^{3}\p{-e^{-2y}+1}dy \\ 
+               I = \frac{1}{2} e^{-2y} + y \evaluate{y=0}{y=3} = \frac{1}{2} e^{-6}+3-\frac{1}{2} \\  
+           \end{align*}
+        \end{center}
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{5.3 Integrales dobles en regiones generales}
+\begin{itemize}
+    \item Considere la región $D$ $\displaystyle G(X)\leq y \leq f(x)$ ó $\displaystyle a\leq x \leq b$.
+        \[
+          \iint_{D}^{}H(x,y)dA = \int_{a}^{b}\p{\int_{g(x)}^{f(x)}H(x,y)dy} dx 
+        \]
+\end{itemize} 
+
