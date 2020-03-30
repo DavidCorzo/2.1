@@ -1,0 +1,99 @@
+\section{Resolución del corto}
+\begin{center}
+   \begin{align*}
+        \int_{0}^{1}\int_{0}^{2}5x\p{y+x^2}^4 dydx &= \int_{0}^{1}x(y+x^2)^5 \evaluate{y=0}{y=2} dx \\ 
+        &= \int_{0}^{1} x(2+x^2)^5-x(x^2)^5 dx \\ 
+        &= \int_{0}^{1}\p{2+x^2} ^5xdx + \int_{0}^{1}x^11 dx \\ 
+        &= \frac{\p{2+x^2} ^6}{12} \evaluate{x=0}{x=1} - - \frac{1}{12} x^{12} \evaluate{x=0}{x=1} \\ 
+        &= \frac{3^6-2^6}{12} - \frac{1}{12} \\ 
+        &= \frac{664}{12} \\  
+   \end{align*}
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{}
+\begin{figure}[!htb]
+    \centering
+    % \includegraphics{} 
+\end{figure}
+\begin{center}
+   \begin{align*}
+        D_1 &= \cb{\p{x,y} | 0 \leq x^2+y^2 \leq R^2} \\ 
+        \iint_{D_1}^{} f\p{x,y} dA &= \int_{-R}^{R} \int_{-\sqrt{R^2-x^2}}^{\sqrt{R^2-x^2}} \\ 
+   \end{align*}
+\end{center}
+\pregunta{Hay alguna forma más fácil de evaluar $\displaystyle \iint_{}^{}f\p{x,y} dA$ } 
+\begin{itemize}
+    \item Sí, use coordenadas polares.
+\end{itemize}
+\begin{figure}[!htb]
+    \centering
+    % \includegraphics[width=12cm]{Clases/figs/} 
+\end{figure}
+
+\begin{center}
+   \begin{align*}
+       \iint_{D_1}^{}f(x,y)dA &= \int_{0}^{2\pi}\int_{0}^{R}f\p{r\cos\p{ \theta } ,r\sin\p{ \theta  } } r dr d\theta \\ 
+        dA &= dxdy = rd\theta dr \\ 
+   \end{align*}
+\end{center}
+El rectángulo polar es la región $\displaystyle \alpha \leq \theta \leq \beta$ , $\displaystyle r_1 \leq r \leq r_2$ 
+\begin{figure}[!htb]
+    \centering
+    % \includegraphics[width=12cm]{Clases/figs/} 
+\end{figure}
+
+\subsection*{Teorema: Integrales dobles usando coordenadas polares }
+Si $\displaystyle f\p{x,y} $ ... 
+
+\subsection{Ejercicios}
+\subsubsection*{Ejercicio 1, evalúe la siguiente integral}
+\begin{itemize}
+    \item Evalue $\displaystyle \iint_{R}^{}xy^2 dA,\; R$ 
+    \item $\displaystyle R$ es el semidisco superior de radio $3$.
+        \begin{figure}[!htb]
+            \centering
+            % \includegraphics[width=12cm]{Clases/figs/} 
+        \end{figure}
+    
+    \item Polares: 
+        \[
+            \text{ Polares:} \qq 
+          \begin{matrix}
+              0 \leq r \leq 3 \\ 
+              0 \leq \theta \leq \pi \\ 
+          \end{matrix} \qq \qq \qq 
+          \text{ Cartesianas:  }\qq 
+          \begin{matrix}
+              0 \leq y \leq \sqrt{9-x^2} \\ 
+              -3 \leq x \leq 3 \\ 
+          \end{matrix}
+        \]
+        \begin{center}
+           \begin{align*}
+               \iint_{R}^{}xy^2 dA &= \int_{-3}^{3} \int_{0}^{\sqrt{9-x^2}}xy^2 dy dx \qq \text{ Cartesianas } \\ 
+                I_i = \iint_{R}^{} xy^2dA &= \int_{0}^{3}\int_{0}^{\pi}r \cos\p{ r^2 } \sin^2\p{ \theta } r d\theta dr  \qq \text{ Límites constantes } \\ 
+                I_i &= \p{\int_{0}^{3}r^4dr} \p{\int_{0}^{\pi}\sin^2\p{ \theta } \cos\p{ \theta } d\theta} \\ 
+                I_i &= \p{\frac{1}{5} r^5 \evaluate{r=0}{r=3} } \p{\frac{\sin^3\p{ \theta  } }{3} } ... \\ 
+                I_I &= \frac{1}{5} 3^5 \cdot \frac{1}{3} \p{ \sin^3\p{ \pi }  } ... \\ 
+           \end{align*}
+        \end{center}
+\end{itemize}
+ 
+\subsection*{Anuncios}
+\begin{itemize}
+    \item Parcial estadística jueves 7:00 ó 10:00 jueves microeconomía 8:30 martes.
+    \item Parcial 3, viernes 3 de abril 
+    \item Parcial 2 Aplazado $\rightarrow$ Viernes 11:30 am Examen Virtual 
+    \item Temas:
+        \begin{itemize}
+            \item Regla de la cadena 
+            \item Derivación implícita 
+            \item Derivadas direccionales y gradiente 
+            \item Optimización 
+            \item Lagrange 
+        \end{itemize}
+    
+    \item Martes 31 ``Corto largo''. 
+\end{itemize}

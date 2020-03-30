@@ -1,0 +1,97 @@
+\section{15.1 Integrales dobles}
+\begin{itemize}
+    \item Dominio de una función $z = f(x,y)$ es una región $R$.
+    \item Rectángulo: 
+        \begin{center}
+           \begin{align*}
+                R &= [a,b] \times [c,d] \\ 
+                  &= \{(x,y)\} \in \mathbb{R}^2 \qq a \leq x \leq b, \qq c \leq y \leq d \\ 
+           \end{align*}
+           \begin{itemize}
+               \item Una gráfica de una función de dos variables es una superficie. 
+           \end{itemize}
+        \end{center}
+    
+    \item Integral doble:
+        \[
+          \iint_{R}^{}f\p{x,y} dA = \lim_{m,n \to \infty} \sum_{j=1}^{n}\sum_{i=1}^{m} f\p{x_i,x_j} \Delta x \Delta y 
+        \]
+    
+    \item Las integrales son las antiderivadas de $f\p{x,y} $ respecto a $x$ y respecto a $y$.
+\end{itemize}
+
+
+\section{15.2 Integrales iteradas}
+Integre:
+\[
+  A(x) = \int_{c}^{d}f\p{x,y} dy
+\]
+\begin{itemize}
+    \item Se fija $x$ y se integra sólo respecto a $y$. 
+    \item Ahora integre $A\p{x} $ en $a\leq x \leq b$: 
+        \[
+          \int_{a}^{b} A\p{x} dx = \int_{a}^{b}\p{\int_{c}^{d}f\p{x,y} dy } dx = \int_{a}^{b}\int_{c}^{d} f\p{x,y} dy dx 
+        \]
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+\section{Teorema de Fubini: Integrales dobles como integrales iteradas.}
+\begin{itemize}
+    \item Si $f\p{x,y} $ es contínua en un rectángulo $\displaystyle R = [a,b]\times [c,d]$ :
+        \[
+          \iint_{R}^{} f(\p{x,y} ) dA = \int_{a}^{b} \int_{c}^{d} f\p{x,y} dydx = \int_{c}^{d} \int_{a}^{b} f\p{x,y} dx dy
+        \]
+      
+    \item Pueden integrar intercambiando los órdenes y se obtiene la misma respuesta si $R$ es un rectángulo.
+\end{itemize}
+
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Ejercicios}
+\begin{enumerate}
+	\item Evalúe las sigs. integrales dobles:
+		\begin{center}
+		   \begin{align*}
+			   \int_{0}^{4}\int_{0}^{6} xy dxdy &\\ 
+			   &= \int_{0}^{4} \frac{x^2}{2} y \evaluate{x=0}{x=6} dy \\ \text{ y es constante } \\ 
+			   I_0 &= \int_{0}^{4}\p{18y-0} dy = 9y^2 \evaluate{y=0}{y=4} = 9 \cdot 16 = 144 \\ 
+		   \end{align*}
+		   Si se intercambia el orden de integración:
+		   \begin{align*}
+			   \int_{0}^{6}\p{\int_{0}^{4}xydy} dx &= \int_{0}^{6}\p{\frac{xy^2}{2} \evaluate{y=0}{y=4} } dx \\ 
+			   &= \int_{0}^{6} 8x dx \\ 
+			   i_0 = 4x^2 \evaluate{x=0}{x=6} = 4\cdot 36  144 \qqq \text{ Misma respuesta }\\ 
+		   \end{align*}
+		\end{center}
+	
+	\item $\displaystyle I_a = \int_{0}^{1}\int_{1}^{2}\p{4x^3-9x^2y^2} dydx$ 
+		\begin{center}
+		   \begin{align*}
+			   I_a &= \int_{0}^{1}\p{4x^3-3x^2y^3\evaluate{y=1}{y=2} } dx \\ 
+			   I_a &= \int_{0}^{1}\p{8x^3-24x^2-4x^3+3x^2} dx \\ 
+			   I_a &= \int_{0}^{1}\p{4x^3-21x^2} dx \\
+			   \therefore \qq  &=  x^4-7x^3 \evaluate{x=0}{x=1} = 1-7 = 6 \\ 
+		   \end{align*}
+		   \begin{itemize}
+			   \item Tomar en cuenta que no hay integrales dobles indefinidas.
+			    \[
+				  \nexists \qq \int_{}^{}\int_{}^{}f\p{x,y} dxdy
+				\]
+		   \end{itemize}
+		\end{center}
+	
+	\item $\displaystyle I_b = \int_{R}^{}\int_{}^{}\sin\p{ x-y } dA \qq \qq R = \{(x,y) \; | 0\leq x \leq \frac{\pi }{2} , 0\leq y \leq \frac{\pi }{2} \}$ 
+		\begin{center}
+		   \begin{align*}
+			   I_b &= \int_{0}^{\frac{\pi }{2} }\p{\int_{0}^{\frac{\pi }{2}} \sin\p{ x-y } dy } dx \\ 
+			   I_b &= \int_{0}^{\frac{\pi }{2} 0} \cos\p{ x-y } \evaluate{y=0}{y=\frac{\pi }{2} } dx \\ 
+		   \end{align*}
+		   \begin{comment}
+			   \item 
+		   \end{comment}
+		\end{center}
+\end{enumerate}
+
+
+
