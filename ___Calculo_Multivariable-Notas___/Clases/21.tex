@@ -1,0 +1,71 @@
+\section{}
+Caja rectangular    
+\begin{figure}[H]
+    \centering
+    % \includegraphics[]{Clases/figs/2020-04-16_01} 
+\end{figure}
+\begin{center}
+   \begin{align*}
+       B = \sqb{a,b} \times \sqb{c,d} \\ 
+       \iiint_{B}^{}f\p{x,y,z} dV = \int_{a}^{b}\int_{c}^{d}\int_{r}^{s} f(x,y,z) dz dy dx \\  
+   \end{align*}
+   Se intercambia el orden de integración, esto resulta en una permutación
+\end{center}
+
+\subsection{Ejercicios}
+\begin{enumerate}
+    \item $\displaystyle \iiint_{B}^{}\p{xy+3z^2} dV$ $\displaystyle B = \sqb{0,2} \times \sqb{1,0} \times \sqb{0,3} $ 
+        \begin{center}
+           \begin{align*}
+               I_a &= \int_{0}^{1}\int_{0}^{3}\int_{0}^{2}\p{x,y+3z^2} dx dz dy \\ 
+               &= \int_{0}^{1}\int_{0}^{3}\p{\frac{x^2y}{2} +3z^2x\evaluate{x=0}{2} } dz dy \\ 
+                &= \int_{0}^{1}\int_{0}^{3}\p{2y+6z^2} dz dy \\ 
+                &= \int_{0}^{1}\p{2yz+2z^3\evaluate{z=0}{z=3}   dy} \\ 
+                &= \int_{0}^{1}\p{6y+54} dy \\ 
+                &= \\ 
+           \end{align*}
+        \end{center}
+    
+    \item $\displaystyle \iiint_{B}^{}e^{x+y+z}dV$ $\displaystyle B = \sqb{0,\ln\p{ 2 }  } \times \sqb{0,\ln\p{ 3 }  } \times \sqb{0,\ln\p{ 4 }  } $  
+        \begin{center}
+           \begin{align*}
+                I_b &= \int_{0}^{2}\int_{0}^{\ln\p{ 3 }  }\int_{0}^{\ln\p{ 4 }  } e^{x+y+z} dz dy dx \\ 
+                I_b &= \int_{0}^{\ln\p{ 2 }  }\int_{0}^{\ln\p{ 3 }  }e^{x+y} \\ 
+           \end{align*}
+        \end{center}
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Integrales triples sobre unu sólido general}
+\[
+  u_1(x,y) \leq z \leq u_2(x,y) 
+\]
+D es la región de proyección del sólido $E$ sobre el plano $xy$.
+\[
+    \iiint_{E}^{}f(x,y,z)dV = \iint_{D}^{}\p{\int_{u_1(x,y)}^{u_2(x,y)} f(x,y,z)dz } dA  
+\]
+\[
+  (x,y) \in D
+\]
+
+D como una región tipo I, tipo II o en polares.
+\begin{center}
+   \begin{align*}
+       a \leq x \leq b \qq \qq a_1(x) \leq y \leq a_2(x) \\ 
+    %    \iiint_{E}^{}f\; dV &= \iint_{D}^{}\p{int
+    %    }  \\ 
+   \end{align*}
+\end{center}
+
+
+\subsection{Sólido tipo II}
+\begin{center}
+   \begin{align*}
+       u_1(y,z) \leq x \leq u_2(y,z) \\ 
+   \end{align*}
+   \begin{figure}[H]
+       \centering
+    %    \includegraphics[]{Clases/figs/} 
+   \end{figure}
+\end{center}
