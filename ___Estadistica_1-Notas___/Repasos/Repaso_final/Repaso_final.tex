@@ -1,0 +1,83 @@
+\documentclass{article}
+
+\usepackage{generalsnips}
+\usepackage{calculussnips}
+\usepackage[margin = 1in]{geometry}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{xpatch}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{hyperref}
+\title{Repaso final}
+\date{2020 April 20, 10:30PM}
+\author{David Gabriel Corzo Mcmath}
+
+\begin{document}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Distribución muestral de $\bar{x}$}
+\begin{itemize}
+    \item La distribución muestral de $\bar{x}$ es la distribución de probabilidad de todos los valores de la media muestral. 
+    \item Como toda distribución, tiene valor esperado, desviación estándar, etcétera. 
+\end{itemize}
+% 
+\subsection{Valore esperado de $\bar{x}$ }
+\[
+  E(\bar{x}) = \mu 
+\]donde:
+\begin{itemize}
+    \item $E(\bar{x})$: valor esperado 
+    \item $\mu $: media poblacional 
+\end{itemize}
+%%
+\subsubsection{Observaciones}
+Cuando el valor esperado de un estimador puntual es igual al parámetro poblacional, se dice que el estimador puntual es insesgado.
+
+% 
+\subsection{Desviación estándar de $\bar{x}$}
+Para una población finita: 
+\[
+    \sigma_{\bar{x}} = \sqrt{\frac{N-n}{N-1} }\p{\frac{\sigma}{\sqrt{n}} } 
+\]
+Para una población infinita ó La población sea finita y el tamaño de la muestra sea menor o igual a 5\% del tamaño de la población; es decir, $n/N \leq 0.05$: 
+\[
+  \sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}} 
+\]
+donde
+\begin{itemize}
+    \item $\sigma_{\bar{x}}$: desviación estándar de $\bar{x}$.
+    \item $\sigma$: desviación estándar de la población. 
+    \item $n$: tamaño de la muestra.
+    \item $N$: tamaño de la población. 
+\end{itemize}
+\subsubsection{El factor de corrección para poblaciones finitas}
+\[
+  \text{ Factor de corrección:  }\; = \sqrt{\frac{N-n}{N-1} }
+\]
+
+\subsubsection{Error estándar}
+Se refiere a la desviación estándar de un estimador puntual.
+
+
+%----------------------------------------------------------------------------------------
+\subsection{Forma de la distribución muestral de $\bar{x}$ }
+Dos casos, tiene distribución normal o no: 
+\begin{itemize}
+    \item Tiene distribución normal: Cuando la población tiene distribución normal, la distribución muestral de está distribuida normalmente sea cual sea el tamaño de la muestra.
+    \item No tiene distribución normal: Cuando la población de la que se tomó la muestra aleatoria simple no tiene distribución normal, el teorema del límite central ayuda a determinar la forma de la distribución muestral de $\bar{x}$.
+        \begin{itemize}
+            \item Teorema del límite central: Cuando se seleccionan muestras aleatorias simples de tamaño $n$ de una población, la distribución muestral de la media muestral puede aproximarse mediante una distribución normal a medida que el tamaño de la muestra se hace grande. 
+        \end{itemize}
+\end{itemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
