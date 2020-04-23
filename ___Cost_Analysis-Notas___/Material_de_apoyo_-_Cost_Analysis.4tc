@@ -1,0 +1,17 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{>\c@secnumdepth }{\csname a:TocLink\endcsname{1}{x1-1000>\c@secnumdepth }{QQ2-1-1}{}}{3}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000>\c@secnumdepth }{QQ2-1-2}{\'{I}ndice general}}{3}\relax 
+\doTocEntry\tocpart{I}{\csname a:TocLink\endcsname{1}{x1-3000I}{QQ2-1-3}{ Exámenes cortos }}{5}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-4}{ Exámen corto #01 }}{6}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-50002}{QQ2-1-5}{ Exámen corto #02 }}{9}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-60003}{QQ2-1-6}{ Exámen corto #03 }}{12}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-70004}{QQ2-1-7}{ Exámen corto #04 }}{15}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-80005}{QQ2-1-8}{ Exámen corto #05 }}{18}\relax 
+\doTocEntry\tocpart{II}{\csname a:TocLink\endcsname{1}{x1-9000II}{QQ2-1-9}{ Parciales }}{22}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-100006}{QQ2-1-10}{ Parcial #01 }}{23}\relax 
+\doTocEntry\tocpart{III}{\csname a:TocLink\endcsname{1}{x1-11000III}{QQ2-1-11}{ Tareas }}{27}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{1}{x1-120007}{QQ2-1-12}{ Tarea #01 }}{28}\relax 
+\doTocEntry\tocchapter{8}{\csname a:TocLink\endcsname{1}{x1-130008}{QQ2-1-13}{ Tarea #02 }}{31}\relax 
+\doTocEntry\tocchapter{9}{\csname a:TocLink\endcsname{1}{x1-140009}{QQ2-1-14}{ Tarea #03 }}{34}\relax 
+\doTocEntry\tocpart{IV}{\csname a:TocLink\endcsname{1}{x1-15000IV}{QQ2-1-15}{ Ejercicios en clase }}{38}\relax 
+\doTocEntry\tocchapter{10}{\csname a:TocLink\endcsname{1}{x1-1600010}{QQ2-1-16}{ Ejercicio en clase #01 }}{39}\relax 

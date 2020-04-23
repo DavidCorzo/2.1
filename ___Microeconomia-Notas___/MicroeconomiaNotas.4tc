@@ -1,0 +1,45 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{>\c@secnumdepth }{\csname a:TocLink\endcsname{1}{x1-1000>\c@secnumdepth }{QQ2-1-1}{}}{3}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000>\c@secnumdepth }{QQ2-1-2}{\'{I}ndice general}}{3}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-3}{Elasticidad}}{4}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-4}{Resolución de corto}}{6}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-50002}{QQ2-1-5}{Teoría de la empresa}}{8}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-60003}{QQ2-1-6}{Las decisiones de producción de empresas}}{8}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-7}{Control de precios}}{9}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-80003}{QQ2-1-8}{Teoría de la empresa y del productor}}{16}\relax 
+\doTocEntry\tocsubsection{3.0.1}{\csname a:TocLink\endcsname{1}{x1-90001}{QQ2-1-9}{Los tres factores de producción}}{16}\relax 
+\doTocEntry\tocsubsection{3.0.2}{\csname a:TocLink\endcsname{1}{x1-100002}{QQ2-1-10}{Función de producción}}{16}\relax 
+\doTocEntry\tocsubsection{3.0.3}{\csname a:TocLink\endcsname{1}{x1-110003}{QQ2-1-11}{Tiempo}}{16}\relax 
+\doTocEntry\tocsubsection{3.0.4}{\csname a:TocLink\endcsname{1}{x1-120004}{QQ2-1-12}{Producción en el corto plazo}}{16}\relax 
+\doTocEntry\tocsubsection{3.0.5}{\csname a:TocLink\endcsname{1}{x1-130005}{QQ2-1-13}{ley de rendimientos marginales decrecientes}}{17}\relax 
+\doTocEntry\tocsubsection{3.0.6}{\csname a:TocLink\endcsname{1}{x1-140006}{QQ2-1-14}{Isocuantas}}{17}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-150001}{QQ2-1-15}{Principios}}{18}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-160002}{QQ2-1-16}{Recordar}}{19}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-170003}{QQ2-1-17}{Tasa marginal de sustitución}}{19}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-180004}{QQ2-1-18}{Tasa de transformación}}{20}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-190005}{QQ2-1-19}{Efectos por el cambio de precio}}{20}\relax 
+\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-200006}{QQ2-1-20}{Efectos por el cambio en el ingreso}}{21}\relax 
+\doTocEntry\tocsection{3.7}{\csname a:TocLink\endcsname{1}{x1-210007}{QQ2-1-21}{Curva de ingreso consumo}}{21}\relax 
+\doTocEntry\tocsection{3.8}{\csname a:TocLink\endcsname{1}{x1-220008}{QQ2-1-22}{Fórmulas}}{21}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-230004}{QQ2-1-23}{Empresa en un mercado perfectamente competitivo}}{22}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-240001}{QQ2-1-24}{Elasticidad}}{22}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-250002}{QQ2-1-25}{Efecto ingreso y sustitución}}{22}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-260003}{QQ2-1-26}{Teoría del productor \& teoría de consumidor}}{25}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-270004}{QQ2-1-27}{Rendimientos de escala}}{25}\relax 
+\doTocEntry\tocsection{4.5}{\csname a:TocLink\endcsname{1}{x1-280005}{QQ2-1-28}{Costos}}{25}\relax 
+\doTocEntry\tocsection{4.6}{\csname a:TocLink\endcsname{1}{x1-290006}{QQ2-1-29}{Dudas}}{27}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-300005}{QQ2-1-30}{temp}}{28}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-310001}{QQ2-1-31}{Empresa vs. Mercado}}{28}\relax 
+\doTocEntry\tocsubsection{5.1.1}{\csname a:TocLink\endcsname{1}{x1-320001}{QQ2-1-32}{Procedimiento}}{31}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-330006}{QQ2-1-33}{1. Cálculo del excedente del productor y consumidor, \\2. Precios máximos y mínimos, \\ 3. Impuestos. \\ Todo con integrales}}{34}\relax 
+\doTocEntry\tocsection{6.1}{\csname a:TocLink\endcsname{1}{x1-340001}{QQ2-1-34}{Excedente del productos y del consumidor}}{34}\relax 
+\doTocEntry\tocsubsection{6.1.1}{\csname a:TocLink\endcsname{1}{x1-350001}{QQ2-1-35}{Ejercicio}}{35}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{1}{x1-360007}{QQ2-1-36}{temp}}{37}\relax 
+\doTocEntry\tocsection{7.1}{\csname a:TocLink\endcsname{1}{x1-370001}{QQ2-1-37}{Monopolio}}{37}\relax 
+\doTocEntry\tocsection{7.2}{\csname a:TocLink\endcsname{1}{x1-380002}{QQ2-1-38}{ ¿Cuáles son las fuentes de PODpoder de mercado?  }}{37}\relax 
+\doTocEntry\tocsection{7.3}{\csname a:TocLink\endcsname{1}{x1-390003}{QQ2-1-39}{ ¿En qué punto un monopolista maximiza sus ganancias?  }}{37}\relax 
+\doTocEntry\tocsection{7.4}{\csname a:TocLink\endcsname{1}{x1-400004}{QQ2-1-40}{Eligiendo precio o cantidad...}}{37}\relax 
+\doTocEntry\tocsection{7.5}{\csname a:TocLink\endcsname{1}{x1-410005}{QQ2-1-41}{ ¿Cómo calcular el ingreso marginal?  }}{37}\relax 
+\doTocEntry\tocsection{7.6}{\csname a:TocLink\endcsname{1}{x1-420006}{QQ2-1-42}{Markup}}{40}\relax 
+\doTocEntry\tocsection{7.7}{\csname a:TocLink\endcsname{1}{x1-430007}{QQ2-1-43}{Learner}}{43}\relax 
+\doTocEntry\tocsection{7.8}{\csname a:TocLink\endcsname{1}{x1-440008}{QQ2-1-44}{Ejercicio}}{43}\relax 

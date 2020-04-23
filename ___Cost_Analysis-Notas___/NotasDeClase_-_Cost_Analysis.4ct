@@ -1,0 +1,65 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{\'{I}ndice general}}{3}\relax 
+\doTocEntry\tocpart{I}{\csname a:TocLink\endcsname{1}{x1-2000I}{QQ2-1-2}{Introducción}}{5}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-3}{Segunda Clase - 2020-01-08}}{6}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-4}{Conceptos fundamentales}}{6}\relax 
+\doTocEntry\tocsubsection{1.1.1}{\csname a:TocLink\endcsname{1}{x1-50001}{QQ2-1-5}{Ejemplo}}{6}\relax 
+\doTocEntry\tocsubsection{1.1.2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-6}{Activos}}{6}\relax 
+\doTocEntry\tocsubsection{1.1.3}{\csname a:TocLink\endcsname{1}{x1-70003}{QQ2-1-7}{Pasivos}}{7}\relax 
+\doTocEntry\tocsubsection{1.1.4}{\csname a:TocLink\endcsname{1}{x1-80004}{QQ2-1-8}{Patrimonio}}{7}\relax 
+\doTocEntry\tocsubsection{1.1.5}{\csname a:TocLink\endcsname{1}{x1-90005}{QQ2-1-9}{Ingresos}}{7}\relax 
+\doTocEntry\tocsubsection{1.1.6}{\csname a:TocLink\endcsname{1}{x1-100006}{QQ2-1-10}{Gastos}}{7}\relax 
+\doTocEntry\tocsubsection{1.1.7}{\csname a:TocLink\endcsname{1}{x1-110007}{QQ2-1-11}{Estados financieros básicos}}{8}\relax 
+\doTocEntry\tocsubsection{1.1.8}{\csname a:TocLink\endcsname{1}{x1-120008}{QQ2-1-12}{Auditoría externa}}{8}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-130002}{QQ2-1-13}{Ejercicio: ¿invertimos en la empresa o no?}}{8}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-140002}{QQ2-1-14}{Tercera clase - 2020-01-13}}{9}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-150001}{QQ2-1-15}{Clasificación de costos}}{9}\relax 
+\doTocEntry\tocsubsection{2.1.1}{\csname a:TocLink\endcsname{1}{x1-160001}{QQ2-1-16}{Modelo de planeación y de control}}{9}\relax 
+\doTocEntry\tocsubsection{2.1.2}{\csname a:TocLink\endcsname{1}{x1-170002}{QQ2-1-17}{Conceptos y clasificación de costos}}{9}\relax 
+\doTocEntry\tocsubsection{2.1.3}{\csname a:TocLink\endcsname{1}{x1-180003}{QQ2-1-18}{Elementos de costo}}{10}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-190003}{QQ2-1-19}{Ejemplo}}{10}\relax 
+\doTocEntry\tocsubsection{2.1.4}{\csname a:TocLink\endcsname{1}{x1-200004}{QQ2-1-20}{Relación con la producción}}{10}\relax 
+\doTocEntry\tocsubsection{2.1.5}{\csname a:TocLink\endcsname{1}{x1-210005}{QQ2-1-21}{Relación con el volumen}}{11}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-220005}{QQ2-1-22}{Maximizar costos}}{11}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-230002}{QQ2-1-23}{Costos mixtos}}{11}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-240003}{QQ2-1-24}{Áreas funcionales}}{11}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-250003}{QQ2-1-25}{Clase - 2020-01-20}}{13}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-260001}{QQ2-1-26}{Punto de equilibrio}}{13}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-270002}{QQ2-1-27}{Costo volumen por unidad}}{15}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-280003}{QQ2-1-28}{ISR - impuesto sobre la renta}}{16}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-290004}{QQ2-1-29}{Análisos de riesgo}}{16}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-300005}{QQ2-1-30}{Comparación de procesos de producción}}{17}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-310004}{QQ2-1-31}{Clase - 2020-01-29}}{18}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-320001}{QQ2-1-32}{Punto de equilibrio}}{18}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-330005}{QQ2-1-33}{Clase - 2020-02-12}}{19}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-340001}{QQ2-1-34}{Pricing}}{19}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-350002}{QQ2-1-35}{Estrategias de pricing}}{20}\relax 
+\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-360001}{QQ2-1-36}{Neutralizar}}{20}\relax 
+\doTocEntry\tocsubsection{5.2.2}{\csname a:TocLink\endcsname{1}{x1-370002}{QQ2-1-37}{Penetración}}{20}\relax 
+\doTocEntry\tocsubsection{5.2.3}{\csname a:TocLink\endcsname{1}{x1-380003}{QQ2-1-38}{Skimming}}{20}\relax 
+\doTocEntry\tocsubsection{5.2.4}{\csname a:TocLink\endcsname{1}{x1-390004}{QQ2-1-39}{Psicológica}}{20}\relax 
+\doTocEntry\tocsubsection{5.2.5}{\csname a:TocLink\endcsname{1}{x1-400005}{QQ2-1-40}{Productos económicos}}{20}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-410006}{QQ2-1-41}{Clase de repaso - 2020-02-24}}{21}\relax 
+\doTocEntry\tocsection{6.1}{\csname a:TocLink\endcsname{1}{x1-420001}{QQ2-1-42}{Repaso de parcial}}{21}\relax 
+\doTocEntry\tocpart{II}{\csname a:TocLink\endcsname{1}{x1-43000II}{QQ2-1-43}{Posterior al parcial #1}}{27}\relax 
+\doTocEntry\tocchapter{7}{\csname a:TocLink\endcsname{1}{x1-440007}{QQ2-1-44}{Clase - 2020-03-04 Post Parcial}}{28}\relax 
+\doTocEntry\tocsection{7.1}{\csname a:TocLink\endcsname{1}{x1-450001}{QQ2-1-45}{Inventarios}}{28}\relax 
+\doTocEntry\tocchapter{8}{\csname a:TocLink\endcsname{1}{x1-460008}{QQ2-1-46}{Presupuestos}}{30}\relax 
+\doTocEntry\tocsection{8.1}{\csname a:TocLink\endcsname{1}{x1-470001}{QQ2-1-47}{Planeación estratégica}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.1}{\csname a:TocLink\endcsname{1}{x1-480001}{QQ2-1-48}{Introducción}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.2}{\csname a:TocLink\endcsname{1}{x1-490002}{QQ2-1-49}{Preguntas a realizarse}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.3}{\csname a:TocLink\endcsname{1}{x1-500003}{QQ2-1-50}{Acitivades a realizar}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.4}{\csname a:TocLink\endcsname{1}{x1-510004}{QQ2-1-51}{Presupuestos}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.5}{\csname a:TocLink\endcsname{1}{x1-520005}{QQ2-1-52}{Elementos del presupuesto}}{30}\relax 
+\doTocEntry\tocsubsection{8.1.6}{\csname a:TocLink\endcsname{1}{x1-530006}{QQ2-1-53}{Ventajas de hacer un presupuesto}}{31}\relax 
+\doTocEntry\tocsubsection{8.1.7}{\csname a:TocLink\endcsname{1}{x1-540007}{QQ2-1-54}{Desventajas/limitaciones de hacer un presupuesto}}{31}\relax 
+\doTocEntry\tocsubsection{8.1.8}{\csname a:TocLink\endcsname{1}{x1-550008}{QQ2-1-55}{Características}}{32}\relax 
+\doTocEntry\tocsubsection{8.1.9}{\csname a:TocLink\endcsname{1}{x1-560009}{QQ2-1-56}{Presupuesto maestro}}{32}\relax 
+\doTocEntry\tocsubsection{8.1.10}{\csname a:TocLink\endcsname{1}{x1-5700010}{QQ2-1-57}{Presupuesto de ventas: Puntos a considerar}}{32}\relax 
+\doTocEntry\toclikesubsubsection{}{\csname a:TocLink\endcsname{1}{x1-5800010}{QQ2-1-58}{Para hacer el presupuesto de ventas}}{33}\relax 
+\doTocEntry\tocsubsection{8.1.11}{\csname a:TocLink\endcsname{1}{x1-5900011}{QQ2-1-59}{Presupuesto de producción: puntos a considerar}}{33}\relax 
+\doTocEntry\tocsection{8.2}{\csname a:TocLink\endcsname{1}{x1-600002}{QQ2-1-60}{Presupuesto de compra de materiales directos}}{33}\relax 
+\doTocEntry\tocsubsection{8.2.1}{\csname a:TocLink\endcsname{1}{x1-610001}{QQ2-1-61}{ ¿Qué necesito para hacer el presupuesto?  }}{33}\relax 
+\doTocEntry\tocsubsection{8.2.2}{\csname a:TocLink\endcsname{1}{x1-620002}{QQ2-1-62}{Presupuesto de consumo de materiales directos}}{33}\relax 
+\doTocEntry\tocsubsection{8.2.3}{\csname a:TocLink\endcsname{1}{x1-630003}{QQ2-1-63}{Presupuesto de Mano de obra}}{33}\relax 
+\par 
