@@ -1,0 +1,66 @@
+Razones de liquidez:
+    Razón circulante: activo corriente / pasivo corriente 1.97
+        Por cada quetzal de pasivo hay 1.97 quetzales de activo. 
+    Prueba de ácido: (activo corriente - inventario)/ pasivo corriente:   1.51
+        Por cada quetzal que tengo de pasivo, tengo 1.51 para pagar con activos. 
+        
+Razones de solvencia:
+    Razón de la deuda total: Pasivo total / activo total
+        Si tiene 1, TODO lo debe, mientras más bajo mejor. 
+
+    Razón de la deuda capital: Pasivo total / capital
+        Mientras más cerca de uno es peor, (depende de la industria) mientras más lejos de uno es mejor. A veces las empresas se pueden endeudar más que otras. 
+        
+    Multiplicador: Activo total / capital total: 54%, 1.84, al dividir 1/1.84 nos da un porcentaje.
+        El el 54% de los activos están cubiertos por los accionistas o el capital.
+        Mientras más alto es mejor. 
+
+Razones de actividad o rotación de activos:
+    Rotación de inventarios: Costo / promedio inv: 7.09
+        Número de veces en el que el inventario es acabado y remplazado. Usualmente en un año.
+        Mientras más alto mejor. 
+
+    Días de ventas en inventario: 365 / Rotación de inventario 
+        Mientras menos, se está vendiendo más rápido, es la cantidad de días que toma vender todo un inventario. 
+        
+    Rotación de cuentas por cobrar: ventas / cuentas por cobrar 
+        Cantidad de veces en un año que se recogen las cuentas por cobrar. 
+        
+    Días de ventas en cuentas por cobrar: 365/rotación de cuentas por cobrar 
+        Cantidad de días que transcurre hasta recolectar las cuentas por cobrar en un año, es bueno si aumenta, malo si baja. 
+        
+    Rotación de activos fijos: Ventas / Activos fijos netos (es decir sin depreciación): 
+        De todos mis ingresos, qué tan eficientes somos para invertirlos en activos no corrientes. 
+        Mientras más alta de uno, mejor por que quiere decir que cada inversión sobre los activos no corrientes me están ayudando a generar más ventas. 
+        
+    Rotación de activos totales: Ventas / activos totales 
+        Del total de ventas, cuánto nos ayudan los activos para mantener ese total de activos totales. Tuvo un rendimiento de 0.85 quetzales por cada quetzal de activos totales. 
+        
+Medidas de rentabilidad:
+    Margen de utilidad: Utilidad neta / ventas
+        Qué porcentaje de las ventas es utilidad neta. 
+        
+    Rendimiento sobre los activos: utilidad neta / activos totales 
+        Mide el rendimiento de su activo a partir de la utilidad neta. De la cantidad de utilidad que se genera, cuál es la proporción de los activos totales que representa en proporción a la utilidad neta. (Depende de la industria)
+        
+    Rendimiento sobre el capital: Utilidad neta / capital total
+        Representa cada quetzal que invirtieron los accionistas, representa el rendimiento del capital en proporción a las utilidades netas. 
+
+
+Medidas de valor de mercado
+    Utilidades por acción: Utilidad neta / acciones en circulación
+        No lo vimos. 
+        
+    Razón de precio: precio por acción / utilidades por acción: 
+        No lo vimos. 
+        
+    Razón de valor de mercado a valor en libros: valor de mercado por acción / calor en libros por acción: 
+        No lo vimos. 
+
+-----------------------------------------------------
+Análisis vertical: 
+    Es la evaluación del funcionamiento de la empresa en un periodo ya especificado.
+    
+Análisis horizontal: 
+    Se realiza con Estados Financieros de diferentes períodos y se examina la tendencia que tienen las cuentas en el transcurso del tiempo ya establecido para su análisis.
+
