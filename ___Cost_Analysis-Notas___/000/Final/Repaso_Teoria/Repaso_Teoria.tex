@@ -1,0 +1,331 @@
+\documentclass{article}
+
+\usepackage{generalsnips}
+\usepackage{calculussnips}
+\usepackage[margin = 1in]{geometry}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+\usepackage{xpatch}
+\usepackage{fancyhdr}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{longtable}
+\title{Repaso Teoria}
+\date{2020 May 12}
+% \author{Cost Analysis}
+
+\begin{document}
+\maketitle
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Tipos de contabilidad}
+\begin{itemize}
+    \item \textbf{Contabilidad financiera: } se muestra una fecha determinada, todo lo que ha pasado en una empresa. Es más como presentar. Contabilidad orientada a externos. 
+    \item \textbf{Contabilidad administrativa: } se usan internamente para tomar en cuenta en el futuro y se utilizan los costos, es para uso interno. Esta es la contabilidad de costos. 
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+\section{Fórmulas}        
+\begin{center}
+    \begin{longtable}[c]{ | p{17cm} | }
+            \hline 
+            Mano de obra directa: MO - MO indirecta 
+            \\
+            \hline 
+            Costo de producción: MO directa + Materia directa + gastos indirectos 
+            \\
+            \hline 
+            Costos unitarios: $\displaystyle \frac{\text{ Costos de producción  }}{\text{ Total unidades producidas }} $ 
+            \\
+            \hline 
+            Costos de conversión: MO directa + costos indirectos de fabricación
+            \\
+            \hline 
+            Costos primos: materiales directos + MO directa 
+            \\
+            \hline 
+                 Para calcular el punto de equilibrio en unidades:
+                    \[
+                      \text{  Unidades en equilibrio  } = \frac{\sum \text{  (Todos los costos fijos)  }}{\text{  Precio de venta - Costos variables unitario (ó utilidad marginal)  }} 
+                    \]
+                    \begin{itemize}[label=\#]
+                        \item Recordar que hay que siempre redondear para arriba.
+                    \end{itemize}
+            \\
+            \hline 
+                 Calcular el equilibrio a partir de utilidad deseada:
+                    \[
+                      \text{  Cantidad de unidades que debo vender  } = \frac{\sum (\text{  costos fijos  }) + \text{  Utilidad deseada  }}{\text{  Margen de contribución  }} 
+                    \]
+                    \begin{itemize}[label=\#]
+                        \item El margen de contribución es ella utilidad marginal solo que en porcentaje.
+                    \end{itemize}
+            \\
+            \hline 
+                 Margen de contribución:
+                    \[
+                      \text{  Margen de contribución  } = \frac{\text{  Utilidad marginal  }\times 100}{\text{  Precio de venta  }} 
+                    \]
+            \\  
+            \hline  
+                 Para calcular la utilidad marginal:
+                    \[
+                      \text{  Utilidad marginal  } = \text{  Precio de venta } - \text{  Costos variables  }
+                    \]
+            \\
+            \hline 
+                 Para calcular la utilidad de operación:
+                    \[
+                      \text{  Utilidad en operación } = \text{  Ingreso total  } - \text{  Costo variable total  } - \text{  Costo fijo total  }
+                    \]
+            \\
+            \hline 
+                 Para calcular las unidades que debo vender para llegar al equilibrio cuando quiero una utilidad:
+                    \[
+                      \text{  Unidades para lograr el objetivo  } = \frac{\text{  Utilidad objetivo  } + \text{  Costo fijo total  }}{\text{  Margen de contribución por ``x'' unidad  }} 
+                    \]
+            \\
+            \hline 
+                 Para calcular las unidades con utilidad esperada e ISR:
+                    \[
+                      \text{  Unidades para lograr objetivo  } = \frac{\frac{\text{  Utilidad esperada  } } {(1-0.25)}  + \text{  Costos fijos totales  }}{ \text{  Margen de contribución por ``x'' unidad  }} 
+                    \]
+            \\
+            \hline 
+                 Para calcular el margen de seguridad:
+                    \[
+                      \text{  Margen de seguridad  } = \frac{\text{  Ventas esperadas  }-\text{  Precios de equilibrio  }}{\text{  Ventas esperadas  }} 
+                    \]
+                    \begin{itemize}[label=\#]
+                        \item Se considera alto a partir del 25\%
+                        \item Análisis de riego 
+                    \end{itemize}
+            \\
+            \hline 
+                 Para calcular el equilibrio tomando en cuenta varios productos:
+                    \[
+                      P_e \; \text{  en unidades  }= \frac{\sum \text{Costos fijos}}{\sum (\text{  media de la utilidad marginal de los productos  })} 
+                    \] 
+            \\
+            \hline
+    \end{longtable}
+\end{center}
+
+
+\section{Ejemplo de precio de equilibrio }
+\begin{center}
+    \begin{tabular}{ |p{3cm}|p{3cm}|p{3cm}|p{3cm}| }
+        \hline
+            &  Grandes & Medianas & Pequeñas \\
+        \hline
+            Costo variable unitario & Q8.00 & Q6.24 & Q4.8 \\ 
+            \hline
+            Mercado & 40\% & 20\% & 40\% \\ 
+            \hline
+            Precio de venta & Q12.00 & Q11.24 & Q9.50 \\ 
+            Utilidad marginal & 
+            Q12.00 - Q8.00 = Q4 & Q11.24 - Q6.24 = 5 & Q9.50 - Q 4.8 = Q4.7 \\ 
+            \hline
+            Utilidad marginal promedio & \multicolumn{3}{|c|}{4*40\% + 5*20\% * 4.7*40\% = 4.48} \\ 
+        \hline
+    \end{tabular}
+\end{center}
+
+\subsection{Punto de equilibrio en unidades y quetzales}
+\[
+  P_e = \frac{90,000}{4.44} = 20,271 \;\text{ unidades }
+\]
+Para cada producto: 
+\begin{center}
+    \begin{tabular}{ c }
+        \hline
+            Grandes: 20,271 * 40\% = 8,109 \\
+            Medianas: 20,271 * 20\% = 4,055 \\
+            Pequeñas: 20,271 * 40\% = 8,109 \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\subsection{Número de unidades para una utilidad después del ISR de Q20,000}
+\[
+  P_e = \frac{90,000 + \p{\cfrac[]{20,000}{1-0.25}} }{4.48} = 26277
+\]
+\begin{center}
+    \begin{tabular}{ c }
+        \hline
+            26277 * 40\% = 10510 unds $\rightarrow$ 10510 * 12 = Q26276.27 \\
+            26277 * 20\% = 5255 unds $\rightarrow$ 5255 * 11.24 = Q59070 \\
+            26277 * 40\% = 10510 unds $\rightarrow$ 10510 * 9.50 = Q99850 \\
+        \hline
+    \end{tabular}
+\end{center}
+
+
+\section{Estrategias de pricing}
+\begin{itemize}
+    \item Neutralización: entrar con el precio de l competencia.
+    \item Penetración: entrar con un precio artificialmente bajo temporalmente.
+    \item Skimming: diferenciación al principio y después baja. 
+    \item Psicología: 0.99
+    \item Productos económicos: empaques grandes a precios más bajos al por mayor.
+\end{itemize}
+
+
+%----------------------------------------------------------------------------------------
+\section{Interpretación de las razones}
+\begin{itemize}
+    \item \large\textbf{Razones de liquidez:}\normalsize
+    \begin{itemize}
+        \item Razón circulante: activo corriente / pasivo corriente 1.97
+            \begin{itemize}
+                \item Por cada quetzal de pasivo hay 1.97 quetzales de activo.  
+            \end{itemize}
+        \item Prueba de ácido: (activo corriente - inventario)/ pasivo corriente:  ej. 1.51
+            \begin{itemize}
+                \item Por cada quetzal que tengo de pasivo, tengo 1.51 para pagar con activos.
+            \end{itemize}
+    \end{itemize}
+
+    \item \large\textbf{Razones de solvencia:}\normalsize
+        \begin{itemize}
+            \item Razón de la deuda total: Pasivo total / activo total
+                \begin{itemize}
+                    \item Si tiene 1, TODO lo debe, mientras más bajo mejor. 
+                \end{itemize}
+
+            \item Razón de la deuda capital: Pasivo total / capital: 
+                \begin{itemize}
+                    \item Mientras más cerca de uno es peor, (depende de la industria) mientras más lejos de uno es mejor. A veces las empresas se pueden endeudar más que otras. 
+                \end{itemize}
+            \item Multiplicador: Activo total / capital total: 54\%, 1.84, al dividir 1/1.84 nos da un porcentaje.
+                \begin{itemize}
+                    \item El el 54\% de los activos están cubiertos por los accionistas o el capital.
+                    \item Mientras más alto es mejor. 
+                \end{itemize}
+        \end{itemize}
+
+    \item Razones de actividad o rotación de activos:
+        \begin{itemize}
+            \item Rotación de inventarios: Costo / promedio inventario: 7.09
+                \begin{itemize}
+                    \item Número de veces en el que el inventario es acabado y remplazado. Usualmente en un año.
+                    \item Mientras más alto mejor. 
+                \end{itemize}
+
+            \item Días de ventas en inventario: 365 / Rotación de inventario 
+                \begin{itemize}
+                    \item Mientras menos, se está vendiendo más rápido, es la cantidad de días que toma vender todo un inventario. 
+                \end{itemize}
+                
+            \item Rotación de cuentas por cobrar: ventas / promedio de cuentas por cobrar 
+                \begin{itemize}
+                    \item Cantidad de veces en un año que se recogen las cuentas por cobrar. 
+                \end{itemize}
+                
+            \item Días de ventas en cuentas por cobrar: 365/rotación de cuentas por cobrar 
+                \begin{itemize}
+                    \item Cantidad de días que transcurre hasta recolectar las cuentas por cobrar en un año, es bueno si aumenta, malo si baja. 
+                \end{itemize}
+                
+            \item Rotación de activos fijos: Ventas / Activos fijos netos (es decir sin depreciación): 
+                \begin{itemize}
+                    \item De todos mis ingresos, qué tan eficientes somos para invertirlos en activos no corrientes. 
+                    \item Mientras más alta de uno, mejor por que quiere decir que cada inversión sobre los activos no corrientes me están ayudando a generar más ventas. 
+                \end{itemize}
+                
+            \item Rotación de activos totales: Ventas / activos totales 
+                \begin{itemize}
+                    \item Del total de ventas, cuánto nos ayudan los activos para mantener ese total de activos totales. Tuvo un rendimiento de 0.85 quetzales por cada quetzal de activos totales. 
+                \end{itemize}
+        \end{itemize}
+        
+    \item \large\textbf{Medidas de rentabilidad:}\normalsize
+        \begin{itemize}
+            \item Margen de utilidad: Utilidad neta / ventas
+                \begin{itemize}
+                    \item Qué porcentaje de las ventas es utilidad neta. 
+                \end{itemize}
+                
+            \item Rendimiento sobre los activos: utilidad neta / activos totales 
+                \begin{itemize}
+                    \item Mide el rendimiento de su activo a partir de la utilidad neta. De la cantidad de utilidad que se genera, cuál es la proporción de los activos totales que representa en proporción a la utilidad neta. (Depende de la industria)
+                \end{itemize}
+                
+            \item Rendimiento sobre el capital: Utilidad neta / capital total
+                \begin{itemize}
+                    \item Representa cada quetzal que invirtieron los accionistas, representa el rendimiento del capital en proporción a las utilidades netas. 
+                \end{itemize}
+        \end{itemize}
+
+    \item \large\textbf{Medidas de valor de mercado:}\normalsize
+        \begin{itemize}
+            \item Utilidades por acción: Utilidad neta / acciones en circulación
+                \begin{itemize}
+                    \item No lo vimos. 
+                \end{itemize}
+                
+            \item Razón de precio: precio por acción / utilidades por acción: 
+                \begin{itemize}
+                    \item No lo vimos. 
+                \end{itemize}
+                
+            \item Razón de valor de mercado a valor en libros: valor de mercado por acción / calor en libros por acción: 
+                \begin{itemize}
+                    \item No lo vimos. 
+                \end{itemize}
+        \end{itemize}
+    \item \large\textbf{Análisis vertical: }\normalsize
+        \begin{itemize}
+            \item Es la evaluación del funcionamiento de la empresa en un periodo ya especificado.
+        \end{itemize}
+    
+    \item \large\textbf{Análisis horizontal: }\normalsize
+        \begin{itemize}
+            \item Se realiza con Estados Financieros de diferentes períodos y se examina la tendencia que tienen las cuentas en el transcurso del tiempo ya establecido para su análisis.
+        \end{itemize}
+\end{itemize}
+
+
+\section{Costos}
+\begin{itemize}
+    \item Clasificación de costos: 
+        \begin{itemize}
+            \item Costo directo: costos que son rastreables (que se pueden medir por unidad).
+            \item Costo indirecto: costos que no son fácilmente rastreables. 
+            \item Costo variable: se paga proporcional a la cantidad, depende de la cantidad. 
+            \item Costo fijo: se paga una magnitud fija por servicio, no depende de cantidad. 
+        \end{itemize}
+    
+    \item Costos mixtos: 
+        \begin{itemize}
+            \item Costo semivarible: parte fija y parte variable. 
+            \item Costo escalonado: cada cierto nivel de producción se incrementan los costos fijos. 
+        \end{itemize}
+
+    \item Elementos del costo: 
+        \begin{itemize}
+            \item Material: materia prima, directa o indirecta.
+            \item Mano de obra: Directo o indirecto.
+            \item Gastos fabricación: gastos adicionales que no tienen que ver ni con el material no con MO. \# Solo incluir de fabricación. 
+        \end{itemize}
+
+    \item Relación con la producción:
+        \begin{itemize}
+            \item Costo primo: materiales directos + mano de obra directa.
+            \item Costos de conversión: mano de obra directa + costos indirectos de fabricación (incluye materiales indirectos + mano de obra indirecta, todo lo que diga indirecto)
+            \item Costo de producción: mano de obra directa +  materiales directos + gastos indirectos de fabricación. (TODO)
+            \item Costo unitario: elementos del costo / número de unidades a producir.
+        \end{itemize}
+\end{itemize}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+
